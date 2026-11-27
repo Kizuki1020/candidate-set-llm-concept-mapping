@@ -1,0 +1,222 @@
+{
+  "A": {
+    "record_condition_cells": 600,
+    "records": 150
+  },
+  "B": {
+    "record_condition_cells": 600,
+    "records": 150
+  },
+  "length_summary": [
+    {
+      "domain": "A",
+      "condition": "HC",
+      "n": 150,
+      "median_ratio": 1.0954545454545455,
+      "mean_ratio": 1.5204380804380804,
+      "n_longest_including_ties": 7,
+      "n_strictly_longest": 7,
+      "n_at_least_median": 81,
+      "n_above_median": 80
+    },
+    {
+      "domain": "A",
+      "condition": "RO",
+      "n": 150,
+      "median_ratio": 1.7142857142857142,
+      "mean_ratio": 2.5179126984126983,
+      "n_longest_including_ties": 52,
+      "n_strictly_longest": 48,
+      "n_at_least_median": 109,
+      "n_above_median": 98
+    },
+    {
+      "domain": "A",
+      "condition": "SC",
+      "n": 150,
+      "median_ratio": 1.0909090909090908,
+      "mean_ratio": 1.5163039694604912,
+      "n_longest_including_ties": 15,
+      "n_strictly_longest": 14,
+      "n_at_least_median": 81,
+      "n_above_median": 77
+    },
+    {
+      "domain": "B",
+      "condition": "HC",
+      "n": 150,
+      "median_ratio": 0.8452380952380952,
+      "mean_ratio": 0.9764217711539693,
+      "n_longest_including_ties": 2,
+      "n_strictly_longest": 2,
+      "n_at_least_median": 63,
+      "n_above_median": 55
+    },
+    {
+      "domain": "B",
+      "condition": "RO",
+      "n": 150,
+      "median_ratio": 0.5384615384615384,
+      "mean_ratio": 0.6545227100541307,
+      "n_longest_including_ties": 0,
+      "n_strictly_longest": 0,
+      "n_at_least_median": 22,
+      "n_above_median": 19
+    },
+    {
+      "domain": "B",
+      "condition": "SC",
+      "n": 150,
+      "median_ratio": 0.875,
+      "mean_ratio": 0.9679994697997795,
+      "n_longest_including_ties": 3,
+      "n_strictly_longest": 2,
+      "n_at_least_median": 62,
+      "n_above_median": 52
+    }
+  ],
+  "membership_matches": [
+    {
+      "domain": "A",
+      "condition": "HC",
+      "outputs": 450,
+      "raw_matches": 438,
+      "parsed_matches": 438
+    },
+    {
+      "domain": "A",
+      "condition": "RO",
+      "outputs": 450,
+      "raw_matches": 447,
+      "parsed_matches": 447
+    },
+    {
+      "domain": "A",
+      "condition": "SC",
+      "outputs": 450,
+      "raw_matches": 444,
+      "parsed_matches": 444
+    },
+    {
+      "domain": "B",
+      "condition": "HC",
+      "outputs": 450,
+      "raw_matches": 450,
+      "parsed_matches": 450
+    },
+    {
+      "domain": "B",
+      "condition": "RO",
+      "outputs": 450,
+      "raw_matches": 447,
+      "parsed_matches": 447
+    },
+    {
+      "domain": "B",
+      "condition": "SC",
+      "outputs": 450,
+      "raw_matches": 450,
+      "parsed_matches": 450
+    }
+  ],
+  "mass_vs_gain": [
+    {
+      "domain": "A",
+      "contrast": "HC-UC",
+      "n": 150,
+      "r": -0.09536765997822819,
+      "p": 0.2456876001021398
+    },
+    {
+      "domain": "A",
+      "contrast": "RO-HC",
+      "n": 150,
+      "r": 0.15000944373173294,
+      "p": 0.06691483583954255
+    },
+    {
+      "domain": "B",
+      "contrast": "HC-UC",
+      "n": 150,
+      "r": -0.0820671778907028,
+      "p": 0.3180899964606659
+    },
+    {
+      "domain": "B",
+      "contrast": "RO-HC",
+      "n": 150,
+      "r": 0.02254875973587543,
+      "p": 0.7841696473748072
+    }
+  ],
+  "exact_missing": 24,
+  "unique_prefix_among_missing": 24,
+  "RO_HC_OLS": [
+    {
+      "term": "intercept",
+      "estimate": 0.29678093583056886,
+      "se": 0.03968999751663536,
+      "p": 8.645791652668434e-13
+    },
+    {
+      "term": "mass",
+      "estimate": 0.029650553460612065,
+      "se": 0.01620089085698242,
+      "p": 0.06822845385707242
+    },
+    {
+      "term": "domain_B",
+      "estimate": 0.004913238783690315,
+      "se": 0.05643167016887396,
+      "p": 0.9306784967999888
+    },
+    {
+      "term": "mass_by_B",
+      "estimate": -0.024857773136540313,
+      "se": 0.023717214362410807,
+      "p": 0.2954522140140482
+    }
+  ],
+  "resource": {
+    "concept_sources": {
+      "test_dataset_label_space": 131,
+      "daiweiji_modern_definition": 440
+    },
+    "link_records": {
+      "case_annotation": 339,
+      "daiweiji_hasMSC": 989
+    },
+    "distinct_edges": 1259,
+    "probe_reference_source": {
+      "test_dataset_label_space": 122
+    },
+    "permutation_audit": {
+      "n": 160,
+      "size_mean": 72.14375,
+      "size_min": 50,
+      "size_max": 101,
+      "size_median": 53.5,
+      "chance_mean": 0.015388890759150661,
+      "chance_max": 0.02,
+      "size_vs_difficulty_corr": 0.05567428930398863,
+      "n_below_min": 0,
+      "n_above_max": 4,
+      "permuted_gold_coverage": 0.225,
+      "structural_lift": 0.775
+    }
+  },
+  "overlap": {
+    "all": {
+      "n": 150,
+      "id": 34,
+      "term": 87,
+      "term_definition": 73
+    },
+    "L3": {
+      "n": 30,
+      "id": 3,
+      "term": 10,
+      "term_definition": 9
+    }
+  }
+}

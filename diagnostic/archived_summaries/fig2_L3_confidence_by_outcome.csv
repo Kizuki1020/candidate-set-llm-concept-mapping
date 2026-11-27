@@ -1,0 +1,4 @@
+﻿model,correct_NONE_mean_conf,n_correct_NONE,OA_mean_conf,n_OA
+DeepSeek-Chat,96.5,10,87.5,146
+GPT-4o-mini,90.0,18,84.9,138
+Claude Haiku 4.5,94.6,27,74.9,129

@@ -1,0 +1,30 @@
+{
+  "n": 160,
+  "draws": 100000,
+  "generator": "numpy PCG64",
+  "simulation_seed": 20261127,
+  "replay_seed": 20260101,
+  "replay_generator": "Python random.Random.shuffle",
+  "list_source": "construction_audit/pre_injection_lists_160.json",
+  "original_hits": 156,
+  "injected": 4,
+  "archived_hits": 36,
+  "replay_hits": 28,
+  "analytical_mean_hits": 27.4125,
+  "analytical_sd_hits": 4.501411488102384,
+  "simulated_mean_hits": 27.3994,
+  "simulated_sd_hits": 4.486811892068749,
+  "discrete_quantiles_025_50_975": [
+    19,
+    27,
+    36
+  ],
+  "count_percentiles": {
+    "28": 0.6055,
+    "36": 0.9757
+  },
+  "probability_mass_at_observed_counts": {
+    "28": 0.08591,
+    "36": 0.01512
+  }
+}

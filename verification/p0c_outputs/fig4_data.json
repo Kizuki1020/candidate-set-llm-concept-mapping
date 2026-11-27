@@ -1,0 +1,122 @@
+{
+  "retrievers": {
+    "A": {
+      "HC_acc": 0.273,
+      "RO_acc": 0.567,
+      "bge-m3": {
+        "n": 150,
+        "top1_acc": 0.373,
+        "ci95": [
+          0.3,
+          0.453
+        ],
+        "mcnemar_vs_HC": {
+          "b": 24,
+          "c": 9,
+          "p": 0.0135
+        },
+        "holm_p_6fam": 0.0677,
+        "holm_p_domain": 0.0271
+      },
+      "bge-reranker-base": {
+        "n": 150,
+        "top1_acc": 0.367,
+        "ci95": [
+          0.294,
+          0.446
+        ],
+        "mcnemar_vs_HC": {
+          "b": 26,
+          "c": 12,
+          "p": 0.0336
+        },
+        "holm_p_6fam": 0.1007,
+        "holm_p_domain": 0.0336
+      },
+      "bge-reranker-v2-m3": {
+        "n": 150,
+        "top1_acc": 0.407,
+        "ci95": [
+          0.331,
+          0.487
+        ],
+        "mcnemar_vs_HC": {
+          "b": 33,
+          "c": 13,
+          "p": 0.0045
+        },
+        "holm_p_6fam": 0.0272,
+        "holm_p_domain": 0.0136
+      }
+    },
+    "B": {
+      "HC_acc": 0.467,
+      "RO_acc": 0.767,
+      "bge-m3": {
+        "n": 150,
+        "top1_acc": 0.573,
+        "ci95": [
+          0.493,
+          0.65
+        ],
+        "mcnemar_vs_HC": {
+          "b": 35,
+          "c": 19,
+          "p": 0.0402
+        },
+        "holm_p_6fam": 0.1007,
+        "holm_p_domain": 0.0804
+      },
+      "bge-reranker-base": {
+        "n": 150,
+        "top1_acc": 0.54,
+        "ci95": [
+          0.46,
+          0.618
+        ],
+        "mcnemar_vs_HC": {
+          "b": 33,
+          "c": 22,
+          "p": 0.177
+        },
+        "holm_p_6fam": 0.177,
+        "holm_p_domain": 0.177
+      },
+      "bge-reranker-v2-m3": {
+        "n": 150,
+        "top1_acc": 0.58,
+        "ci95": [
+          0.5,
+          0.656
+        ],
+        "mcnemar_vs_HC": {
+          "b": 33,
+          "c": 16,
+          "p": 0.0213
+        },
+        "holm_p_6fam": 0.0852,
+        "holm_p_domain": 0.0639
+      }
+    }
+  },
+  "ro_hc_by_mapping": {
+    "equivalence": {
+      "n": 125,
+      "mean": 0.272,
+      "ci95": [
+        0.2,
+        0.352
+      ],
+      "wilcoxon_p": 5.511207251989957e-09
+    },
+    "generalization": {
+      "n": 25,
+      "mean": 0.44,
+      "ci95": [
+        0.16,
+        0.68
+      ],
+      "wilcoxon_p": 0.004508698364904236
+    }
+  }
+}

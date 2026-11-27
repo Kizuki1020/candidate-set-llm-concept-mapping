@@ -1,0 +1,8 @@
+deepseek,gpt4omini,claude,n
+False,False,False,3
+False,True,False,3
+False,True,True,4
+True,False,False,5
+True,False,True,12
+True,True,False,16
+True,True,True,138

@@ -1,0 +1,5 @@
+﻿model,expert_accuracy_pct,L3_overalignment_pct,NONE_output_pct,errors_conf_ge80_pct,L3_correct_NONE_mean_conf,L3_OA_mean_conf
+DeepSeek-Chat,38.4,94.5,5.5,99.8,96.5,87.6
+GPT-4o-mini,26.0,89.0,11.0,97.4,,
+Claude Haiku 4.5,23.7,85.1,14.9,35.8,,
+Qwen3-32B,29.6,93.9,6.1,69.6,92.7,88.6

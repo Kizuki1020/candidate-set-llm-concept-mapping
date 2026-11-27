@@ -1,0 +1,16 @@
+{
+  "historical": {
+    "n": 160,
+    "permuted_gold_coverage": 0.225,
+    "structural_lift": 0.775
+  },
+  "current_replay": {
+    "n": 160,
+    "permuted_gold_coverage": 0.175,
+    "structural_lift": 0.825,
+    "source": "Archived pre-injection lists in construction_audit/pre_injection_lists_160.json"
+  },
+  "source": "Recovered 160-record inputs with archived pre-injection lists; fixed archived ontology.",
+  "lists_built_with_python": "3.9.6",
+  "changed_pre_injection_lists": 0
+}

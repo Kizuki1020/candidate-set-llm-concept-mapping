@@ -1,0 +1,279 @@
+{
+  "total": 53,
+  "passed": 53,
+  "failed": 0,
+  "failed_checks": [],
+  "results": [
+    {
+      "check": "A test_cases == 150",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "B test_cases == 150",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "A gold_injected == 4 (N0694/N0695/N0646/N0692)",
+      "pass": true,
+      "detail": "got ['N0646', 'N0692', 'N0694', 'N0695']"
+    },
+    {
+      "check": "A gold_in_candidates == 150/150",
+      "pass": true,
+      "detail": "got 150"
+    },
+    {
+      "check": "B candidate sizes within [50, 84]",
+      "pass": true,
+      "detail": "min=50, max=84"
+    },
+    {
+      "check": "B mapping_type == {equivalence, generalization}",
+      "pass": true,
+      "detail": "got {'generalization', 'equivalence'}"
+    },
+    {
+      "check": "exp1_A: 1800 rows, 150 ids x 12",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "exp1_A: conditions == UC/HC/RO/SC",
+      "pass": true,
+      "detail": "got {'UC', 'HC', 'SC', 'RO'}"
+    },
+    {
+      "check": "exp1_A: reps == 0/1/2",
+      "pass": true,
+      "detail": "got {np.int64(0), np.int64(1), np.int64(2)}"
+    },
+    {
+      "check": "exp1_A: no NaN in correct/pred/gold",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "exp1_B: 1800 rows, 150 ids x 12",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "exp1_B: conditions == UC/HC/RO/SC",
+      "pass": true,
+      "detail": "got {'UC', 'HC', 'SC', 'RO'}"
+    },
+    {
+      "check": "exp1_B: reps == 0/1/2",
+      "pass": true,
+      "detail": "got {np.int64(0), np.int64(1), np.int64(2)}"
+    },
+    {
+      "check": "exp1_B: no NaN in correct/pred/gold",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "exp1 structure (both domains)",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "baselines: 900 rows = 150 x 2 domains x 3 methods",
+      "pass": true,
+      "detail": "rows=900"
+    },
+    {
+      "check": "baselines methods complete",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "mass_A: 150 rows",
+      "pass": true,
+      "detail": "rows=150"
+    },
+    {
+      "check": "mass_B: 150 rows",
+      "pass": true,
+      "detail": "rows=150"
+    },
+    {
+      "check": "mass_A ids == exp1_A ids",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Table 2 A.UC == 0.033",
+      "pass": true,
+      "detail": "got 0.033"
+    },
+    {
+      "check": "Table 2 A.HC == 0.273",
+      "pass": true,
+      "detail": "got 0.273"
+    },
+    {
+      "check": "Table 2 A.RO == 0.567",
+      "pass": true,
+      "detail": "got 0.567"
+    },
+    {
+      "check": "Table 2 A.SC == 0.26",
+      "pass": true,
+      "detail": "got 0.26"
+    },
+    {
+      "check": "A: RO-HC mean == 0.293 (within .002)",
+      "pass": true,
+      "detail": "got 0.293"
+    },
+    {
+      "check": "A: RO-HC Wilcoxon p < 0.001",
+      "pass": true,
+      "detail": "p=2.14e-10"
+    },
+    {
+      "check": "Table 2 B.UC == 0.04",
+      "pass": true,
+      "detail": "got 0.04"
+    },
+    {
+      "check": "Table 2 B.HC == 0.467",
+      "pass": true,
+      "detail": "got 0.467"
+    },
+    {
+      "check": "Table 2 B.RO == 0.767",
+      "pass": true,
+      "detail": "got 0.767"
+    },
+    {
+      "check": "Table 2 B.SC == 0.627",
+      "pass": true,
+      "detail": "got 0.627"
+    },
+    {
+      "check": "B: RO-HC mean == 0.3 (within .002)",
+      "pass": true,
+      "detail": "got 0.300"
+    },
+    {
+      "check": "B: RO-HC Wilcoxon p < 0.001",
+      "pass": true,
+      "detail": "p=1.29e-10"
+    },
+    {
+      "check": "A bge-m3 vs HC: McNemar p=0.0135, Holm(6-family)=0.0677",
+      "pass": true,
+      "detail": "got 0.0677, expected ~0.0675"
+    },
+    {
+      "check": "A bge-reranker-base vs HC: McNemar p=0.0336, Holm(6-family)=0.1007",
+      "pass": true,
+      "detail": "got 0.1007, expected ~0.1007"
+    },
+    {
+      "check": "A bge-reranker-v2-m3 vs HC: McNemar p=0.0045, Holm(6-family)=0.0272",
+      "pass": true,
+      "detail": "got 0.0272, expected ~0.0272"
+    },
+    {
+      "check": "B bge-m3 vs HC: McNemar p=0.0402, Holm(6-family)=0.1007",
+      "pass": true,
+      "detail": "got 0.1007, expected ~0.1007"
+    },
+    {
+      "check": "B bge-reranker-base vs HC: McNemar p=0.1770, Holm(6-family)=0.1770",
+      "pass": true,
+      "detail": "got 0.1770, expected ~0.177"
+    },
+    {
+      "check": "B bge-reranker-v2-m3 vs HC: McNemar p=0.0213, Holm(6-family)=0.0852",
+      "pass": true,
+      "detail": "got 0.0852, expected ~0.0852"
+    },
+    {
+      "check": "A.HC: identical-rep count == 149/150",
+      "pass": true,
+      "detail": "got 149"
+    },
+    {
+      "check": "A.RO: identical-rep count == 150/150",
+      "pass": true,
+      "detail": "got 150"
+    },
+    {
+      "check": "A.SC: identical-rep count == 150/150",
+      "pass": true,
+      "detail": "got 150"
+    },
+    {
+      "check": "A.UC: identical-rep count == 150/150",
+      "pass": true,
+      "detail": "got 150"
+    },
+    {
+      "check": "B.HC: identical-rep count == 150/150",
+      "pass": true,
+      "detail": "got 150"
+    },
+    {
+      "check": "B.RO: identical-rep count == 149/150",
+      "pass": true,
+      "detail": "got 149"
+    },
+    {
+      "check": "B.SC: identical-rep count == 150/150",
+      "pass": true,
+      "detail": "got 150"
+    },
+    {
+      "check": "B.UC: identical-rep count == 146/150",
+      "pass": true,
+      "detail": "got 146"
+    },
+    {
+      "check": "marker records == 7",
+      "pass": true,
+      "detail": "got 7"
+    },
+    {
+      "check": "correct rejection UC == 0/21",
+      "pass": true,
+      "detail": "got 0"
+    },
+    {
+      "check": "correct rejection HC == 3/21",
+      "pass": true,
+      "detail": "got 3"
+    },
+    {
+      "check": "correct rejection RO == 9/21",
+      "pass": true,
+      "detail": "got 9"
+    },
+    {
+      "check": "correct rejection SC == 6/21",
+      "pass": true,
+      "detail": "got 6"
+    },
+    {
+      "check": "A RO-HC excl injected == 0.301 (within .003)",
+      "pass": true,
+      "detail": "got 0.301"
+    },
+    {
+      "check": "A RO-HC excl injected p < 1e-5",
+      "pass": true,
+      "detail": "p=2.14e-10"
+    }
+  ],
+  "env": {
+    "python": "3.13.5",
+    "numpy": "2.5.5",
+    "pandas": "3.1.1",
+    "scipy": "1.18.1"
+  }
+}

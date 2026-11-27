@@ -1,0 +1,6546 @@
+{
+  "concept_source": {
+    "瞄准树顶": "test_dataset_label_space",
+    "粗米饭": "test_dataset_label_space",
+    "由一点出发的两条射线形成的图形，用于度量旋转和方向。": "test_dataset_label_space",
+    "解决特定问题的通用计算模型": "test_dataset_label_space",
+    "不足与适足情形的插值；deficiency with exact-fit interpolation": "test_dataset_label_space",
+    "黄金；gold": "test_dataset_label_space",
+    "移项": "test_dataset_label_space",
+    "燕子": "test_dataset_label_space",
+    "斜边比率": "test_dataset_label_space",
+    "比例前项（antecedent）": "test_dataset_label_space",
+    "股弦和": "test_dataset_label_space",
+    "球冠曲面（spherical cap surface）": "test_dataset_label_space",
+    "相减": "test_dataset_label_space",
+    "曲池/曲面拟柱体（curved frustum）；中国数学特有几何体": "test_dataset_label_space",
+    "被乘数": "test_dataset_label_space",
+    "逐位移位（shifting position step by step）": "test_dataset_label_space",
+    "正方形/方形": "test_dataset_label_space",
+    "分数除法倒数法": "test_dataset_label_space",
+    "三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax²+a³中的角色": "test_dataset_label_space",
+    "盘池（同刍童公式）；中国数学特有几何体": "test_dataset_label_space",
+    "无现代直接对应词": "test_dataset_label_space",
+    "代入运算": "test_dataset_label_space",
+    "弓形面积近似公式": "test_dataset_label_space",
+    "束/捆（量词）": "test_dataset_label_space",
+    "丈（约3.33m）": "test_dataset_label_space",
+    "升（基准容积）": "test_dataset_label_space",
+    "四元一次方程组": "test_dataset_label_space",
+    "直接映射": "test_dataset_label_space",
+    "面积单位换算下的矩形面积公式": "test_dataset_label_space",
+    "内切圆": "test_dataset_label_space",
+    "符号": "test_dataset_label_space",
+    "比率传递性；等价比率集合": "test_dataset_label_space",
+    "加法运算的动词形式": "test_dataset_label_space",
+    "等级权重序列（rank weight sequence）": "test_dataset_label_space",
+    "被除数/常数项": "test_dataset_label_space",
+    "三维空间中的几何对象，具有体积，如多面体、球体等。": "test_dataset_label_space",
+    "相减消元": "test_dataset_label_space",
+    "直角三角形内接正方形": "test_dataset_label_space",
+    "综合考虑运费与粟价的均摊赋税算法；proportional tax allocation accounting for transport cost and grain price": "test_dataset_label_space",
+    "具有恒定半径的封闭平面曲线": "test_dataset_label_space",
+    "寸（约3.33cm）": "test_dataset_label_space",
+    "共线": "test_dataset_label_space",
+    "多项比例与四项比例的统一性；比例算法归一化": "test_dataset_label_space",
+    "三角形面积公式 S=bh/2": "test_dataset_label_space",
+    "角度为90°的角，是欧几里得几何的基本概念，用于垂直关系定义。": "test_dataset_label_space",
+    "钱（货币）": "test_dataset_label_space",
+    "两个几何实体（如点或线）完全重叠，具有相同位置。": "test_dataset_label_space",
+    "里（约500m）；行程单位": "test_dataset_label_space",
+    "零维几何对象，用于定义空间中的位置，是几何的基本元素。": "test_dataset_label_space",
+    "面积量纲单位": "test_dataset_label_space",
+    "被除数（dividend）；现代\"实数\"义已不同": "test_dataset_label_space",
+    "面积单位；area unit": "test_dataset_label_space",
+    "余矢函数；$\\text{covers}(x) = 1 - \\sin(x)$ （现代较少使用）": "test_dataset_label_space",
+    "以动物隐喻速率的题目载体；animal metaphor for speed problems": "test_dataset_label_space",
+    "排列/布列": "test_dataset_label_space",
+    "代数中表示未知数或变量的符号，用于方程和表达式。": "test_dataset_label_space",
+    "首商/初始近似值（first digit estimate）；iterative approximation": "test_dataset_label_space",
+    "圆或球体中从中心到边界点的距离，是几何度量的基本量。": "test_dataset_label_space",
+    "超过/大于": "test_dataset_label_space",
+    "平方": "test_dataset_label_space",
+    "数的二次幂，或正方形的面积，用于代数和几何。": "test_dataset_label_space",
+    "两个或多个数值相加的结果，用于数列和级数求和。": "test_dataset_label_space",
+    "斜向恰好通过": "test_dataset_label_space",
+    "Steinmetz solid（双柱交集）；球体积推导的关键几何体": "test_dataset_label_space",
+    "代入": "test_dataset_label_space",
+    "雇工每日工资；daily labor wage": "test_dataset_label_space",
+    "劳动效率的折算原理；不同劳动条件下的效率换算": "test_dataset_label_space",
+    "函数log_b(x)是指数函数的反函数，用于简化乘除运算。": "test_dataset_label_space",
+    "贡米饭": "test_dataset_label_space",
+    "对角线长度": "test_dataset_label_space",
+    "反比例分配原理（inverse proportional principle）": "test_dataset_label_space",
+    "丢番图整数解的两个值": "test_dataset_label_space",
+    "线性方程组": "test_dataset_label_space",
+    "月（时间）": "test_dataset_label_space",
+    "廉（intermediate coefficient）；对应(a+x)³展开中的3a²与3ax项": "test_dataset_label_space",
+    "几何图形的支撑边或直角边": "test_dataset_label_space",
+    "数学函数值、统计数据等的表格形式展示，用于数据组织。": "test_dataset_label_space",
+    "乘法": "test_dataset_label_space",
+    "面积单位(100亩)；area unit (100 mu = 1 qing)": "test_dataset_label_space",
+    "椭圆中通过两个焦点的较长直径，决定椭圆的大小和形状。": "test_dataset_label_space",
+    "方程行/列": "test_dataset_label_space",
+    "特殊的矩形和菱形，具有高度对称性，是几何中的基本图形。": "test_dataset_label_space",
+    "除以2（halving）": "test_dataset_label_space",
+    "容量单位；volume unit": "test_dataset_label_space",
+    "对应边": "test_dataset_label_space",
+    "除数（divisor）": "test_dataset_label_space",
+    "尺（约0.33m）": "test_dataset_label_space",
+    "隅（corner position coefficient）；多项式最高次项系数": "test_dataset_label_space",
+    "圆的周长，计算公式为2πr，其中r为半径。": "test_dataset_label_space",
+    "2倍/乘以2": "test_dataset_label_space",
+    "乘法的逆运算": "test_dataset_label_space",
+    "堑堵体积 V=a×b×h/2；half-cuboid prism volume": "test_dataset_label_space",
+    "与给定直线或平面形成直角的直线，用于几何构造和正交性。": "test_dataset_label_space",
+    "箭羽（无现代专用计量词）": "test_dataset_label_space",
+    "下等马": "test_dataset_label_space",
+    "素绢": "test_dataset_label_space",
+    "双假设/试位法；regula falsi / double false position": "test_dataset_label_space",
+    "描述图形等边等角或高度对称，如正多边形或正多面体。": "test_dataset_label_space",
+    "牵引芦苇至岸边": "test_dataset_label_space",
+    "距离/面积换算单位": "test_dataset_label_space",
+    "分数减法 a/b-c/d=(ad-bc)/bd": "test_dataset_label_space",
+    "粗麦粉": "test_dataset_label_space",
+    "两个数或量的除法关系，表示相对大小，用于相似形和等比数列。": "test_dataset_label_space",
+    "求解过程的最终输出": "test_dataset_label_space",
+    "粟（基准粮食）": "test_dataset_label_space",
+    "带分数（mixed number）": "test_dataset_label_space",
+    "矩形（rectangle）": "test_dataset_label_space",
+    "圆的 / 球形的 / 舍入（数值）": "test_dataset_label_space",
+    "通过消去公共因子或项将表达式化为最简形式。": "test_dataset_label_space",
+    "等级分配原则（rank-based allocation）": "test_dataset_label_space",
+    "井": "test_dataset_label_space",
+    "单位换算比例 y=ax/b": "test_dataset_label_space",
+    "行消元（消去法）": "test_dataset_label_space",
+    "无现代专用词": "test_dataset_label_space",
+    "亩": "test_dataset_label_space",
+    "均等输送役卒；equalized conscription transport": "test_dataset_label_space",
+    "由球体积求直径：d=∛(6V/π)；古代π值偏小导致系统误差": "test_dataset_label_space",
+    "方程f(x)=0的解，或数的方根，如平方根、立方根。": "test_dataset_label_space",
+    "除数（divisor）；现代\"法则/模\"义不同": "test_dataset_label_space",
+    "精制米饭": "test_dataset_label_space",
+    "通分齐同；reduction to common denominator": "test_dataset_label_space",
+    "第四比例项": "test_dataset_label_space",
+    "农业面积单位": "test_dataset_label_space",
+    "羊；sheep": "test_dataset_label_space",
+    "圆周率π≈3.14159...": "test_dataset_label_space",
+    "椭圆中与长轴垂直的较短直径，决定椭圆的扁平程度。": "test_dataset_label_space",
+    "树木/木材": "test_dataset_label_space",
+    "球冠侧面积（错误公式）": "test_dataset_label_space",
+    "横向超出量": "test_dataset_label_space",
+    "先乘后除策略（保持精度）；proportional scaling": "test_dataset_label_space",
+    "相乘": "test_dataset_label_space",
+    "在几何光学中以直线（光线）模拟": "daiweiji_modern_definition",
+    "形如 P(x)/Q(x) 的函数": "daiweiji_modern_definition",
+    "曲线切线下方的水平投影": "daiweiji_modern_definition",
+    "法线方向与切面方向的正交状态": "daiweiji_modern_definition",
+    "随时间变化的瞬时速率": "daiweiji_modern_definition",
+    "如 +, -, =, &gt; 等": "daiweiji_modern_definition",
+    "坐标满足多项式方程 f(x,y)=0 的点集": "daiweiji_modern_definition",
+    "曲线内部连接两点的直线段": "daiweiji_modern_definition",
+    "圆的边界长度或其计算公式 2πr": "daiweiji_modern_definition",
+    "平面封闭的十边图形": "daiweiji_modern_definition",
+    "一组数共有的因数中最大的一个": "daiweiji_modern_definition",
+    "弦；连接曲线上两点的线段": "daiweiji_modern_definition",
+    "极大值/最大值": "daiweiji_modern_definition",
+    "同 Asymptote": "daiweiji_modern_definition",
+    "如 ax2+bx+c": "daiweiji_modern_definition",
+    "几何级数中项与项之间的恒定倍数": "daiweiji_modern_definition",
+    "函数在区间内呈单调上升状态": "daiweiji_modern_definition",
+    "正十二面体（柏拉图多面体之一）": "daiweiji_modern_definition",
+    "分数形式的数值集合 Q": "daiweiji_modern_definition",
+    "动圆/发生圆；生成旋轮线的圆": "daiweiji_modern_definition",
+    "一维流形，解析几何的研究对象": "daiweiji_modern_definition",
+    "幂运算，求数的 n 次方": "daiweiji_modern_definition",
+    "椭圆中穿过两个焦点的最长轴线": "daiweiji_modern_definition",
+    "具有单对称轴或双对称轴的凸曲线": "daiweiji_modern_definition",
+    "集合中的成员或构成几何图形的点线面": "daiweiji_modern_definition",
+    "对边相等且平行的封闭图形": "daiweiji_modern_definition",
+    "数值逼近或统计推断的初步过程": "daiweiji_modern_definition",
+    "以特定底数为基准的幂指数": "daiweiji_modern_definition",
+    "笛卡尔坐标系的四个扇区": "daiweiji_modern_definition",
+    "长度、面积、体积等测量的基本单位。": "daiweiji_modern_definition",
+    "球体的几何中心": "daiweiji_modern_definition",
+    "数的 1/3 次幂": "daiweiji_modern_definition",
+    "几何图形的对称中心或圆心": "daiweiji_modern_definition",
+    "曲线所有法线的包络线": "daiweiji_modern_definition",
+    "包含常数项 C 的原函数族": "daiweiji_modern_definition",
+    "若干项相加的总量": "daiweiji_modern_definition",
+    "共享渐近线且主轴互相垂直的双曲线": "daiweiji_modern_definition",
+    "表达两个数学表达式相等关系的命题": "daiweiji_modern_definition",
+    "如因式分解或向量分解": "daiweiji_modern_definition",
+    "变换理论中的线性或射影映射": "daiweiji_modern_definition",
+    "具有特定属性的区域或环带": "daiweiji_modern_definition",
+    "椭圆中通过焦点的长线段": "daiweiji_modern_definition",
+    "将数值乘以二": "daiweiji_modern_definition",
+    "使方程或问题成立的结果": "daiweiji_modern_definition",
+    "大于 90 度且小于 180 度的角": "daiweiji_modern_definition",
+    "几何上的等分操作，如平分角或线段": "daiweiji_modern_definition",
+    "平面上相邻且共用一边的角": "daiweiji_modern_definition",
+    "将问题转化为已知形式的步骤": "daiweiji_modern_definition",
+    "构造外接圆或外切多边形的操作": "daiweiji_modern_definition",
+    "笛卡尔坐标系": "daiweiji_modern_definition",
+    "研究点、线、面及空间结构的数学分支": "daiweiji_modern_definition",
+    "数学推导的过程": "daiweiji_modern_definition",
+    "动力系统中的不动点或图形的交叉点": "daiweiji_modern_definition",
+    "辅助理解的文字说明": "daiweiji_modern_definition",
+    "数值大于或等于 1 的分数": "daiweiji_modern_definition",
+    "坐标为 (0,0,...) 的参考点": "daiweiji_modern_definition",
+    "小于90度（π/2弧度）的角 | 参考D: 角度小于90°的角，常见于锐角三角形和几何构造。": "daiweiji_modern_definition",
+    "描述变量间动态变化关系的等式": "daiweiji_modern_definition",
+    "以导数为核心的数学分支": "daiweiji_modern_definition",
+    "定理的附属结论": "daiweiji_modern_definition",
+    "圆锥曲线的一种，封闭且具有两个对称轴": "daiweiji_modern_definition",
+    "圆的一部分，形状类似折扇": "daiweiji_modern_definition",
+    "圆或球的特征长度": "daiweiji_modern_definition",
+    "两个量之间的数值间隔": "daiweiji_modern_definition",
+    "平面封闭的五边图形": "daiweiji_modern_definition",
+    "对角线互相垂直且平分的四边形": "daiweiji_modern_definition",
+    "递增函数；单调递增函数": "daiweiji_modern_definition",
+    "作为衡量标准的最小个体": "daiweiji_modern_definition",
+    "平面封闭的六边图形": "daiweiji_modern_definition",
+    "在微积分中指具有确定积分限的": "daiweiji_modern_definition",
+    "具有四个顶点和四条边的多边形": "daiweiji_modern_definition",
+    "相对的；相反的": "daiweiji_modern_definition",
+    "关于轴或面的对称变换": "daiweiji_modern_definition",
+    "描述函数在某点附近的局部性状": "daiweiji_modern_definition",
+    "保持其他变量不变时的瞬时变化率": "daiweiji_modern_definition",
+    "角的顶点、圆锥的尖端": "daiweiji_modern_definition",
+    "非正交的几何关系，如斜角或斜坐标。": "daiweiji_modern_definition",
+    "集合间的映射关系，现代分析的核心": "daiweiji_modern_definition",
+    "对应角相等且对应边成比例": "daiweiji_modern_definition",
+    "因变量；函数值": "daiweiji_modern_definition",
+    "求幂运算的逆运算": "daiweiji_modern_definition",
+    "算术平均、几何平均或调和平均": "daiweiji_modern_definition",
+    "表示为 a:b 或 a/b 的量": "daiweiji_modern_definition",
+    "测度论在 3D 空间的体现": "daiweiji_modern_definition",
+    "多边形边界外侧的角度": "daiweiji_modern_definition",
+    "解析几何的研究工具": "daiweiji_modern_definition",
+    "曲线法线下方的水平投影": "daiweiji_modern_definition",
+    "一种特殊的数值表示法，用于逼近实数": "daiweiji_modern_definition",
+    "方程的根或进位制的基准": "daiweiji_modern_definition",
+    "三维物体的纵向延伸度量": "daiweiji_modern_definition",
+    "减法运算或负数的前缀": "daiweiji_modern_definition",
+    "可以比较和度量的数学对象": "daiweiji_modern_definition",
+    "立体被切开后露出的表面": "daiweiji_modern_definition",
+    "具有对称边长的几何图形": "daiweiji_modern_definition",
+    "周期性波动的基本函数模型": "daiweiji_modern_definition",
+    "坐标系中的基准线或旋转体的中心线": "daiweiji_modern_definition",
+    "向量或图形的正交映射": "daiweiji_modern_definition",
+    "数学练习或待证明的命题": "daiweiji_modern_definition",
+    "函数或代数式的幂级数展开": "daiweiji_modern_definition",
+    "比例的复合或连锁比例": "daiweiji_modern_definition",
+    "序列中的序号或数学对象的特征指标": "daiweiji_modern_definition",
+    "数的 1/2 次幂": "daiweiji_modern_definition",
+    "无穷级数，全书处理超越函数的方法": "daiweiji_modern_definition",
+    "形式为 an 的数学运算": "daiweiji_modern_definition",
+    "将两个数合并为一个和的运算 | 参考D: 将两个数合并为一个和，满足交换律和结合律。": "daiweiji_modern_definition",
+    "形如 kba 的数值表示": "daiweiji_modern_definition",
+    "差；集合的差集或数值差": "daiweiji_modern_definition",
+    "无理数；非有理数的实数": "daiweiji_modern_definition",
+    "基础算术运算": "daiweiji_modern_definition",
+    "乘以 3 或求立方": "daiweiji_modern_definition",
+    "函数在某点处的线性逼近": "daiweiji_modern_definition",
+    "同 Deduce": "daiweiji_modern_definition",
+    "描述曲线或曲面局部正交方向的直线": "daiweiji_modern_definition",
+    "局部线性逼近或对边比邻边": "daiweiji_modern_definition",
+    "am⋅an=am+n 等规律": "daiweiji_modern_definition",
+    "具有三个分支的特殊代数曲线": "daiweiji_modern_definition",
+    "微分中值定理（如拉格朗日中值定理）": "daiweiji_modern_definition",
+    "逻辑严密的、数量化的": "daiweiji_modern_definition",
+    "包含若干个给定量的量": "daiweiji_modern_definition",
+    "以三角函数为核心的计算学科": "daiweiji_modern_definition",
+    "使和为 90 度的补足角": "daiweiji_modern_definition",
+    "球的一半，具有一个圆形底面": "daiweiji_modern_definition",
+    "固定不变的数值，相对于变量而言": "daiweiji_modern_definition",
+    "方程中的变元": "daiweiji_modern_definition",
+    "逻辑上的反向陈述": "daiweiji_modern_definition",
+    "逻辑上的恒等关系": "daiweiji_modern_definition",
+    "支撑图形的基准边或基准面": "daiweiji_modern_definition",
+    "一维线性对象，曲率为零": "daiweiji_modern_definition",
+    "数学中最基本的抽象对象": "daiweiji_modern_definition",
+    "使用 &lt;, &gt;, ≤, ≥ 号连接的命题": "daiweiji_modern_definition",
+    "测度论中的函数或长度度量": "daiweiji_modern_definition",
+    "形如 ax3+bx2+cx+d=0 的方程": "daiweiji_modern_definition",
+    "省略或简写": "daiweiji_modern_definition",
+    "形如 a/b 的有理数表示": "daiweiji_modern_definition",
+    "约分 / 化简 / 归约": "daiweiji_modern_definition",
+    "形式为 ∑an 的表达式，研究其收敛性。": "daiweiji_modern_definition",
+    "方程中的变量（如 x,y）": "daiweiji_modern_definition",
+    "现代对数的首数，或对象的属性": "daiweiji_modern_definition",
+    "减少；单调递减性质": "daiweiji_modern_definition",
+    "拐点 (Inflection point)": "daiweiji_modern_definition",
+    "形状或规律符合二次函数特征": "daiweiji_modern_definition",
+    "圆周上两点之间的路径，用于测量角度和长度。": "daiweiji_modern_definition",
+    "形如 n2 的数": "daiweiji_modern_definition",
+    "构成乘积的各个组成部分": "daiweiji_modern_definition",
+    "几何补全图形或古代圭表相关的形状": "daiweiji_modern_definition",
+    "为了论证而设定的前提命题": "daiweiji_modern_definition",
+    "具有体积的三维封闭实体": "daiweiji_modern_definition",
+    "数学运算中的固定量": "daiweiji_modern_definition",
+    "数列及其求和（等差、等比等）": "daiweiji_modern_definition",
+    "横坐标（x坐标），平面直角坐标系中的水平分量 | 参考D: 点在笛卡尔坐标系中的x坐标值，表示水平位置。": "daiweiji_modern_definition",
+    "正切函数的倒数": "daiweiji_modern_definition",
+    "代数项的组成部分": "daiweiji_modern_definition",
+    "正八面体（柏拉图多面体之一）": "daiweiji_modern_definition",
+    "函数的变化率": "daiweiji_modern_definition",
+    "正弦函数平移 π/2 后的函数": "daiweiji_modern_definition",
+    "具有平面边界的三维空间对象": "daiweiji_modern_definition",
+    "多项式": "daiweiji_modern_definition",
+    "逻辑集合中的剔除操作": "daiweiji_modern_definition",
+    "加法中的加数，如a+b中的a和b，是算术的基本元素。": "daiweiji_modern_definition",
+    "坐标点到横轴的垂直距离（y坐标）": "daiweiji_modern_definition",
+    "梯形": "daiweiji_modern_definition",
+    "几何级数（如 1, 2, 4, 8...）": "daiweiji_modern_definition",
+    "用符号代表数进行运算的数学分支 | 参考D: 研究变量、方程和结构，如群、环、域。": "daiweiji_modern_definition",
+    "椭圆中垂直于长轴的短线段": "daiweiji_modern_definition",
+    "数学逻辑中的完全一致性": "daiweiji_modern_definition",
+    "连接曲线上两点的路径部分": "daiweiji_modern_definition",
+    "衡量集合大小的数，如 1, 2, 3...": "daiweiji_modern_definition",
+    "线性方程，图像为直线": "daiweiji_modern_definition",
+    "正弦函数的倒数": "daiweiji_modern_definition",
+    "描述数学关系的恒定模式": "daiweiji_modern_definition",
+    "同 Spiral": "daiweiji_modern_definition",
+    "同 Maximum": "daiweiji_modern_definition",
+    "函数在某点的值": "daiweiji_modern_definition",
+    "比例的平方（如 a²:b²）": "daiweiji_modern_definition",
+    "圆的几何中心": "daiweiji_modern_definition",
+    "相交；集合的交集运算": "daiweiji_modern_definition",
+    "数学符号化的过程": "daiweiji_modern_definition",
+    "形式为 bi 的数，其中 i2=−1": "daiweiji_modern_definition",
+    "概念的界定": "daiweiji_modern_definition",
+    "旋转（生成旋转体）": "daiweiji_modern_definition",
+    "正二十面体（柏拉图多面体之一）": "daiweiji_modern_definition",
+    "级数中项与项之间的恒定间隔": "daiweiji_modern_definition",
+    "函数的微小变动（变分法起源）": "daiweiji_modern_definition",
+    "空间形状、大小的研究": "daiweiji_modern_definition",
+    "非代数表达式": "daiweiji_modern_definition",
+    "函数有定义的自变量集合": "daiweiji_modern_definition",
+    "未定式或不定方程": "daiweiji_modern_definition",
+    "具有三个顶点和三条边的多边形": "daiweiji_modern_definition",
+    "同 Hyperbola": "daiweiji_modern_definition",
+    "直线与坐标轴相交产生的片段": "daiweiji_modern_definition",
+    "集合势或数值超出任何给定实数。": "daiweiji_modern_definition",
+    "物理量或几何重心保持稳定的状态": "daiweiji_modern_definition",
+    "消除公因子或简化代数结构": "daiweiji_modern_definition",
+    "顶点相同且边互为反向延长线的角": "daiweiji_modern_definition",
+    "0-9 之间的基本数符": "daiweiji_modern_definition",
+    "二阶导数为零或不存在的点": "daiweiji_modern_definition",
+    "函数在区间内呈单调下降状态": "daiweiji_modern_definition",
+    "满足叠加原理的数学模型": "daiweiji_modern_definition",
+    "极小值/最小值": "daiweiji_modern_definition",
+    "形式如 a:b=c:d 的等式": "daiweiji_modern_definition",
+    "函数的逆（如反三角函数）或逆运算": "daiweiji_modern_definition",
+    "牛顿力学中的流量，即随时间连续变化的量。": "daiweiji_modern_definition",
+    "数轴上原点左侧的数值": "daiweiji_modern_definition",
+    "局部或全局的最小点": "daiweiji_modern_definition",
+    "微分过程中的有限改变量 Δx": "daiweiji_modern_definition",
+    "如对数表、三角函数表": "daiweiji_modern_definition",
+    "用于分数加减运算的统一分母": "daiweiji_modern_definition",
+    "极坐标下的运动轨迹（如阿基米德螺线）": "daiweiji_modern_definition",
+    "最速降线，古典力学与几何的研究热点": "daiweiji_modern_definition",
+    "矢量速度，即位移对时间的导数": "daiweiji_modern_definition",
+    "比(ratio)中的前项，如 a:b 中的 a": "daiweiji_modern_definition",
+    "指数曲线的逆图形": "daiweiji_modern_definition",
+    "增量；变量的微小变化量": "daiweiji_modern_definition",
+    "减法操作": "daiweiji_modern_definition",
+    "在统计中指项的加权比例": "daiweiji_modern_definition",
+    "包含正整数、负整数和零的集合 Z。": "daiweiji_modern_definition",
+    "数学系统中的判断句": "daiweiji_modern_definition",
+    "函数二阶导数大于零的区间性质": "daiweiji_modern_definition",
+    "对数螺线/等角螺线": "daiweiji_modern_definition",
+    "序列趋向的终点或函数的极值点": "daiweiji_modern_definition",
+    "方程的解": "daiweiji_modern_definition",
+    "科学文献（如《代微积拾级》本身）": "daiweiji_modern_definition",
+    "天文学或几何中描述位置的角参数": "daiweiji_modern_definition",
+    "函数二阶导数小于零的区间性质（或集合性质）": "daiweiji_modern_definition",
+    "同 Secant": "daiweiji_modern_definition",
+    "序列中的成员或表达式的组成": "daiweiji_modern_definition",
+    "公共的；属于两个或多个集合的交集": "daiweiji_modern_definition",
+    "边长一致，通常指等边三角形": "daiweiji_modern_definition",
+    "圆心重合但半径不同的圆": "daiweiji_modern_definition",
+    "适用于所有同类情况的公式": "daiweiji_modern_definition",
+    "涉及角度与边长关系的": "daiweiji_modern_definition",
+    "在圆内构造内接多边形的操作": "daiweiji_modern_definition",
+    "旋转曲面": "daiweiji_modern_definition",
+    "求解过程的产出": "daiweiji_modern_definition",
+    "积分与代数计算中的常用技巧": "daiweiji_modern_definition",
+    "度量空间中两元素间的数值距离": "daiweiji_modern_definition",
+    "有理数的标准比例表示": "daiweiji_modern_definition",
+    "切线之前的极限状态或余弦的倒数": "daiweiji_modern_definition",
+    "形如无限大或无限不循环": "daiweiji_modern_definition",
+    "给定条件下构造几何图形": "daiweiji_modern_definition",
+    "用较简单的数表示复杂数值的方法": "daiweiji_modern_definition",
+    "如匀速运动或均匀分布": "daiweiji_modern_definition",
+    "同 Term": "daiweiji_modern_definition",
+    "具有普遍意义的解题公式": "daiweiji_modern_definition",
+    "形如 ax2+bx+c=0 的方程": "daiweiji_modern_definition",
+    "复平面的向量长度或同余运算的基数": "daiweiji_modern_definition",
+    "演绎推理过程": "daiweiji_modern_definition",
+    "递减函数；单调递减函数": "daiweiji_modern_definition",
+    "大于关系 ($&gt;$)": "daiweiji_modern_definition",
+    "表示被等分对象具体份数的量": "daiweiji_modern_definition",
+    "线性空间的秩或几何空间的维数": "daiweiji_modern_definition",
+    "具有一个多边形底面和多个三角形侧面的体": "daiweiji_modern_definition",
+    "涉及球面三角或球面几何": "daiweiji_modern_definition",
+    "序列或函数变化的终极趋势。": "daiweiji_modern_definition",
+    "求解未知量或确定几何轨迹": "daiweiji_modern_definition",
+    "两个或多个量相乘的产出": "daiweiji_modern_definition",
+    "抛物线或椭圆中与焦点对应的基准直线": "daiweiji_modern_definition",
+    "拓扑空间中不属于集合及其边界的点集": "daiweiji_modern_definition",
+    "同 Evolute": "daiweiji_modern_definition",
+    "能整除给定整数的数": "daiweiji_modern_definition",
+    "三维空间中最对称的封闭曲面": "daiweiji_modern_definition",
+    "在微积分中指不带积分限的": "daiweiji_modern_definition",
+    "未解出因变量的函数表达方式": "daiweiji_modern_definition",
+    "描述函数曲率或加速度的量": "daiweiji_modern_definition",
+    "加法运算的联结词": "daiweiji_modern_definition",
+    "函数在区间上的累积效应，如面积或体积。": "daiweiji_modern_definition",
+    "前缀，表示图形或量的一半": "daiweiji_modern_definition",
+    "研究加减乘除等基本数运算的科学 | 参考D: 研究数、算术运算、比例和数论。": "daiweiji_modern_definition",
+    "方程中除自变量外的调节常数": "daiweiji_modern_definition",
+    "具有相同斜率且无公共点的直线": "daiweiji_modern_definition",
+    "古典三角函数之一": "daiweiji_modern_definition",
+    "非无穷的状态，可在有限步骤内完成": "daiweiji_modern_definition",
+    "空间曲线，具有恒定的曲率和挠率比": "daiweiji_modern_definition",
+    "曲线在无穷远处趋近的直线": "daiweiji_modern_definition",
+    "在变换下保持不变的性质": "daiweiji_modern_definition",
+    "数值的计算或表达": "daiweiji_modern_definition",
+    "平面封闭的七边图形": "daiweiji_modern_definition",
+    "构造通过已知点的逼近函数": "daiweiji_modern_definition",
+    "几何图形的边界组成": "daiweiji_modern_definition",
+    "多项式中各项前的数值因子": "daiweiji_modern_definition",
+    "拓扑或分析中描述映射平滑过渡的性质": "daiweiji_modern_definition",
+    "笛卡尔符号法则等": "daiweiji_modern_definition",
+    "包含两项的多项式，如 (a+b)": "daiweiji_modern_definition",
+    "抽象的数值或几何测度": "daiweiji_modern_definition",
+    "在同一高度或标准的": "daiweiji_modern_definition",
+    "将量分为相等部分的算术过程": "daiweiji_modern_definition",
+    "具有缩放不变性的函数或方程": "daiweiji_modern_definition",
+    "同 Variable": "daiweiji_modern_definition",
+    "顶点位于圆心，由两条半径构成的角度。": "daiweiji_modern_definition",
+    "括号（圆、方、花括号）": "daiweiji_modern_definition",
+    "通过公理和推导确认命题正确性": "daiweiji_modern_definition",
+    "几何体系中特有的基本假设": "daiweiji_modern_definition",
+    "二次曲面，分为单叶和双叶双曲面": "daiweiji_modern_definition",
+    "确定图形与等面积正方形的关系": "daiweiji_modern_definition",
+    "非 90 度的几何交角": "daiweiji_modern_definition",
+    "角度完全一致的几何图形": "daiweiji_modern_definition",
+    "位于底数右上角的幂次符号": "daiweiji_modern_definition",
+    "由纳皮尔发明的早期对数系统": "daiweiji_modern_definition",
+    "函数或数值的逆向对应": "daiweiji_modern_definition",
+    "求导前的原始函数": "daiweiji_modern_definition",
+    "严谨的数学逻辑推导过程": "daiweiji_modern_definition",
+    "切线的正切值或向量场的散度": "daiweiji_modern_definition",
+    "将曲线长度转化为等长直线段": "daiweiji_modern_definition",
+    "现代集合论的前身表述": "daiweiji_modern_definition",
+    "切面与几何体接触的具体位置": "daiweiji_modern_definition",
+    "四边相等的矩形，或数自乘一次": "daiweiji_modern_definition",
+    "圆锥体的中心旋转轴": "daiweiji_modern_definition",
+    "占据体积的封闭实体": "daiweiji_modern_definition",
+    "同 Normal": "daiweiji_modern_definition",
+    "线性代数中用于判断线性方程组解的特征值": "daiweiji_modern_definition",
+    "数学系统中作为推导起点的基本假设": "daiweiji_modern_definition",
+    "显函数": "daiweiji_modern_definition",
+    "90 度或 π/2 弧度的角": "daiweiji_modern_definition",
+    "有理数与无理数的总和 R": "daiweiji_modern_definition",
+    "小于关系 ($&lt;$)": "daiweiji_modern_definition",
+    "序列或级数不收敛，趋向无穷或震荡。": "daiweiji_modern_definition",
+    "几何图形的外围测度": "daiweiji_modern_definition",
+    "椭圆中垂直于长轴的对称轴": "daiweiji_modern_definition",
+    "常用于初值问题中的边界条件": "daiweiji_modern_definition",
+    "贯穿双曲线实部的轴（实轴）": "daiweiji_modern_definition",
+    "逻辑上的不相等": "daiweiji_modern_definition",
+    "极点（坐标原点或复分析极点）": "daiweiji_modern_definition",
+    "带有小数点的十进制数值表示": "daiweiji_modern_definition",
+    "指数、对数、三角、反三角函数等": "daiweiji_modern_definition",
+    "数值轴上的远端极限 ∞": "daiweiji_modern_definition",
+    "同 Parabola": "daiweiji_modern_definition",
+    "三维二次曲面，三个主轴不一定相等": "daiweiji_modern_definition",
+    "满足斯涅尔定律的路径变换": "daiweiji_modern_definition",
+    "两个平行且相等的底面与侧面构成的体": "daiweiji_modern_definition",
+    "形式为 a+bi 的数，其中 i 是虚数单位。": "daiweiji_modern_definition",
+    "标量速度（流数法中的核心物理量）": "daiweiji_modern_definition",
+    "二次函数的图像，圆锥曲线的一种": "daiweiji_modern_definition",
+    "无法进一步约简的代数或算术表达式": "daiweiji_modern_definition",
+    "绘图仪器，用于尺规作图": "daiweiji_modern_definition",
+    "具有多个顶点和边的平面图形": "daiweiji_modern_definition",
+    "二维流形，立体的边界": "daiweiji_modern_definition",
+    "数学概念的形式化表达（如算筹、字母）": "daiweiji_modern_definition",
+    "二次曲线，解析几何的研究对象": "daiweiji_modern_definition",
+    "三分角问题（著名的尺规作图难题）": "daiweiji_modern_definition",
+    "泰勒级数或麦克劳林级数的基础": "daiweiji_modern_definition",
+    "渐屈线的逆向轨迹": "daiweiji_modern_definition",
+    "极限过程中的动态描述": "daiweiji_modern_definition",
+    "圆锥曲线的一种，具有两条渐近线": "daiweiji_modern_definition",
+    "同 Expansion": "daiweiji_modern_definition",
+    "非代数曲线，如对数、指数曲线": "daiweiji_modern_definition",
+    "圆柱体的中心旋转轴": "daiweiji_modern_definition",
+    "表示 / 表征": "daiweiji_modern_definition",
+    "非代数的解决手段": "daiweiji_modern_definition",
+    "几何图形的高度或垂直线段": "daiweiji_modern_definition",
+    "求解问题的输入信息": "daiweiji_modern_definition",
+    "代数或解析的符号组合": "daiweiji_modern_definition",
+    "应用数学范畴": "daiweiji_modern_definition",
+    "圆或旋转体中最宽的穿行线段": "daiweiji_modern_definition",
+    "角度的 1/360 或方程的阶数": "daiweiji_modern_definition",
+    "旋转椭球体": "daiweiji_modern_definition",
+    "逻辑推理中的演绎法": "daiweiji_modern_definition",
+    "被除数包含除数的次数": "daiweiji_modern_definition",
+    "同 Minimum": "daiweiji_modern_definition",
+    "现代微积分中最常用的对数系统": "daiweiji_modern_definition",
+    "序列或级数存在有限极限的状态": "daiweiji_modern_definition",
+    "逻辑上互为充要条件或测度相等": "daiweiji_modern_definition",
+    "线与线、线与面或面与面的碰撞": "daiweiji_modern_definition",
+    "一维几何对象，具有长度无宽度": "daiweiji_modern_definition",
+    "幂级数展开或代数式拆解": "daiweiji_modern_definition",
+    "曲线或直线的有限部分": "daiweiji_modern_definition",
+    "曲线绕轴旋转生成的类圆锥形状": "daiweiji_modern_definition",
+    "数轴上原点右侧的数值": "daiweiji_modern_definition",
+    "焦点到准线距离比的常数": "daiweiji_modern_definition",
+    "二维表面或区域的大小度量": "daiweiji_modern_definition",
+    "二维欧几里得空间，曲率为零": "daiweiji_modern_definition",
+    "映射、旋转、平移或坐标代换": "daiweiji_modern_definition",
+    "比例或结构的相似性推导": "daiweiji_modern_definition",
+    "增加；增长": "daiweiji_modern_definition",
+    "多面体或多边形中的倾斜穿行线": "daiweiji_modern_definition",
+    "映射 N→R 的结果": "daiweiji_modern_definition",
+    "平面封闭的八边图形": "daiweiji_modern_definition",
+    "曲线或直线的测度": "daiweiji_modern_definition",
+    "微积分中求原函数或定积分的过程": "daiweiji_modern_definition",
+    "逻辑或算术中的位置变换": "daiweiji_modern_definition",
+    "使方程等式成立的未知数值": "daiweiji_modern_definition",
+    "坐标系中定位点的参考数值": "daiweiji_modern_definition",
+    "减法或除法后的残余量": "daiweiji_modern_definition",
+    "三角锥（正四面体为柏拉图多面体）": "daiweiji_modern_definition",
+    "尖点；曲线的一种奇点": "daiweiji_modern_definition",
+    "一条直径平分平行于另一条直径的所有弦": "daiweiji_modern_definition",
+    "曲线切线方向随弧长的变化率": "daiweiji_modern_definition",
+    "作为推导前提的确定信息": "daiweiji_modern_definition",
+    "具有相同形状但大小不同的三角形": "daiweiji_modern_definition",
+    "比 / 比率": "daiweiji_modern_definition",
+    "被除数；被除以除数的数": "daiweiji_modern_definition",
+    "二维平面图形的侧向延伸": "daiweiji_modern_definition",
+    "同 Parallel": "daiweiji_modern_definition",
+    "积分学中的分部积分迭代法": "daiweiji_modern_definition",
+    "研究微分和积分及其应用的数学分支": "daiweiji_modern_definition",
+    "以直角三角形的一条直角边为轴旋转而成的立体": "daiweiji_modern_definition",
+    "实用几何中的度量计算": "daiweiji_modern_definition",
+    "使量或数值变小": "daiweiji_modern_definition",
+    "极限为零的变量，微积分的逻辑基础。": "daiweiji_modern_definition",
+    "映射的逆过程，如 y=f(x) 到 x=f−1(y)": "daiweiji_modern_definition",
+    "如四棱锥或三角柱等空间形体": "daiweiji_modern_definition",
+    "满足特定对称群的几何对象": "daiweiji_modern_definition",
+    "双曲线中垂直于实轴的对称轴": "daiweiji_modern_definition",
+    "函数定义域内的移动元素": "daiweiji_modern_definition",
+    "关于顶点的或铅垂的": "daiweiji_modern_definition",
+    "数的三次方或正六面体": "daiweiji_modern_definition",
+    "金融数学中的现值折算": "daiweiji_modern_definition",
+    "代数表达式的简化形式或缩写记号": "daiweiji_modern_definition",
+    "如简单比例、简单方程": "daiweiji_modern_definition",
+    "分数中的分子或除法的主体": "daiweiji_modern_definition",
+    "隐函数": "daiweiji_modern_definition",
+    "比例项位置对调后的新比例": "daiweiji_modern_definition",
+    "空间中的零维元素": "daiweiji_modern_definition",
+    "局部或全局的最大点": "daiweiji_modern_definition",
+    "表示确定区域累积量（如面积）的数值": "daiweiji_modern_definition",
+    "非有理函数，如 y=x": "daiweiji_modern_definition",
+    "偏微分的叠加线性部分": "daiweiji_modern_definition",
+    "线性几何图形的属性": "daiweiji_modern_definition",
+    "集合中的一个成员": "daiweiji_modern_definition",
+    "求解多元方程组的核心步骤": "daiweiji_modern_definition",
+    "勾股定理中的“弦”": "daiweiji_modern_definition",
+    "加法的单位元": "daiweiji_modern_definition",
+    "如加减乘除、微分、积分": "daiweiji_modern_definition",
+    "复合函数求导法则的逆运算": "daiweiji_modern_definition",
+    "几何辅助图形或逻辑图示": "daiweiji_modern_definition",
+    "对边相等且垂直的封闭图形": "daiweiji_modern_definition",
+    "多项式中不含加减号的一个组成部分": "daiweiji_modern_definition",
+    "两个或多个量的公共因子": "daiweiji_modern_definition",
+    "积分求长术的对象": "daiweiji_modern_definition",
+    "数学论证中的中间步骤": "daiweiji_modern_definition",
+    "求解复杂乘积积分的核心技巧": "daiweiji_modern_definition",
+    "除；整除或分数化简": "daiweiji_modern_definition",
+    "自变量；函数的输入变量": "daiweiji_modern_definition",
+    "求导/微分运算": "daiweiji_modern_definition",
+    "同 Tangent": "daiweiji_modern_definition",
+    "逻辑上被确认的命题": "daiweiji_modern_definition",
+    "数值在 0 到 1 之间的有理数表示": "daiweiji_modern_definition",
+    "光线汇聚点或定义二次曲线的特殊参考点": "daiweiji_modern_definition",
+    "表示整体等分份数的数值": "daiweiji_modern_definition",
+    "求若干个相同加数的和": "daiweiji_modern_definition",
+    "二次曲面，具有汇聚光束的物理特性": "daiweiji_modern_definition"
+  },
+  "msc_link_source": {
+    "00A05": [
+      {
+        "concept": "瞄准树顶",
+        "source": "case_annotation",
+        "protege_id": "N0683"
+      },
+      {
+        "concept": "由一点出发的两条射线形成的图形，用于度量旋转和方向。",
+        "source": "case_annotation",
+        "protege_id": "281"
+      },
+      {
+        "concept": "由一点出发的两条射线形成的图形，用于度量旋转和方向。",
+        "source": "case_annotation",
+        "protege_id": "281"
+      },
+      {
+        "concept": "黄金；gold",
+        "source": "case_annotation",
+        "protege_id": "N0451"
+      },
+      {
+        "concept": "燕子",
+        "source": "case_annotation",
+        "protege_id": "N0530"
+      },
+      {
+        "concept": "被乘数",
+        "source": "case_annotation",
+        "protege_id": "Multiplicand"
+      },
+      {
+        "concept": "束/捆（量词）",
+        "source": "case_annotation",
+        "protege_id": "N0504"
+      },
+      {
+        "concept": "升（基准容积）",
+        "source": "case_annotation",
+        "protege_id": "N0177"
+      },
+      {
+        "concept": "综合考虑运费与粟价的均摊赋税算法；proportional tax allocation accounting for transport cost and grain price",
+        "source": "case_annotation",
+        "protege_id": "N0339"
+      },
+      {
+        "concept": "面积单位；area unit",
+        "source": "case_annotation",
+        "protege_id": "N0477"
+      },
+      {
+        "concept": "面积单位；area unit",
+        "source": "case_annotation",
+        "protege_id": "N0477"
+      },
+      {
+        "concept": "代数中表示未知数或变量的符号，用于方程和表达式。",
+        "source": "case_annotation",
+        "protege_id": "Vol14_Term_Element"
+      },
+      {
+        "concept": "雇工每日工资；daily labor wage",
+        "source": "case_annotation",
+        "protege_id": "N0382"
+      },
+      {
+        "concept": "劳动效率的折算原理；不同劳动条件下的效率换算",
+        "source": "case_annotation",
+        "protege_id": "R08"
+      },
+      {
+        "concept": "面积单位(100亩)；area unit (100 mu = 1 qing)",
+        "source": "case_annotation",
+        "protege_id": "N0413"
+      },
+      {
+        "concept": "面积单位(100亩)；area unit (100 mu = 1 qing)",
+        "source": "case_annotation",
+        "protege_id": "N0413"
+      },
+      {
+        "concept": "特殊的矩形和菱形，具有高度对称性，是几何中的基本图形。",
+        "source": "case_annotation",
+        "protege_id": "ZG-0803"
+      },
+      {
+        "concept": "容量单位；volume unit",
+        "source": "case_annotation",
+        "protege_id": "N0472"
+      },
+      {
+        "concept": "容量单位；volume unit",
+        "source": "case_annotation",
+        "protege_id": "N0472"
+      },
+      {
+        "concept": "与给定直线或平面形成直角的直线，用于几何构造和正交性。",
+        "source": "case_annotation",
+        "protege_id": "Z01-078"
+      },
+      {
+        "concept": "下等马",
+        "source": "case_annotation",
+        "protege_id": "N0553"
+      },
+      {
+        "concept": "井",
+        "source": "case_annotation",
+        "protege_id": "N0558"
+      },
+      {
+        "concept": "亩",
+        "source": "case_annotation",
+        "protege_id": "N0238"
+      },
+      {
+        "concept": "均等输送役卒；equalized conscription transport",
+        "source": "case_annotation",
+        "protege_id": "N0376"
+      },
+      {
+        "concept": "羊；sheep",
+        "source": "case_annotation",
+        "protege_id": "N0452"
+      },
+      {
+        "concept": "如 +, -, =, &gt; 等",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "集合中的成员或构成几何图形的点线面",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "长度、面积、体积等测量的基本单位。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "使方程或问题成立的结果",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "将问题转化为已知形式的步骤",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数学推导的过程",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "辅助理解的文字说明",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "定理的附属结论",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "作为衡量标准的最小个体",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "可以比较和度量的数学对象",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数学练习或待证明的命题",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "同 Deduce",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "固定不变的数值，相对于变量而言",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "方程中的变元",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "逻辑上的反向陈述",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "逻辑上的恒等关系",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "解决特定问题的通用计算模型",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "省略或简写",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "方程中的变量（如 x,y）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "为了论证而设定的前提命题",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数学运算中的固定量",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "逻辑集合中的剔除操作",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数学逻辑中的完全一致性",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "描述数学关系的恒定模式",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数在某点的值",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数学符号化的过程",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "概念的界定",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数的逆（如反三角函数）或逆运算",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "如对数表、三角函数表",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数学系统中的判断句",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "适用于所有同类情况的公式",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "求解过程的产出",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "积分与代数计算中的常用技巧",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "形如无限大或无限不循环",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "具有普遍意义的解题公式",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "演绎推理过程",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "求解未知量或确定几何轨迹",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "前缀，表示图形或量的一半",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "方程中除自变量外的调节常数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "非无穷的状态，可在有限步骤内完成",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数值的计算或表达",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "抽象的数值或几何测度",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "同 Variable",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "通过公理和推导确认命题正确性",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "几何体系中特有的基本假设",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "严谨的数学逻辑推导过程",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "现代集合论的前身表述",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数学系统中作为推导起点的基本假设",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "常用于初值问题中的边界条件",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "逻辑上的不相等",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数学概念的形式化表达（如算筹、字母）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "求解问题的输入信息",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "代数或解析的符号组合",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "应用数学范畴",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "逻辑推理中的演绎法",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "逻辑上互为充要条件或测度相等",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "比例或结构的相似性推导",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "逻辑或算术中的位置变换",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "作为推导前提的确定信息",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数定义域内的移动元素",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "如简单比例、简单方程",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "集合中的一个成员",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "加法的单位元",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "如加减乘除、微分、积分",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "几何辅助图形或逻辑图示",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数学论证中的中间步骤",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "逻辑上被确认的命题",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "01A25": [
+      {
+        "concept": "粗米饭",
+        "source": "case_annotation",
+        "protege_id": "N0169"
+      },
+      {
+        "concept": "比例前项（antecedent）",
+        "source": "case_annotation",
+        "protege_id": "N0081"
+      },
+      {
+        "concept": "丈（约3.33m）",
+        "source": "case_annotation",
+        "protege_id": "N0310"
+      },
+      {
+        "concept": "升（基准容积）",
+        "source": "case_annotation",
+        "protege_id": "N0177"
+      },
+      {
+        "concept": "比率传递性；等价比率集合",
+        "source": "case_annotation",
+        "protege_id": "N0088"
+      },
+      {
+        "concept": "等级权重序列（rank weight sequence）",
+        "source": "case_annotation",
+        "protege_id": "N0164"
+      },
+      {
+        "concept": "寸（约3.33cm）",
+        "source": "case_annotation",
+        "protege_id": "N0312"
+      },
+      {
+        "concept": "多项比例与四项比例的统一性；比例算法归一化",
+        "source": "case_annotation",
+        "protege_id": "N0200"
+      },
+      {
+        "concept": "钱（货币）",
+        "source": "case_annotation",
+        "protege_id": "N0128"
+      },
+      {
+        "concept": "里（约500m）；行程单位",
+        "source": "case_annotation",
+        "protege_id": "N0314"
+      },
+      {
+        "concept": "面积量纲单位",
+        "source": "case_annotation",
+        "protege_id": "M01"
+      },
+      {
+        "concept": "被除数（dividend）；现代\"实数\"义已不同",
+        "source": "case_annotation",
+        "protege_id": "N0130"
+      },
+      {
+        "concept": "贡米饭",
+        "source": "case_annotation",
+        "protege_id": "N0099"
+      },
+      {
+        "concept": "丢番图整数解的两个值",
+        "source": "case_annotation",
+        "protege_id": "N0085"
+      },
+      {
+        "concept": "月（时间）",
+        "source": "case_annotation",
+        "protege_id": "N0191"
+      },
+      {
+        "concept": "除数（divisor）",
+        "source": "case_annotation",
+        "protege_id": "N0131"
+      },
+      {
+        "concept": "尺（约0.33m）",
+        "source": "case_annotation",
+        "protege_id": "N0311"
+      },
+      {
+        "concept": "寸（约3.33cm）",
+        "source": "case_annotation",
+        "protege_id": "N0240"
+      },
+      {
+        "concept": "箭羽（无现代专用计量词）",
+        "source": "case_annotation",
+        "protege_id": "N0115"
+      },
+      {
+        "concept": "素绢",
+        "source": "case_annotation",
+        "protege_id": "N0172"
+      },
+      {
+        "concept": "箭羽（无现代专用计量词）",
+        "source": "case_annotation",
+        "protege_id": "C27"
+      },
+      {
+        "concept": "距离/面积换算单位",
+        "source": "case_annotation",
+        "protege_id": "N0030"
+      },
+      {
+        "concept": "粗麦粉",
+        "source": "case_annotation",
+        "protege_id": "N0095"
+      },
+      {
+        "concept": "粟（基准粮食）",
+        "source": "case_annotation",
+        "protege_id": "N0167"
+      },
+      {
+        "concept": "带分数（mixed number）",
+        "source": "case_annotation",
+        "protege_id": "N0195"
+      },
+      {
+        "concept": "等级分配原则（rank-based allocation）",
+        "source": "case_annotation",
+        "protege_id": "N0204"
+      },
+      {
+        "concept": "单位换算比例 y=ax/b",
+        "source": "case_annotation",
+        "protege_id": "N0078"
+      },
+      {
+        "concept": "无现代专用词",
+        "source": "case_annotation",
+        "protege_id": "N0129"
+      },
+      {
+        "concept": "亩",
+        "source": "case_annotation",
+        "protege_id": "N0238"
+      },
+      {
+        "concept": "粗米饭",
+        "source": "case_annotation",
+        "protege_id": "N0096"
+      },
+      {
+        "concept": "除数（divisor）；现代\"法则/模\"义不同",
+        "source": "case_annotation",
+        "protege_id": "N0248"
+      },
+      {
+        "concept": "精制米饭",
+        "source": "case_annotation",
+        "protege_id": "N0098"
+      },
+      {
+        "concept": "农业面积单位",
+        "source": "case_annotation",
+        "protege_id": "M03"
+      },
+      {
+        "concept": "先乘后除策略（保持精度）；proportional scaling",
+        "source": "case_annotation",
+        "protege_id": "N0198"
+      },
+      {
+        "concept": "几何补全图形或古代圭表相关的形状",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数学概念的形式化表达（如算筹、字母）",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "MSC-51M10": [
+      {
+        "concept": "由一点出发的两条射线形成的图形，用于度量旋转和方向。",
+        "source": "case_annotation",
+        "protege_id": "281"
+      },
+      {
+        "concept": "内切圆",
+        "source": "case_annotation",
+        "protege_id": "151-073"
+      },
+      {
+        "concept": "共线",
+        "source": "case_annotation",
+        "protege_id": "101-153"
+      },
+      {
+        "concept": "圆的周长，计算公式为2πr，其中r为半径。",
+        "source": "case_annotation",
+        "protege_id": "280"
+      },
+      {
+        "concept": "树木/木材",
+        "source": "case_annotation",
+        "protege_id": "201-036"
+      }
+    ],
+    "97G40": [
+      {
+        "concept": "由一点出发的两条射线形成的图形，用于度量旋转和方向。",
+        "source": "case_annotation",
+        "protege_id": "281"
+      },
+      {
+        "concept": "具有恒定半径的封闭平面曲线",
+        "source": "case_annotation",
+        "protege_id": "Circle"
+      },
+      {
+        "concept": "角度为90°的角，是欧几里得几何的基本概念，用于垂直关系定义。",
+        "source": "case_annotation",
+        "protege_id": "ZG-0556"
+      },
+      {
+        "concept": "特殊的矩形和菱形，具有高度对称性，是几何中的基本图形。",
+        "source": "case_annotation",
+        "protege_id": "ZG-0803"
+      },
+      {
+        "concept": "与给定直线或平面形成直角的直线，用于几何构造和正交性。",
+        "source": "case_annotation",
+        "protege_id": "Z01-078"
+      },
+      {
+        "concept": "角度为90°的角，是欧几里得几何的基本概念，用于垂直关系定义。",
+        "source": "case_annotation",
+        "protege_id": "直角"
+      },
+      {
+        "concept": "圆的 / 球形的 / 舍入（数值）",
+        "source": "case_annotation",
+        "protege_id": "Z01-052"
+      },
+      {
+        "concept": "法线方向与切面方向的正交状态",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "圆的边界长度或其计算公式 2πr",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "平面封闭的十边图形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "对边相等且平行的封闭图形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "大于 90 度且小于 180 度的角",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "几何上的等分操作，如平分角或线段",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "平面上相邻且共用一边的角",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "构造外接圆或外切多边形的操作",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "小于90度（π/2弧度）的角 | 参考D: 角度小于90°的角，常见于锐角三角形和几何构造。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "圆锥曲线的一种，封闭且具有两个对称轴",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "圆的一部分，形状类似折扇",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "平面封闭的五边图形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "对角线互相垂直且平分的四边形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "平面封闭的六边图形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "具有四个顶点和四条边的多边形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "非正交的几何关系，如斜角或斜坐标。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "对应角相等且对应边成比例",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "多边形边界外侧的角度",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "三维物体的纵向延伸度量",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "具有对称边长的几何图形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "使和为 90 度的补足角",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "支撑图形的基准边或基准面",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "圆周上两点之间的路径，用于测量角度和长度。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "横坐标（x坐标），平面直角坐标系中的水平分量 | 参考D: 点在笛卡尔坐标系中的x坐标值，表示水平位置。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "具有平面边界的三维空间对象",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "梯形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "空间形状、大小的研究",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "具有三个顶点和三条边的多边形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "顶点相同且边互为反向延长线的角",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "边长一致，通常指等边三角形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "在圆内构造内接多边形的操作",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "度量空间中两元素间的数值距离",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "给定条件下构造几何图形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "具有一个多边形底面和多个三角形侧面的体",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "涉及球面三角或球面几何",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "三维空间中最对称的封闭曲面",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "具有相同斜率且无公共点的直线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "平面封闭的七边图形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "几何图形的边界组成",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "在同一高度或标准的",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "顶点位于圆心，由两条半径构成的角度。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "非 90 度的几何交角",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "角度完全一致的几何图形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "占据体积的封闭实体",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "90 度或 π/2 弧度的角",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "几何图形的外围测度",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "两个平行且相等的底面与侧面构成的体",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "具有多个顶点和边的平面图形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "几何图形的支撑边或直角边",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "几何图形的高度或垂直线段",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "多面体或多边形中的倾斜穿行线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "平面封闭的八边图形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "三角锥（正四面体为柏拉图多面体）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "具有相同形状但大小不同的三角形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "以直角三角形的一条直角边为轴旋转而成的立体",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "关于顶点的或铅垂的",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "线性几何图形的属性",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "勾股定理中的“弦”",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "对边相等且垂直的封闭图形",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "MSC-01A25": [
+      {
+        "concept": "解决特定问题的通用计算模型",
+        "source": "case_annotation",
+        "protege_id": "201-128"
+      },
+      {
+        "concept": "相减",
+        "source": "case_annotation",
+        "protege_id": "454"
+      },
+      {
+        "concept": "三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax²+a³中的角色",
+        "source": "case_annotation",
+        "protege_id": "142"
+      },
+      {
+        "concept": "直接映射",
+        "source": "case_annotation",
+        "protege_id": "251-043"
+      },
+      {
+        "concept": "两个几何实体（如点或线）完全重叠，具有相同位置。",
+        "source": "case_annotation",
+        "protege_id": "399"
+      },
+      {
+        "concept": "解决特定问题的通用计算模型",
+        "source": "case_annotation",
+        "protege_id": "151-107"
+      },
+      {
+        "concept": "数的二次幂，或正方形的面积，用于代数和几何。",
+        "source": "case_annotation",
+        "protege_id": "215"
+      },
+      {
+        "concept": "两个或多个数值相加的结果，用于数列和级数求和。",
+        "source": "case_annotation",
+        "protege_id": "201-095"
+      },
+      {
+        "concept": "线性方程组",
+        "source": "case_annotation",
+        "protege_id": "151-108"
+      },
+      {
+        "concept": "几何图形的支撑边或直角边",
+        "source": "case_annotation",
+        "protege_id": "201-051"
+      },
+      {
+        "concept": "除以2（halving）",
+        "source": "case_annotation",
+        "protege_id": "251-151"
+      },
+      {
+        "concept": "廉（intermediate coefficient）；对应(a+x)³展开中的3a²与3ax项",
+        "source": "case_annotation",
+        "protege_id": "129"
+      },
+      {
+        "concept": "2倍/乘以2",
+        "source": "case_annotation",
+        "protege_id": "398"
+      },
+      {
+        "concept": "描述图形等边等角或高度对称，如正多边形或正多面体。",
+        "source": "case_annotation",
+        "protege_id": "224"
+      },
+      {
+        "concept": "求解过程的最终输出",
+        "source": "case_annotation",
+        "protege_id": "251-040"
+      },
+      {
+        "concept": "无现代直接对应词",
+        "source": "case_annotation",
+        "protege_id": "122"
+      },
+      {
+        "concept": "数的二次幂，或正方形的面积，用于代数和几何。",
+        "source": "case_annotation",
+        "protege_id": "251-034"
+      },
+      {
+        "concept": "两个数或量的除法关系，表示相对大小，用于相似形和等比数列。",
+        "source": "case_annotation",
+        "protege_id": "201-156"
+      },
+      {
+        "concept": "相乘",
+        "source": "case_annotation",
+        "protege_id": "455"
+      }
+    ],
+    "03C05": [
+      {
+        "concept": "解决特定问题的通用计算模型",
+        "source": "case_annotation",
+        "protege_id": "201-128"
+      },
+      {
+        "concept": "解决特定问题的通用计算模型",
+        "source": "case_annotation",
+        "protege_id": "151-107"
+      },
+      {
+        "concept": "如 +, -, =, &gt; 等",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "省略或简写",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "描述数学关系的恒定模式",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数学符号化的过程",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "概念的界定",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "非代数表达式",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数学概念的形式化表达（如算筹、字母）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "代数或解析的符号组合",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "代数表达式的简化形式或缩写记号",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "97D40": [
+      {
+        "concept": "解决特定问题的通用计算模型",
+        "source": "case_annotation",
+        "protege_id": "201-128"
+      },
+      {
+        "concept": "解决特定问题的通用计算模型",
+        "source": "case_annotation",
+        "protege_id": "151-107"
+      },
+      {
+        "concept": "使方程或问题成立的结果",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "辅助理解的文字说明",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数学练习或待证明的命题",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "将两个数合并为一个和的运算 | 参考D: 将两个数合并为一个和，满足交换律和结合律。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "方程中的变量（如 x,y）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "加法中的加数，如a+b中的a和b，是算术的基本元素。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "适用于所有同类情况的公式",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "求解过程的产出",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "具有普遍意义的解题公式",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "求解未知量或确定几何轨迹",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "在微积分中指不带积分限的",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "求解过程的最终输出",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "求解问题的输入信息",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "作为推导前提的确定信息",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "01A07": [
+      {
+        "concept": "不足与适足情形的插值；deficiency with exact-fit interpolation",
+        "source": "case_annotation",
+        "protege_id": "N0433"
+      },
+      {
+        "concept": "双假设/试位法；regula falsi / double false position",
+        "source": "case_annotation",
+        "protege_id": "N0492"
+      }
+    ],
+    "65H99": [
+      {
+        "concept": "不足与适足情形的插值；deficiency with exact-fit interpolation",
+        "source": "case_annotation",
+        "protege_id": "N0433"
+      },
+      {
+        "concept": "双假设/试位法；regula falsi / double false position",
+        "source": "case_annotation",
+        "protege_id": "N0492"
+      }
+    ],
+    "91C99": [
+      {
+        "concept": "黄金；gold",
+        "source": "case_annotation",
+        "protege_id": "N0451"
+      },
+      {
+        "concept": "黄金；gold",
+        "source": "case_annotation",
+        "protege_id": "C05"
+      },
+      {
+        "concept": "羊；sheep",
+        "source": "case_annotation",
+        "protege_id": "N0452"
+      }
+    ],
+    "15A06": [
+      {
+        "concept": "移项",
+        "source": "case_annotation",
+        "protege_id": "N0540"
+      },
+      {
+        "concept": "代入运算",
+        "source": "case_annotation",
+        "protege_id": "N0519"
+      },
+      {
+        "concept": "四元一次方程组",
+        "source": "case_annotation",
+        "protege_id": "N0582"
+      },
+      {
+        "concept": "被除数/常数项",
+        "source": "case_annotation",
+        "protege_id": "ZG-0455"
+      },
+      {
+        "concept": "相减消元",
+        "source": "case_annotation",
+        "protege_id": "90"
+      },
+      {
+        "concept": "被除数/常数项",
+        "source": "case_annotation",
+        "protege_id": "N0503"
+      },
+      {
+        "concept": "被除数（dividend）；现代\"实数\"义已不同",
+        "source": "case_annotation",
+        "protege_id": "N0130"
+      },
+      {
+        "concept": "代入",
+        "source": "case_annotation",
+        "protege_id": "A-057"
+      },
+      {
+        "concept": "方程行/列",
+        "source": "case_annotation",
+        "protege_id": "右行"
+      },
+      {
+        "concept": "排列/布列",
+        "source": "case_annotation",
+        "protege_id": "A-026"
+      },
+      {
+        "concept": "代入",
+        "source": "case_annotation",
+        "protege_id": "N0578"
+      },
+      {
+        "concept": "堑堵体积 V=a×b×h/2；half-cuboid prism volume",
+        "source": "case_annotation",
+        "protege_id": "N0266"
+      },
+      {
+        "concept": "被除数/常数项",
+        "source": "case_annotation",
+        "protege_id": "ZG-0286"
+      },
+      {
+        "concept": "行消元（消去法）",
+        "source": "case_annotation",
+        "protege_id": "N0497"
+      },
+      {
+        "concept": "代入运算",
+        "source": "case_annotation",
+        "protege_id": "A-021"
+      },
+      {
+        "concept": "线性方程，图像为直线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "求解多元方程组的核心步骤",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "11A05": [
+      {
+        "concept": "斜边比率",
+        "source": "case_annotation",
+        "protege_id": "弦率"
+      },
+      {
+        "concept": "股弦和",
+        "source": "case_annotation",
+        "protege_id": "Z10-030"
+      },
+      {
+        "concept": "被乘数",
+        "source": "case_annotation",
+        "protege_id": "Multiplicand"
+      },
+      {
+        "concept": "符号",
+        "source": "case_annotation",
+        "protege_id": "A-064"
+      },
+      {
+        "concept": "加法运算的动词形式",
+        "source": "case_annotation",
+        "protege_id": "Z03-045"
+      },
+      {
+        "concept": "被除数/常数项",
+        "source": "case_annotation",
+        "protege_id": "ZG-0455"
+      },
+      {
+        "concept": "相减消元",
+        "source": "case_annotation",
+        "protege_id": "90"
+      },
+      {
+        "concept": "综合考虑运费与粟价的均摊赋税算法；proportional tax allocation accounting for transport cost and grain price",
+        "source": "case_annotation",
+        "protege_id": "N0339"
+      },
+      {
+        "concept": "被除数/常数项",
+        "source": "case_annotation",
+        "protege_id": "N0503"
+      },
+      {
+        "concept": "以动物隐喻速率的题目载体；animal metaphor for speed problems",
+        "source": "case_annotation",
+        "protege_id": "N0397"
+      },
+      {
+        "concept": "超过/大于",
+        "source": "case_annotation",
+        "protege_id": "A-022"
+      },
+      {
+        "concept": "平方",
+        "source": "case_annotation",
+        "protege_id": "Duishu_Term_SelfMultiply"
+      },
+      {
+        "concept": "函数log_b(x)是指数函数的反函数，用于简化乘除运算。",
+        "source": "case_annotation",
+        "protege_id": "Vol14_Term_Logarithm"
+      },
+      {
+        "concept": "丢番图整数解的两个值",
+        "source": "case_annotation",
+        "protege_id": "N0085"
+      },
+      {
+        "concept": "乘法",
+        "source": "case_annotation",
+        "protege_id": "Multiplication"
+      },
+      {
+        "concept": "乘法的逆运算",
+        "source": "case_annotation",
+        "protege_id": "T040"
+      },
+      {
+        "concept": "两个数或量的除法关系，表示相对大小，用于相似形和等比数列。",
+        "source": "case_annotation",
+        "protege_id": "Xinshu_Term_Ratio"
+      },
+      {
+        "concept": "被除数/常数项",
+        "source": "case_annotation",
+        "protege_id": "ZG-0286"
+      },
+      {
+        "concept": "平方",
+        "source": "case_annotation",
+        "protege_id": "Z03-048"
+      },
+      {
+        "concept": "2倍/乘以2",
+        "source": "case_annotation",
+        "protege_id": "ZG-0080"
+      },
+      {
+        "concept": "平方",
+        "source": "case_annotation",
+        "protege_id": "Siyuan_Term_Square"
+      },
+      {
+        "concept": "第四比例项",
+        "source": "case_annotation",
+        "protege_id": "Z07-030"
+      },
+      {
+        "concept": "两个数或量的除法关系，表示相对大小，用于相似形和等比数列。",
+        "source": "case_annotation",
+        "protege_id": "201-156"
+      },
+      {
+        "concept": "一组数共有的因数中最大的一个",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "分数形式的数值集合 Q",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "幂运算，求数的 n 次方",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "以特定底数为基准的幂指数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数的 1/3 次幂",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "若干项相加的总量",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "如因式分解或向量分解",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "将数值乘以二",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "将问题转化为已知形式的步骤",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数值大于或等于 1 的分数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "两个量之间的数值间隔",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "作为衡量标准的最小个体",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "求幂运算的逆运算",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "算术平均、几何平均或调和平均",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "表示为 a:b 或 a/b 的量",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "方程的根或进位制的基准",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "减法运算或负数的前缀",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "比例的复合或连锁比例",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "序列中的序号或数学对象的特征指标",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数的 1/2 次幂",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "形式为 an 的数学运算",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "形如 kba 的数值表示",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "无理数；非有理数的实数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "基础算术运算",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "乘以 3 或求立方",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "am⋅an=am+n 等规律",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "包含若干个给定量的量",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数学中最基本的抽象对象",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "形如 a/b 的有理数表示",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "现代对数的首数，或对象的属性",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "形如 n2 的数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "构成乘积的各个组成部分",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数在某点的值",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "比例的平方（如 a²:b²）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "形式为 bi 的数，其中 i2=−1",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "消除公因子或简化代数结构",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "形式如 a:b=c:d 的等式",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数轴上原点左侧的数值",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "用于分数加减运算的统一分母",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "比(ratio)中的前项，如 a:b 中的 a",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "减法操作",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "包含正整数、负整数和零的集合 Z。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "序列趋向的终点或函数的极值点",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "有理数的标准比例表示",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "复平面的向量长度或同余运算的基数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "表示被等分对象具体份数的量",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "两个或多个量相乘的产出",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "能整除给定整数的数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "加法运算的联结词",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "前缀，表示图形或量的一半",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "将量分为相等部分的算术过程",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "位于底数右上角的幂次符号",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "由纳皮尔发明的早期对数系统",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数或数值的逆向对应",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "四边相等的矩形，或数自乘一次",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "有理数与无理数的总和 R",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "无法进一步约简的代数或算术表达式",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "角度的 1/360 或方程的阶数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "被除数包含除数的次数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "现代微积分中最常用的对数系统",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数轴上原点右侧的数值",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "逻辑或算术中的位置变换",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "使方程等式成立的未知数值",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "减法或除法后的残余量",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数的三次方或正六面体",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "如简单比例、简单方程",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "分数中的分子或除法的主体",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "比例项位置对调后的新比例",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "加法的单位元",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "两个或多个量的公共因子",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数值在 0 到 1 之间的有理数表示",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "表示整体等分份数的数值",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "求若干个相同加数的和",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "03H05": [
+      {
+        "concept": "比例前项（antecedent）",
+        "source": "case_annotation",
+        "protege_id": "N0081"
+      },
+      {
+        "concept": "比率传递性；等价比率集合",
+        "source": "case_annotation",
+        "protege_id": "N0088"
+      },
+      {
+        "concept": "多项比例与四项比例的统一性；比例算法归一化",
+        "source": "case_annotation",
+        "protege_id": "N0200"
+      },
+      {
+        "concept": "反比例分配原理（inverse proportional principle）",
+        "source": "case_annotation",
+        "protege_id": "R06"
+      },
+      {
+        "concept": "单位换算比例 y=ax/b",
+        "source": "case_annotation",
+        "protege_id": "N0078"
+      },
+      {
+        "concept": "先乘后除策略（保持精度）；proportional scaling",
+        "source": "case_annotation",
+        "protege_id": "N0198"
+      },
+      {
+        "concept": "极限为零的变量，微积分的逻辑基础。",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "51M04": [
+      {
+        "concept": "股弦和",
+        "source": "case_annotation",
+        "protege_id": "Z10-030"
+      },
+      {
+        "concept": "直角三角形内接正方形",
+        "source": "case_annotation",
+        "protege_id": "勾股容方"
+      },
+      {
+        "concept": "具有恒定半径的封闭平面曲线",
+        "source": "case_annotation",
+        "protege_id": "Circle"
+      },
+      {
+        "concept": "角度为90°的角，是欧几里得几何的基本概念，用于垂直关系定义。",
+        "source": "case_annotation",
+        "protege_id": "ZG-0556"
+      },
+      {
+        "concept": "零维几何对象，用于定义空间中的位置，是几何的基本元素。",
+        "source": "case_annotation",
+        "protege_id": "Vol15_Term_Point"
+      },
+      {
+        "concept": "代数中表示未知数或变量的符号，用于方程和表达式。",
+        "source": "case_annotation",
+        "protege_id": "Vol14_Term_Element"
+      },
+      {
+        "concept": "圆或球体中从中心到边界点的距离，是几何度量的基本量。",
+        "source": "case_annotation",
+        "protege_id": "Vol18_Term_Radius"
+      },
+      {
+        "concept": "圆或球体中从中心到边界点的距离，是几何度量的基本量。",
+        "source": "case_annotation",
+        "protege_id": "Hushi_Term_Radius"
+      },
+      {
+        "concept": "斜向恰好通过",
+        "source": "case_annotation",
+        "protege_id": "N0694"
+      },
+      {
+        "concept": "对角线长度",
+        "source": "case_annotation",
+        "protege_id": "N0695"
+      },
+      {
+        "concept": "椭圆中通过两个焦点的较长直径，决定椭圆的大小和形状。",
+        "source": "case_annotation",
+        "protege_id": "Z09-002"
+      },
+      {
+        "concept": "零维几何对象，用于定义空间中的位置，是几何的基本元素。",
+        "source": "case_annotation",
+        "protege_id": "ZG-0001"
+      },
+      {
+        "concept": "对应边",
+        "source": "case_annotation",
+        "protege_id": "N0700"
+      },
+      {
+        "concept": "圆的周长，计算公式为2πr，其中r为半径。",
+        "source": "case_annotation",
+        "protege_id": "280"
+      },
+      {
+        "concept": "与给定直线或平面形成直角的直线，用于几何构造和正交性。",
+        "source": "case_annotation",
+        "protege_id": "Z01-078"
+      },
+      {
+        "concept": "角度为90°的角，是欧几里得几何的基本概念，用于垂直关系定义。",
+        "source": "case_annotation",
+        "protege_id": "直角"
+      },
+      {
+        "concept": "牵引芦苇至岸边",
+        "source": "case_annotation",
+        "protege_id": "N0646"
+      },
+      {
+        "concept": "两个数或量的除法关系，表示相对大小，用于相似形和等比数列。",
+        "source": "case_annotation",
+        "protege_id": "Xinshu_Term_Ratio"
+      },
+      {
+        "concept": "零维几何对象，用于定义空间中的位置，是几何的基本元素。",
+        "source": "case_annotation",
+        "protege_id": "Vol16_Term_Point"
+      },
+      {
+        "concept": "圆的 / 球形的 / 舍入（数值）",
+        "source": "case_annotation",
+        "protege_id": "Z01-052"
+      },
+      {
+        "concept": "第四比例项",
+        "source": "case_annotation",
+        "protege_id": "Z07-030"
+      },
+      {
+        "concept": "圆周率π≈3.14159...",
+        "source": "case_annotation",
+        "protege_id": "N0053"
+      },
+      {
+        "concept": "椭圆中与长轴垂直的较短直径，决定椭圆的扁平程度。",
+        "source": "case_annotation",
+        "protege_id": "Shiyi_Term_MinorAxis"
+      },
+      {
+        "concept": "横向超出量",
+        "source": "case_annotation",
+        "protege_id": "N0692"
+      },
+      {
+        "concept": "法线方向与切面方向的正交状态",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "曲线内部连接两点的直线段",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "圆的边界长度或其计算公式 2πr",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "平面封闭的十边图形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "正十二面体（柏拉图多面体之一）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "一维流形，解析几何的研究对象",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "椭圆中穿过两个焦点的最长轴线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "具有单对称轴或双对称轴的凸曲线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "集合中的成员或构成几何图形的点线面",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "对边相等且平行的封闭图形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "笛卡尔坐标系的四个扇区",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "球体的几何中心",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "几何图形的对称中心或圆心",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "共享渐近线且主轴互相垂直的双曲线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "变换理论中的线性或射影映射",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "具有特定属性的区域或环带",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "椭圆中通过焦点的长线段",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "大于 90 度且小于 180 度的角",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "几何上的等分操作，如平分角或线段",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "平面上相邻且共用一边的角",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "构造外接圆或外切多边形的操作",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "笛卡尔坐标系",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "研究点、线、面及空间结构的数学分支",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "坐标为 (0,0,...) 的参考点",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "小于90度（π/2弧度）的角 | 参考D: 角度小于90°的角，常见于锐角三角形和几何构造。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "圆锥曲线的一种，封闭且具有两个对称轴",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "圆的一部分，形状类似折扇",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "圆或球的特征长度",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "平面封闭的五边图形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "对角线互相垂直且平分的四边形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "平面封闭的六边图形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "具有四个顶点和四条边的多边形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "关于轴或面的对称变换",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "角的顶点、圆锥的尖端",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "非正交的几何关系，如斜角或斜坐标。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "对应角相等且对应边成比例",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "表示为 a:b 或 a/b 的量",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "多边形边界外侧的角度",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "三维物体的纵向延伸度量",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "立体被切开后露出的表面",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "具有对称边长的几何图形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "周期性波动的基本函数模型",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "坐标系中的基准线或旋转体的中心线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "向量或图形的正交映射",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "局部线性逼近或对边比邻边",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "以三角函数为核心的计算学科",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "使和为 90 度的补足角",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "球的一半，具有一个圆形底面",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "支撑图形的基准边或基准面",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "一维线性对象，曲率为零",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "形状或规律符合二次函数特征",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "圆周上两点之间的路径，用于测量角度和长度。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "几何补全图形或古代圭表相关的形状",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "具有体积的三维封闭实体",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "横坐标（x坐标），平面直角坐标系中的水平分量 | 参考D: 点在笛卡尔坐标系中的x坐标值，表示水平位置。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "正切函数的倒数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "正八面体（柏拉图多面体之一）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "正弦函数平移 π/2 后的函数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "具有平面边界的三维空间对象",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "坐标点到横轴的垂直距离（y坐标）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "梯形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "椭圆中垂直于长轴的短线段",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "连接曲线上两点的路径部分",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "正弦函数的倒数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "圆的几何中心",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "正二十面体（柏拉图多面体之一）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "空间形状、大小的研究",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "具有三个顶点和三条边的多边形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "直线与坐标轴相交产生的片段",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "顶点相同且边互为反向延长线的角",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数二阶导数大于零的区间性质",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数二阶导数小于零的区间性质（或集合性质）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "同 Secant",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "边长一致，通常指等边三角形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "圆心重合但半径不同的圆",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "涉及角度与边长关系的",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "在圆内构造内接多边形的操作",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "度量空间中两元素间的数值距离",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "切线之前的极限状态或余弦的倒数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "给定条件下构造几何图形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "线性空间的秩或几何空间的维数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "具有一个多边形底面和多个三角形侧面的体",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "涉及球面三角或球面几何",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "抛物线或椭圆中与焦点对应的基准直线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "拓扑空间中不属于集合及其边界的点集",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "三维空间中最对称的封闭曲面",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "具有相同斜率且无公共点的直线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "古典三角函数之一",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "在变换下保持不变的性质",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "平面封闭的七边图形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "几何图形的边界组成",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "在同一高度或标准的",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "顶点位于圆心，由两条半径构成的角度。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "几何体系中特有的基本假设",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "二次曲面，分为单叶和双叶双曲面",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "非 90 度的几何交角",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "角度完全一致的几何图形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "切面与几何体接触的具体位置",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "四边相等的矩形，或数自乘一次",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "圆锥体的中心旋转轴",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "占据体积的封闭实体",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "90 度或 π/2 弧度的角",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "几何图形的外围测度",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "椭圆中垂直于长轴的对称轴",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "贯穿双曲线实部的轴（实轴）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "三维二次曲面，三个主轴不一定相等",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "两个平行且相等的底面与侧面构成的体",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "二次函数的图像，圆锥曲线的一种",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "绘图仪器，用于尺规作图",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "具有多个顶点和边的平面图形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "二维流形，立体的边界",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "二次曲线，解析几何的研究对象",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "三分角问题（著名的尺规作图难题）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "圆锥曲线的一种，具有两条渐近线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "圆柱体的中心旋转轴",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "几何图形的支撑边或直角边",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "非代数的解决手段",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "几何图形的高度或垂直线段",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "圆或旋转体中最宽的穿行线段",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "角度的 1/360 或方程的阶数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "旋转椭球体",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "线与线、线与面或面与面的碰撞",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "一维几何对象，具有长度无宽度",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "曲线或直线的有限部分",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "曲线绕轴旋转生成的类圆锥形状",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "焦点到准线距离比的常数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "二维欧几里得空间，曲率为零",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "映射、旋转、平移或坐标代换",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "多面体或多边形中的倾斜穿行线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "平面封闭的八边图形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "曲线或直线的测度",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "坐标系中定位点的参考数值",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "三角锥（正四面体为柏拉图多面体）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "一条直径平分平行于另一条直径的所有弦",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "具有相同形状但大小不同的三角形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "二维平面图形的侧向延伸",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "同 Parallel",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "以直角三角形的一条直角边为轴旋转而成的立体",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "如四棱锥或三角柱等空间形体",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "满足特定对称群的几何对象",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "双曲线中垂直于实轴的对称轴",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "关于顶点的或铅垂的",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数的三次方或正六面体",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "空间中的零维元素",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "线性几何图形的属性",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "勾股定理中的“弦”",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "对边相等且垂直的封闭图形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "光线汇聚点或定义二次曲线的特殊参考点",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "二次曲面，具有汇聚光束的物理特性",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "51N05": [
+      {
+        "concept": "股弦和",
+        "source": "case_annotation",
+        "protege_id": "Z10-030"
+      },
+      {
+        "concept": "直接映射",
+        "source": "case_annotation",
+        "protege_id": "251-043"
+      },
+      {
+        "concept": "圆或球体中从中心到边界点的距离，是几何度量的基本量。",
+        "source": "case_annotation",
+        "protege_id": "Vol18_Term_Radius"
+      },
+      {
+        "concept": "圆或球体中从中心到边界点的距离，是几何度量的基本量。",
+        "source": "case_annotation",
+        "protege_id": "Hushi_Term_Radius"
+      },
+      {
+        "concept": "几何图形的支撑边或直角边",
+        "source": "case_annotation",
+        "protege_id": "201-051"
+      },
+      {
+        "concept": "椭圆中通过两个焦点的较长直径，决定椭圆的大小和形状。",
+        "source": "case_annotation",
+        "protege_id": "Z09-002"
+      },
+      {
+        "concept": "两个数或量的除法关系，表示相对大小，用于相似形和等比数列。",
+        "source": "case_annotation",
+        "protege_id": "Xinshu_Term_Ratio"
+      },
+      {
+        "concept": "椭圆中与长轴垂直的较短直径，决定椭圆的扁平程度。",
+        "source": "case_annotation",
+        "protege_id": "Shiyi_Term_MinorAxis"
+      },
+      {
+        "concept": "两个数或量的除法关系，表示相对大小，用于相似形和等比数列。",
+        "source": "case_annotation",
+        "protege_id": "201-156"
+      }
+    ],
+    "53A05": [
+      {
+        "concept": "球冠曲面（spherical cap surface）",
+        "source": "case_annotation",
+        "protege_id": "G06"
+      },
+      {
+        "concept": "球冠侧面积（错误公式）",
+        "source": "case_annotation",
+        "protege_id": "T18"
+      },
+      {
+        "concept": "描述曲线或曲面局部正交方向的直线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "二维流形，立体的边界",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "曲线切线方向随弧长的变化率",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "51M25": [
+      {
+        "concept": "曲池/曲面拟柱体（curved frustum）；中国数学特有几何体",
+        "source": "case_annotation",
+        "protege_id": "N0300"
+      },
+      {
+        "concept": "盘池（同刍童公式）；中国数学特有几何体",
+        "source": "case_annotation",
+        "protege_id": "N0301"
+      },
+      {
+        "concept": "弓形面积近似公式",
+        "source": "case_annotation",
+        "protege_id": "T19"
+      },
+      {
+        "concept": "面积单位换算下的矩形面积公式",
+        "source": "case_annotation",
+        "protege_id": "T02"
+      },
+      {
+        "concept": "三维空间中的几何对象，具有体积，如多面体、球体等。",
+        "source": "case_annotation",
+        "protege_id": "Vol18_Term_Body"
+      },
+      {
+        "concept": "三角形面积公式 S=bh/2",
+        "source": "case_annotation",
+        "protege_id": "T11"
+      },
+      {
+        "concept": "Steinmetz solid（双柱交集）；球体积推导的关键几何体",
+        "source": "case_annotation",
+        "protege_id": "N0235"
+      },
+      {
+        "concept": "椭圆中通过两个焦点的较长直径，决定椭圆的大小和形状。",
+        "source": "case_annotation",
+        "protege_id": "Z09-002"
+      },
+      {
+        "concept": "三维空间中的几何对象，具有体积，如多面体、球体等。",
+        "source": "case_annotation",
+        "protege_id": "ZG-0004"
+      },
+      {
+        "concept": "堑堵体积 V=a×b×h/2；half-cuboid prism volume",
+        "source": "case_annotation",
+        "protege_id": "N0266"
+      },
+      {
+        "concept": "矩形（rectangle）",
+        "source": "case_annotation",
+        "protege_id": "G01"
+      },
+      {
+        "concept": "由球体积求直径：d=∛(6V/π)；古代π值偏小导致系统误差",
+        "source": "case_annotation",
+        "protege_id": "N0210"
+      },
+      {
+        "concept": "圆周率π≈3.14159...",
+        "source": "case_annotation",
+        "protege_id": "N0053"
+      },
+      {
+        "concept": "椭圆中与长轴垂直的较短直径，决定椭圆的扁平程度。",
+        "source": "case_annotation",
+        "protege_id": "Shiyi_Term_MinorAxis"
+      },
+      {
+        "concept": "圆的边界长度或其计算公式 2πr",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "长度、面积、体积等测量的基本单位。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "测度论在 3D 空间的体现",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "可以比较和度量的数学对象",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "测度论中的函数或长度度量",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "确定图形与等面积正方形的关系",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "几何图形的外围测度",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "逻辑上互为充要条件或测度相等",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "二维表面或区域的大小度量",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "实用几何中的度量计算",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "积分求长术的对象",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "08A05": [
+      {
+        "concept": "被乘数",
+        "source": "case_annotation",
+        "protege_id": "Multiplicand"
+      },
+      {
+        "concept": "乘法",
+        "source": "case_annotation",
+        "protege_id": "Multiplication"
+      },
+      {
+        "concept": "加法运算的动词形式",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "代数或解析的符号组合",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "代数表达式的简化形式或缩写记号",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "如加减乘除、微分、积分",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "97F30": [
+      {
+        "concept": "被乘数",
+        "source": "case_annotation",
+        "protege_id": "Multiplicand"
+      },
+      {
+        "concept": "加法运算的动词形式",
+        "source": "case_annotation",
+        "protege_id": "Z03-045"
+      },
+      {
+        "concept": "两个或多个数值相加的结果，用于数列和级数求和。",
+        "source": "case_annotation",
+        "protege_id": "201-095"
+      },
+      {
+        "concept": "乘法",
+        "source": "case_annotation",
+        "protege_id": "Multiplication"
+      },
+      {
+        "concept": "幂运算，求数的 n 次方",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "若干项相加的总量",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "将数值乘以二",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "两个量之间的数值间隔",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "乘法的逆运算",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "求幂运算的逆运算",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "减法运算或负数的前缀",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "形式为 an 的数学运算",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "将两个数合并为一个和的运算 | 参考D: 将两个数合并为一个和，满足交换律和结合律。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "基础算术运算",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "乘以 3 或求立方",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "am⋅an=am+n 等规律",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "包含若干个给定量的量",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "形如 n2 的数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "减法操作",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "两个或多个量相乘的产出",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "能整除给定整数的数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "加法运算的联结词",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "研究加减乘除等基本数运算的科学 | 参考D: 研究数、算术运算、比例和数论。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "笛卡尔符号法则等",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "将量分为相等部分的算术过程",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "位于底数右上角的幂次符号",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "被除数包含除数的次数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "减法或除法后的残余量",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "使量或数值变小",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "分数中的分子或除法的主体",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "求若干个相同加数的和",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "11A25": [
+      {
+        "concept": "逐位移位（shifting position step by step）",
+        "source": "case_annotation",
+        "protege_id": "N0214"
+      },
+      {
+        "concept": "首商/初始近似值（first digit estimate）；iterative approximation",
+        "source": "case_annotation",
+        "protege_id": "N0215"
+      },
+      {
+        "concept": "隅（corner position coefficient）；多项式最高次项系数",
+        "source": "case_annotation",
+        "protege_id": "N0245"
+      },
+      {
+        "concept": "由球体积求直径：d=∛(6V/π)；古代π值偏小导致系统误差",
+        "source": "case_annotation",
+        "protege_id": "N0210"
+      },
+      {
+        "concept": "将两个数合并为一个和的运算 | 参考D: 将两个数合并为一个和，满足交换律和结合律。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "加法中的加数，如a+b中的a和b，是算术的基本元素。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "研究加减乘除等基本数运算的科学 | 参考D: 研究数、算术运算、比例和数论。",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "41A58": [
+      {
+        "concept": "正方形/方形",
+        "source": "case_annotation",
+        "protege_id": "Z11-021"
+      },
+      {
+        "concept": "余矢函数；$\\text{covers}(x) = 1 - \\sin(x)$ （现代较少使用）",
+        "source": "case_annotation",
+        "protege_id": "餘矢"
+      },
+      {
+        "concept": "隅（corner position coefficient）；多项式最高次项系数",
+        "source": "case_annotation",
+        "protege_id": "Z04-036"
+      },
+      {
+        "concept": "余矢函数；$\\text{covers}(x) = 1 - \\sin(x)$ （现代较少使用）",
+        "source": "case_annotation",
+        "protege_id": "T072"
+      },
+      {
+        "concept": "余矢函数；$\\text{covers}(x) = 1 - \\sin(x)$ （现代较少使用）",
+        "source": "case_annotation",
+        "protege_id": "Z01-072"
+      },
+      {
+        "concept": "描述函数在某点附近的局部性状",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数或代数式的幂级数展开",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "泰勒级数或麦克劳林级数的基础",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "同 Expansion",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "幂级数展开或代数式拆解",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "40A05": [
+      {
+        "concept": "正方形/方形",
+        "source": "case_annotation",
+        "protege_id": "Z11-021"
+      },
+      {
+        "concept": "余矢函数；$\\text{covers}(x) = 1 - \\sin(x)$ （现代较少使用）",
+        "source": "case_annotation",
+        "protege_id": "餘矢"
+      },
+      {
+        "concept": "两个或多个数值相加的结果，用于数列和级数求和。",
+        "source": "case_annotation",
+        "protege_id": "201-095"
+      },
+      {
+        "concept": "廉（intermediate coefficient）；对应(a+x)³展开中的3a²与3ax项",
+        "source": "case_annotation",
+        "protege_id": "Z05-080"
+      },
+      {
+        "concept": "廉（intermediate coefficient）；对应(a+x)³展开中的3a²与3ax项",
+        "source": "case_annotation",
+        "protege_id": "129"
+      },
+      {
+        "concept": "余矢函数；$\\text{covers}(x) = 1 - \\sin(x)$ （现代较少使用）",
+        "source": "case_annotation",
+        "protege_id": "T072"
+      },
+      {
+        "concept": "余矢函数；$\\text{covers}(x) = 1 - \\sin(x)$ （现代较少使用）",
+        "source": "case_annotation",
+        "protege_id": "Z01-072"
+      },
+      {
+        "concept": "通分齐同；reduction to common denominator",
+        "source": "case_annotation",
+        "protege_id": "齐同"
+      },
+      {
+        "concept": "几何级数中项与项之间的恒定倍数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "若干项相加的总量",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数或代数式的幂级数展开",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "无穷级数，全书处理超越函数的方法",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "形式为 ∑an 的表达式，研究其收敛性。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数列及其求和（等差、等比等）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "几何级数（如 1, 2, 4, 8...）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "级数中项与项之间的恒定间隔",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "序列中的成员或表达式的组成",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "同 Term",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "序列或函数变化的终极趋势。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "序列或级数不收敛，趋向无穷或震荡。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "泰勒级数或麦克劳林级数的基础",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "极限过程中的动态描述",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "同 Expansion",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "序列或级数存在有限极限的状态",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "幂级数展开或代数式拆解",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "映射 N→R 的结果",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "12D05": [
+      {
+        "concept": "正方形/方形",
+        "source": "case_annotation",
+        "protege_id": "Z11-021"
+      },
+      {
+        "concept": "廉（intermediate coefficient）；对应(a+x)³展开中的3a²与3ax项",
+        "source": "case_annotation",
+        "protege_id": "Z05-080"
+      },
+      {
+        "concept": "廉（intermediate coefficient）；对应(a+x)³展开中的3a²与3ax项",
+        "source": "case_annotation",
+        "protege_id": "129"
+      },
+      {
+        "concept": "除数（divisor）",
+        "source": "case_annotation",
+        "protege_id": "N0131"
+      },
+      {
+        "concept": "隅（corner position coefficient）；多项式最高次项系数",
+        "source": "case_annotation",
+        "protege_id": "Z04-036"
+      },
+      {
+        "concept": "隅（corner position coefficient）；多项式最高次项系数",
+        "source": "case_annotation",
+        "protege_id": "N0245"
+      },
+      {
+        "concept": "通过消去公共因子或项将表达式化为最简形式。",
+        "source": "case_annotation",
+        "protege_id": "Z05-017"
+      },
+      {
+        "concept": "除数（divisor）；现代\"法则/模\"义不同",
+        "source": "case_annotation",
+        "protege_id": "N0248"
+      },
+      {
+        "concept": "形如 P(x)/Q(x) 的函数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "如 ax2+bx+c",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "表达两个数学表达式相等关系的命题",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "如因式分解或向量分解",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "方程中的变元",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "形如 ax3+bx2+cx+d=0 的方程",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "方程中的变量（如 x,y）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "构成乘积的各个组成部分",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "多项式",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "线性方程，图像为直线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "序列中的成员或表达式的组成",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "形如 ax2+bx+c=0 的方程",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "多项式中各项前的数值因子",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "包含两项的多项式，如 (a+b)",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "角度的 1/360 或方程的阶数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "多项式中不含加减号的一个组成部分",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "26A06": [
+      {
+        "concept": "分数除法倒数法",
+        "source": "case_annotation",
+        "protege_id": "T25"
+      },
+      {
+        "concept": "无现代直接对应词",
+        "source": "case_annotation",
+        "protege_id": "N0064"
+      },
+      {
+        "concept": "无现代直接对应词",
+        "source": "case_annotation",
+        "protege_id": "F11"
+      },
+      {
+        "concept": "除以2（halving）",
+        "source": "case_annotation",
+        "protege_id": "251-151"
+      },
+      {
+        "concept": "隅（corner position coefficient）；多项式最高次项系数",
+        "source": "case_annotation",
+        "protege_id": "Z04-036"
+      },
+      {
+        "concept": "2倍/乘以2",
+        "source": "case_annotation",
+        "protege_id": "398"
+      },
+      {
+        "concept": "乘法的逆运算",
+        "source": "case_annotation",
+        "protege_id": "T040"
+      },
+      {
+        "concept": "隅（corner position coefficient）；多项式最高次项系数",
+        "source": "case_annotation",
+        "protege_id": "N0245"
+      },
+      {
+        "concept": "分数减法 a/b-c/d=(ad-bc)/bd",
+        "source": "case_annotation",
+        "protege_id": "T05"
+      },
+      {
+        "concept": "两个数或量的除法关系，表示相对大小，用于相似形和等比数列。",
+        "source": "case_annotation",
+        "protege_id": "Xinshu_Term_Ratio"
+      },
+      {
+        "concept": "带分数（mixed number）",
+        "source": "case_annotation",
+        "protege_id": "N0195"
+      },
+      {
+        "concept": "无现代直接对应词",
+        "source": "case_annotation",
+        "protege_id": "F12"
+      },
+      {
+        "concept": "2倍/乘以2",
+        "source": "case_annotation",
+        "protege_id": "ZG-0080"
+      },
+      {
+        "concept": "第四比例项",
+        "source": "case_annotation",
+        "protege_id": "Z07-030"
+      },
+      {
+        "concept": "相乘",
+        "source": "case_annotation",
+        "protege_id": "455"
+      },
+      {
+        "concept": "函数在区间内呈单调上升状态",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "描述函数在某点附近的局部性状",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "集合间的映射关系，现代分析的核心",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数或代数式的幂级数展开",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数的变化率",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "同 Maximum",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数在某点的值",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数在区间内呈单调下降状态",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "局部或全局的最小点",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "方程中除自变量外的调节常数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "曲线在无穷远处趋近的直线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数或数值的逆向对应",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "泰勒级数或麦克劳林级数的基础",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "同 Minimum",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "幂级数展开或代数式拆解",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "局部或全局的最大点",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "65G99": [
+      {
+        "concept": "三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax²+a³中的角色",
+        "source": "case_annotation",
+        "protege_id": "142"
+      },
+      {
+        "concept": "排列/布列",
+        "source": "case_annotation",
+        "protege_id": "置"
+      },
+      {
+        "concept": "圆或球体中从中心到边界点的距离，是几何度量的基本量。",
+        "source": "case_annotation",
+        "protege_id": "Vol18_Term_Radius"
+      },
+      {
+        "concept": "平方",
+        "source": "case_annotation",
+        "protege_id": "Duishu_Term_SelfMultiply"
+      },
+      {
+        "concept": "除以2（halving）",
+        "source": "case_annotation",
+        "protege_id": "251-151"
+      },
+      {
+        "concept": "除数（divisor）",
+        "source": "case_annotation",
+        "protege_id": "N0131"
+      },
+      {
+        "concept": "2倍/乘以2",
+        "source": "case_annotation",
+        "protege_id": "398"
+      },
+      {
+        "concept": "乘法的逆运算",
+        "source": "case_annotation",
+        "protege_id": "T040"
+      },
+      {
+        "concept": "通过消去公共因子或项将表达式化为最简形式。",
+        "source": "case_annotation",
+        "protege_id": "Z05-017"
+      },
+      {
+        "concept": "2倍/乘以2",
+        "source": "case_annotation",
+        "protege_id": "ZG-0080"
+      },
+      {
+        "concept": "除数（divisor）；现代\"法则/模\"义不同",
+        "source": "case_annotation",
+        "protege_id": "N0248"
+      },
+      {
+        "concept": "相乘",
+        "source": "case_annotation",
+        "protege_id": "455"
+      }
+    ],
+    "33B10": [
+      {
+        "concept": "直接映射",
+        "source": "case_annotation",
+        "protege_id": "251-043"
+      },
+      {
+        "concept": "余矢函数；$\\text{covers}(x) = 1 - \\sin(x)$ （现代较少使用）",
+        "source": "case_annotation",
+        "protege_id": "餘矢"
+      },
+      {
+        "concept": "圆或球体中从中心到边界点的距离，是几何度量的基本量。",
+        "source": "case_annotation",
+        "protege_id": "Hushi_Term_Radius"
+      },
+      {
+        "concept": "函数log_b(x)是指数函数的反函数，用于简化乘除运算。",
+        "source": "case_annotation",
+        "protege_id": "Vol14_Term_Logarithm"
+      },
+      {
+        "concept": "几何图形的支撑边或直角边",
+        "source": "case_annotation",
+        "protege_id": "201-051"
+      },
+      {
+        "concept": "余矢函数；$\\text{covers}(x) = 1 - \\sin(x)$ （现代较少使用）",
+        "source": "case_annotation",
+        "protege_id": "T072"
+      },
+      {
+        "concept": "余矢函数；$\\text{covers}(x) = 1 - \\sin(x)$ （现代较少使用）",
+        "source": "case_annotation",
+        "protege_id": "Z01-072"
+      },
+      {
+        "concept": "以特定底数为基准的幂指数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "周期性波动的基本函数模型",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "局部线性逼近或对边比邻边",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "以三角函数为核心的计算学科",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "正切函数的倒数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "正弦函数平移 π/2 后的函数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "正弦函数的倒数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "涉及角度与边长关系的",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "切线之前的极限状态或余弦的倒数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "古典三角函数之一",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "指数、对数、三角、反三角函数等",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "28A75": [
+      {
+        "concept": "三维空间中的几何对象，具有体积，如多面体、球体等。",
+        "source": "case_annotation",
+        "protege_id": "Vol18_Term_Body"
+      },
+      {
+        "concept": "三维空间中的几何对象，具有体积，如多面体、球体等。",
+        "source": "case_annotation",
+        "protege_id": "ZG-0004"
+      },
+      {
+        "concept": "圆的周长，计算公式为2πr，其中r为半径。",
+        "source": "case_annotation",
+        "protege_id": "280"
+      },
+      {
+        "concept": "测度论在 3D 空间的体现",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "可以比较和度量的数学对象",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "测度论中的函数或长度度量",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "抽象的数值或几何测度",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "二维表面或区域的大小度量",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "曲线或直线的测度",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "二维平面图形的侧向延伸",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "97G30": [
+      {
+        "concept": "三维空间中的几何对象，具有体积，如多面体、球体等。",
+        "source": "case_annotation",
+        "protege_id": "Vol18_Term_Body"
+      },
+      {
+        "concept": "三维空间中的几何对象，具有体积，如多面体、球体等。",
+        "source": "case_annotation",
+        "protege_id": "ZG-0004"
+      },
+      {
+        "concept": "长度、面积、体积等测量的基本单位。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "测度论在 3D 空间的体现",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "测度论中的函数或长度度量",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "二维表面或区域的大小度量",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "曲线或直线的测度",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "二维平面图形的侧向延伸",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "实用几何中的度量计算",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "51N20": [
+      {
+        "concept": "具有恒定半径的封闭平面曲线",
+        "source": "case_annotation",
+        "protege_id": "Circle"
+      },
+      {
+        "concept": "零维几何对象，用于定义空间中的位置，是几何的基本元素。",
+        "source": "case_annotation",
+        "protege_id": "Vol15_Term_Point"
+      },
+      {
+        "concept": "零维几何对象，用于定义空间中的位置，是几何的基本元素。",
+        "source": "case_annotation",
+        "protege_id": "ZG-0001"
+      },
+      {
+        "concept": "描述图形等边等角或高度对称，如正多边形或正多面体。",
+        "source": "case_annotation",
+        "protege_id": "224"
+      },
+      {
+        "concept": "零维几何对象，用于定义空间中的位置，是几何的基本元素。",
+        "source": "case_annotation",
+        "protege_id": "Vol16_Term_Point"
+      },
+      {
+        "concept": "圆的 / 球形的 / 舍入（数值）",
+        "source": "case_annotation",
+        "protege_id": "Z01-052"
+      },
+      {
+        "concept": "曲线切线下方的水平投影",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "曲线内部连接两点的直线段",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "同 Asymptote",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "椭圆中穿过两个焦点的最长轴线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "具有单对称轴或双对称轴的凸曲线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "笛卡尔坐标系的四个扇区",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "几何图形的对称中心或圆心",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "曲线所有法线的包络线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "共享渐近线且主轴互相垂直的双曲线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "椭圆中通过焦点的长线段",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "笛卡尔坐标系",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "坐标为 (0,0,...) 的参考点",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "小于90度（π/2弧度）的角 | 参考D: 角度小于90°的角，常见于锐角三角形和几何构造。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "圆锥曲线的一种，封闭且具有两个对称轴",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "圆或球的特征长度",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "解析几何的研究工具",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "曲线法线下方的水平投影",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "坐标系中的基准线或旋转体的中心线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "向量或图形的正交映射",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "描述曲线或曲面局部正交方向的直线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "局部线性逼近或对边比邻边",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "一维线性对象，曲率为零",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "形状或规律符合二次函数特征",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "横坐标（x坐标），平面直角坐标系中的水平分量 | 参考D: 点在笛卡尔坐标系中的x坐标值，表示水平位置。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "坐标点到横轴的垂直距离（y坐标）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "椭圆中垂直于长轴的短线段",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "连接曲线上两点的路径部分",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "同 Spiral",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "圆的几何中心",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "同 Hyperbola",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "直线与坐标轴相交产生的片段",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "极坐标下的运动轨迹（如阿基米德螺线）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "最速降线，古典力学与几何的研究热点",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "指数曲线的逆图形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "同 Secant",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "圆心重合但半径不同的圆",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "切线之前的极限状态或余弦的倒数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "抛物线或椭圆中与焦点对应的基准直线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "同 Evolute",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "空间曲线，具有恒定的曲率和挠率比",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "曲线在无穷远处趋近的直线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "二次曲面，分为单叶和双叶双曲面",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "切面与几何体接触的具体位置",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "同 Normal",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "椭圆中垂直于长轴的对称轴",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "贯穿双曲线实部的轴（实轴）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "同 Parabola",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "三维二次曲面，三个主轴不一定相等",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "二次函数的图像，圆锥曲线的一种",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "二次曲线，解析几何的研究对象",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "渐屈线的逆向轨迹",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "圆锥曲线的一种，具有两条渐近线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "非代数曲线，如对数、指数曲线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "圆或旋转体中最宽的穿行线段",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "旋转椭球体",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "线与线、线与面或面与面的碰撞",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "一维几何对象，具有长度无宽度",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "曲线或直线的有限部分",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "焦点到准线距离比的常数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "二维欧几里得空间，曲率为零",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "坐标系中定位点的参考数值",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "一条直径平分平行于另一条直径的所有弦",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "双曲线中垂直于实轴的对称轴",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "空间中的零维元素",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "同 Tangent",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "光线汇聚点或定义二次曲线的特殊参考点",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "二次曲面，具有汇聚光束的物理特性",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "2999999999999999980486599061817381213271671188243728977063313482190191329280": [
+      {
+        "concept": "两个几何实体（如点或线）完全重叠，具有相同位置。",
+        "source": "case_annotation",
+        "protege_id": "399"
+      }
+    ],
+    "54A05": [
+      {
+        "concept": "两个几何实体（如点或线）完全重叠，具有相同位置。",
+        "source": "case_annotation",
+        "protege_id": "399"
+      }
+    ],
+    "51F20": [
+      {
+        "concept": "两个几何实体（如点或线）完全重叠，具有相同位置。",
+        "source": "case_annotation",
+        "protege_id": "399"
+      }
+    ],
+    ":---": [
+      {
+        "concept": "零维几何对象，用于定义空间中的位置，是几何的基本元素。",
+        "source": "case_annotation",
+        "protege_id": "Vol15_Term_Point"
+      },
+      {
+        "concept": "零维几何对象，用于定义空间中的位置，是几何的基本元素。",
+        "source": "case_annotation",
+        "protege_id": "Vol15_Term_Point"
+      },
+      {
+        "concept": "零维几何对象，用于定义空间中的位置，是几何的基本元素。",
+        "source": "case_annotation",
+        "protege_id": "Vol15_Term_Point"
+      },
+      {
+        "concept": "零维几何对象，用于定义空间中的位置，是几何的基本元素。",
+        "source": "case_annotation",
+        "protege_id": "ZG-0001"
+      },
+      {
+        "concept": "零维几何对象，用于定义空间中的位置，是几何的基本元素。",
+        "source": "case_annotation",
+        "protege_id": "ZG-0001"
+      },
+      {
+        "concept": "零维几何对象，用于定义空间中的位置，是几何的基本元素。",
+        "source": "case_annotation",
+        "protege_id": "ZG-0001"
+      },
+      {
+        "concept": "零维几何对象，用于定义空间中的位置，是几何的基本元素。",
+        "source": "case_annotation",
+        "protege_id": "Vol16_Term_Point"
+      },
+      {
+        "concept": "零维几何对象，用于定义空间中的位置，是几何的基本元素。",
+        "source": "case_annotation",
+        "protege_id": "Vol16_Term_Point"
+      },
+      {
+        "concept": "零维几何对象，用于定义空间中的位置，是几何的基本元素。",
+        "source": "case_annotation",
+        "protege_id": "Vol16_Term_Point"
+      }
+    ],
+    "26A09": [
+      {
+        "concept": "余矢函数；$\\text{covers}(x) = 1 - \\sin(x)$ （现代较少使用）",
+        "source": "case_annotation",
+        "protege_id": "餘矢"
+      },
+      {
+        "concept": "平方",
+        "source": "case_annotation",
+        "protege_id": "Duishu_Term_SelfMultiply"
+      },
+      {
+        "concept": "数的二次幂，或正方形的面积，用于代数和几何。",
+        "source": "case_annotation",
+        "protege_id": "215"
+      },
+      {
+        "concept": "函数log_b(x)是指数函数的反函数，用于简化乘除运算。",
+        "source": "case_annotation",
+        "protege_id": "Vol14_Term_Logarithm"
+      },
+      {
+        "concept": "余矢函数；$\\text{covers}(x) = 1 - \\sin(x)$ （现代较少使用）",
+        "source": "case_annotation",
+        "protege_id": "T072"
+      },
+      {
+        "concept": "余矢函数；$\\text{covers}(x) = 1 - \\sin(x)$ （现代较少使用）",
+        "source": "case_annotation",
+        "protege_id": "Z01-072"
+      },
+      {
+        "concept": "平方",
+        "source": "case_annotation",
+        "protege_id": "Z03-048"
+      },
+      {
+        "concept": "平方",
+        "source": "case_annotation",
+        "protege_id": "Siyuan_Term_Square"
+      },
+      {
+        "concept": "数的二次幂，或正方形的面积，用于代数和几何。",
+        "source": "case_annotation",
+        "protege_id": "251-034"
+      },
+      {
+        "concept": "形如 P(x)/Q(x) 的函数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "以特定底数为基准的幂指数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "集合间的映射关系，现代分析的核心",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "现代对数的首数，或对象的属性",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "非代数表达式",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数的逆（如反三角函数）或逆运算",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "指数曲线的逆图形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "由纳皮尔发明的早期对数系统",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "指数、对数、三角、反三角函数等",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "非代数曲线，如对数、指数曲线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "现代微积分中最常用的对数系统",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "映射的逆过程，如 y=f(x) 到 x=f−1(y)",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "非有理函数，如 y=x",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "97A40": [
+      {
+        "concept": "以动物隐喻速率的题目载体；animal metaphor for speed problems",
+        "source": "case_annotation",
+        "protege_id": "N0397"
+      }
+    ],
+    "1965-04-01 00:00:00": [
+      {
+        "concept": "排列/布列",
+        "source": "case_annotation",
+        "protege_id": "置"
+      },
+      {
+        "concept": "数学函数值、统计数据等的表格形式展示，用于数据组织。",
+        "source": "case_annotation",
+        "protege_id": "ZG-0348"
+      },
+      {
+        "concept": "排列/布列",
+        "source": "case_annotation",
+        "protege_id": "A-026"
+      },
+      {
+        "concept": "数学函数值、统计数据等的表格形式展示，用于数据组织。",
+        "source": "case_annotation",
+        "protege_id": "Z06-033"
+      }
+    ],
+    "41A10": [
+      {
+        "concept": "排列/布列",
+        "source": "case_annotation",
+        "protege_id": "置"
+      },
+      {
+        "concept": "廉（intermediate coefficient）；对应(a+x)³展开中的3a²与3ax项",
+        "source": "case_annotation",
+        "protege_id": "Z05-080"
+      },
+      {
+        "concept": "排列/布列",
+        "source": "case_annotation",
+        "protege_id": "A-026"
+      }
+    ],
+    "65D15": [
+      {
+        "concept": "排列/布列",
+        "source": "case_annotation",
+        "protege_id": "置"
+      },
+      {
+        "concept": "排列/布列",
+        "source": "case_annotation",
+        "protege_id": "A-026"
+      },
+      {
+        "concept": "除数（divisor）",
+        "source": "case_annotation",
+        "protege_id": "N0131"
+      },
+      {
+        "concept": "除数（divisor）；现代\"法则/模\"义不同",
+        "source": "case_annotation",
+        "protege_id": "N0248"
+      }
+    ],
+    "300000": [
+      {
+        "concept": "代数中表示未知数或变量的符号，用于方程和表达式。",
+        "source": "case_annotation",
+        "protege_id": "Vol14_Term_Element"
+      }
+    ],
+    "65F05": [
+      {
+        "concept": "首商/初始近似值（first digit estimate）；iterative approximation",
+        "source": "case_annotation",
+        "protege_id": "N0215"
+      }
+    ],
+    "12D10": [
+      {
+        "concept": "平方",
+        "source": "case_annotation",
+        "protege_id": "Duishu_Term_SelfMultiply"
+      },
+      {
+        "concept": "数的二次幂，或正方形的面积，用于代数和几何。",
+        "source": "case_annotation",
+        "protege_id": "215"
+      },
+      {
+        "concept": "平方",
+        "source": "case_annotation",
+        "protege_id": "Z03-048"
+      },
+      {
+        "concept": "平方",
+        "source": "case_annotation",
+        "protege_id": "Siyuan_Term_Square"
+      },
+      {
+        "concept": "方程f(x)=0的解，或数的方根，如平方根、立方根。",
+        "source": "case_annotation",
+        "protege_id": "根"
+      },
+      {
+        "concept": "数的二次幂，或正方形的面积，用于代数和几何。",
+        "source": "case_annotation",
+        "protege_id": "251-034"
+      },
+      {
+        "concept": "数的 1/3 次幂",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "方程的根或进位制的基准",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数的 1/2 次幂",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "方程的解",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "笛卡尔符号法则等",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "使方程等式成立的未知数值",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "非有理函数，如 y=x",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "03B50": [
+      {
+        "concept": "Steinmetz solid（双柱交集）；球体积推导的关键几何体",
+        "source": "case_annotation",
+        "protege_id": "N0235"
+      }
+    ],
+    "91B16": [
+      {
+        "concept": "雇工每日工资；daily labor wage",
+        "source": "case_annotation",
+        "protege_id": "N0382"
+      },
+      {
+        "concept": "均等输送役卒；equalized conscription transport",
+        "source": "case_annotation",
+        "protege_id": "N0376"
+      }
+    ],
+    "97F40": [
+      {
+        "concept": "函数log_b(x)是指数函数的反函数，用于简化乘除运算。",
+        "source": "case_annotation",
+        "protege_id": "Vol14_Term_Logarithm"
+      },
+      {
+        "concept": "以特定底数为基准的幂指数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数值大于或等于 1 的分数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "表示为 a:b 或 a/b 的量",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "比例的复合或连锁比例",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "形如 kba 的数值表示",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "形如 a/b 的有理数表示",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "比例的平方（如 a²:b²）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "0-9 之间的基本数符",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "形式如 a:b=c:d 的等式",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "用于分数加减运算的统一分母",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "比(ratio)中的前项，如 a:b 中的 a",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "有理数的标准比例表示",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "表示被等分对象具体份数的量",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "带有小数点的十进制数值表示",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "比例项位置对调后的新比例",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数值在 0 到 1 之间的有理数表示",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "表示整体等分份数的数值",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "65A05": [
+      {
+        "concept": "数学函数值、统计数据等的表格形式展示，用于数据组织。",
+        "source": "case_annotation",
+        "protege_id": "ZG-0348"
+      },
+      {
+        "concept": "数学函数值、统计数据等的表格形式展示，用于数据组织。",
+        "source": "case_annotation",
+        "protege_id": "Z06-033"
+      }
+    ],
+    "46330": [
+      {
+        "concept": "数学函数值、统计数据等的表格形式展示，用于数据组织。",
+        "source": "case_annotation",
+        "protege_id": "ZG-0348"
+      },
+      {
+        "concept": "数学函数值、统计数据等的表格形式展示，用于数据组织。",
+        "source": "case_annotation",
+        "protege_id": "Z06-033"
+      }
+    ],
+    "45673": [
+      {
+        "concept": "乘法",
+        "source": "case_annotation",
+        "protege_id": "Multiplication"
+      }
+    ],
+    "52A10": [
+      {
+        "concept": "椭圆中通过两个焦点的较长直径，决定椭圆的大小和形状。",
+        "source": "case_annotation",
+        "protege_id": "Z09-002"
+      },
+      {
+        "concept": "椭圆中与长轴垂直的较短直径，决定椭圆的扁平程度。",
+        "source": "case_annotation",
+        "protege_id": "Shiyi_Term_MinorAxis"
+      },
+      {
+        "concept": "具有单对称轴或双对称轴的凸曲线",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "51M15": [
+      {
+        "concept": "特殊的矩形和菱形，具有高度对称性，是几何中的基本图形。",
+        "source": "case_annotation",
+        "protege_id": "ZG-0803"
+      },
+      {
+        "concept": "尺（约0.33m）",
+        "source": "case_annotation",
+        "protege_id": "N0311"
+      },
+      {
+        "concept": "小于90度（π/2弧度）的角 | 参考D: 角度小于90°的角，常见于锐角三角形和几何构造。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "非正交的几何关系，如斜角或斜坐标。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "圆周上两点之间的路径，用于测量角度和长度。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "横坐标（x坐标），平面直角坐标系中的水平分量 | 参考D: 点在笛卡尔坐标系中的x坐标值，表示水平位置。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "圆心重合但半径不同的圆",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "给定条件下构造几何图形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "顶点位于圆心，由两条半径构成的角度。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "绘图仪器，用于尺规作图",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "三分角问题（著名的尺规作图难题）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "非代数的解决手段",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "52B11": [
+      {
+        "concept": "特殊的矩形和菱形，具有高度对称性，是几何中的基本图形。",
+        "source": "case_annotation",
+        "protege_id": "ZG-0803"
+      },
+      {
+        "concept": "平面封闭的五边图形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "平面封闭的六边图形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "角的顶点、圆锥的尖端",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "几何图形的边界组成",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "具有多个顶点和边的平面图形",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "平面封闭的八边图形",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "26B15": [
+      {
+        "concept": "圆的周长，计算公式为2πr，其中r为半径。",
+        "source": "case_annotation",
+        "protege_id": "280"
+      }
+    ],
+    "12D99": [
+      {
+        "concept": "乘法的逆运算",
+        "source": "case_annotation",
+        "protege_id": "T040"
+      }
+    ],
+    "53A04": [
+      {
+        "concept": "与给定直线或平面形成直角的直线，用于几何构造和正交性。",
+        "source": "case_annotation",
+        "protege_id": "Z01-078"
+      },
+      {
+        "concept": "曲线切线下方的水平投影",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "一维流形，解析几何的研究对象",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "曲线所有法线的包络线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "曲线法线下方的水平投影",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "坐标系中的基准线或旋转体的中心线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数在某点处的线性逼近",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "描述曲线或曲面局部正交方向的直线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "局部线性逼近或对边比邻边",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "一维线性对象，曲率为零",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "横坐标（x坐标），平面直角坐标系中的水平分量 | 参考D: 点在笛卡尔坐标系中的x坐标值，表示水平位置。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数的变化率",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "连接曲线上两点的路径部分",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "同 Spiral",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "二阶导数为零或不存在的点",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "极坐标下的运动轨迹（如阿基米德螺线）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "最速降线，古典力学与几何的研究热点",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "切线之前的极限状态或余弦的倒数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "同 Evolute",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "描述函数曲率或加速度的量",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "空间曲线，具有恒定的曲率和挠率比",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "曲线在无穷远处趋近的直线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "切线的正切值或向量场的散度",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "将曲线长度转化为等长直线段",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "切面与几何体接触的具体位置",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "同 Normal",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "满足斯涅尔定律的路径变换",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "二次函数的图像，圆锥曲线的一种",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "二次曲线，解析几何的研究对象",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "渐屈线的逆向轨迹",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "圆锥曲线的一种，具有两条渐近线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "一维几何对象，具有长度无宽度",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "曲线切线方向随弧长的变化率",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "积分求长术的对象",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "同 Tangent",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "52B15": [
+      {
+        "concept": "描述图形等边等角或高度对称，如正多边形或正多面体。",
+        "source": "case_annotation",
+        "protege_id": "224"
+      },
+      {
+        "concept": "正十二面体（柏拉图多面体之一）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "正八面体（柏拉图多面体之一）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "具有平面边界的三维空间对象",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "正二十面体（柏拉图多面体之一）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "具有一个多边形底面和多个三角形侧面的体",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "在变换下保持不变的性质",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "四边相等的矩形，或数自乘一次",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "多面体或多边形中的倾斜穿行线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "三角锥（正四面体为柏拉图多面体）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "如四棱锥或三角柱等空间形体",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "满足特定对称群的几何对象",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数的三次方或正六面体",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "20B25": [
+      {
+        "concept": "描述图形等边等角或高度对称，如正多边形或正多面体。",
+        "source": "case_annotation",
+        "protege_id": "224"
+      }
+    ],
+    "11D41": [
+      {
+        "concept": "隅（corner position coefficient）；多项式最高次项系数",
+        "source": "case_annotation",
+        "protege_id": "隅"
+      },
+      {
+        "concept": "方程f(x)=0的解，或数的方根，如平方根、立方根。",
+        "source": "case_annotation",
+        "protege_id": "根"
+      }
+    ],
+    "12F10": [
+      {
+        "concept": "隅（corner position coefficient）；多项式最高次项系数",
+        "source": "case_annotation",
+        "protege_id": "隅"
+      }
+    ],
+    "13F20": [
+      {
+        "concept": "隅（corner position coefficient）；多项式最高次项系数",
+        "source": "case_annotation",
+        "protege_id": "隅"
+      }
+    ],
+    "13P10": [
+      {
+        "concept": "通过消去公共因子或项将表达式化为最简形式。",
+        "source": "case_annotation",
+        "protege_id": "Z05-017"
+      },
+      {
+        "concept": "多项式",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "求解多元方程组的核心步骤",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "65H05": [
+      {
+        "concept": "方程f(x)=0的解，或数的方根，如平方根、立方根。",
+        "source": "case_annotation",
+        "protege_id": "根"
+      }
+    ],
+    "11D45": [
+      {
+        "concept": "通分齐同；reduction to common denominator",
+        "source": "case_annotation",
+        "protege_id": "齐同"
+      }
+    ],
+    "03E75": [
+      {
+        "concept": "通分齐同；reduction to common denominator",
+        "source": "case_annotation",
+        "protege_id": "齐同"
+      }
+    ],
+    "15A04": [
+      {
+        "concept": "两个数或量的除法关系，表示相对大小，用于相似形和等比数列。",
+        "source": "case_annotation",
+        "protege_id": "201-156"
+      },
+      {
+        "concept": "向量或图形的正交映射",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "映射、旋转、平移或坐标代换",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "78A05": [
+      {
+        "concept": "在几何光学中以直线（光线）模拟",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "关于轴或面的对称变换",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "满足斯涅尔定律的路径变换",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "78-00": [
+      {
+        "concept": "在几何光学中以直线（光线）模拟",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "14H50": [
+      {
+        "concept": "曲线切线下方的水平投影",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "坐标满足多项式方程 f(x,y)=0 的点集",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "同 Asymptote",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "一维流形，解析几何的研究对象",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "动力系统中的不动点或图形的交叉点",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "解析几何的研究工具",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "曲线法线下方的水平投影",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "具有三个分支的特殊代数曲线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "同 Hyperbola",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "极坐标下的运动轨迹（如阿基米德螺线）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "曲线在无穷远处趋近的直线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "同 Parabola",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "二次函数的图像，圆锥曲线的一种",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "二次曲线，解析几何的研究对象",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "圆锥曲线的一种，具有两条渐近线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "非代数曲线，如对数、指数曲线",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "26A24": [
+      {
+        "concept": "曲线切线下方的水平投影",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "随时间变化的瞬时速率",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "以导数为核心的数学分支",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "曲线法线下方的水平投影",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数在某点处的线性逼近",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "局部线性逼近或对边比邻边",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "微分中值定理（如拉格朗日中值定理）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数的变化率",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数的微小变动（变分法起源）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "二阶导数为零或不存在的点",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "满足叠加原理的数学模型",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "牛顿力学中的流量，即随时间连续变化的量。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "微分过程中的有限改变量 Δx",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "矢量速度，即位移对时间的导数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "描述函数曲率或加速度的量",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "多项式中各项前的数值因子",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "切线的正切值或向量场的散度",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "标量速度（流数法中的核心物理量）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "研究微分和积分及其应用的数学分支",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "51A05": [
+      {
+        "concept": "法线方向与切面方向的正交状态",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "一维线性对象，曲率为零",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "具有相同斜率且无公共点的直线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "同 Parallel",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "01A45": [
+      {
+        "concept": "随时间变化的瞬时速率",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "具有三个分支的特殊代数曲线",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "牛顿力学中的流量，即随时间连续变化的量。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "确定图形与等面积正方形的关系",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "由纳皮尔发明的早期对数系统",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "将曲线长度转化为等长直线段",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "97I40": [
+      {
+        "concept": "随时间变化的瞬时速率",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "以导数为核心的数学分支",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数在某点处的线性逼近",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "微分中值定理（如拉格朗日中值定理）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "牛顿力学中的流量，即随时间连续变化的量。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "局部或全局的最小点",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "微分过程中的有限改变量 Δx",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "描述函数曲率或加速度的量",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "切线的正切值或向量场的散度",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "极限为零的变量，微积分的逻辑基础。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "局部或全局的最大点",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "51N35": [
+      {
+        "concept": "坐标满足多项式方程 f(x,y)=0 的点集",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "13P05": [
+      {
+        "concept": "一组数共有的因数中最大的一个",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "如 ax2+bx+c",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "如因式分解或向量分解",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "构成乘积的各个组成部分",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "多项式",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "消除公因子或简化代数结构",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "序列中的成员或表达式的组成",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "多项式中各项前的数值因子",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "包含两项的多项式，如 (a+b)",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "无法进一步约简的代数或算术表达式",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "多项式中不含加减号的一个组成部分",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "11B25": [
+      {
+        "concept": "几何级数中项与项之间的恒定倍数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数列及其求和（等差、等比等）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "几何级数（如 1, 2, 4, 8...）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "级数中项与项之间的恒定间隔",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "06A06": [
+      {
+        "concept": "函数在区间内呈单调上升状态",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数在区间内呈单调下降状态",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "26A48": [
+      {
+        "concept": "函数在区间内呈单调上升状态",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数在区间内呈单调下降状态",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "使量或数值变小",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "11J72": [
+      {
+        "concept": "分数形式的数值集合 Q",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "无理数；非有理数的实数",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "97F50": [
+      {
+        "concept": "分数形式的数值集合 Q",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "无理数；非有理数的实数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "固定不变的数值，相对于变量而言",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数学中最基本的抽象对象",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "形式为 bi 的数，其中 i2=−1",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数轴上原点左侧的数值",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "包含正整数、负整数和零的集合 Z。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "有理数与无理数的总和 R",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "形式为 a+bi 的数，其中 i 是虚数单位。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数轴上原点右侧的数值",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "62F10": [
+      {
+        "concept": "数值逼近或统计推断的初步过程",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "算术平均、几何平均或调和平均",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "在统计中指项的加权比例",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "65D99": [
+      {
+        "concept": "数值逼近或统计推断的初步过程",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "用较简单的数表示复杂数值的方法",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数值的计算或表达",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "52A15": [
+      {
+        "concept": "球体的几何中心",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "具有特定属性的区域或环带",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "立体被切开后露出的表面",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "球的一半，具有一个圆形底面",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "具有体积的三维封闭实体",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "涉及球面三角或球面几何",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "三维空间中最对称的封闭曲面",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "二次曲面，分为单叶和双叶双曲面",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "圆锥体的中心旋转轴",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "占据体积的封闭实体",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "三维二次曲面，三个主轴不一定相等",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "两个平行且相等的底面与侧面构成的体",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "圆柱体的中心旋转轴",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "旋转椭球体",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "曲线绕轴旋转生成的类圆锥形状",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "以直角三角形的一条直角边为轴旋转而成的立体",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "二次曲面，具有汇聚光束的物理特性",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "65D20": [
+      {
+        "concept": "数的 1/3 次幂",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数的 1/2 次幂",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "26A42": [
+      {
+        "concept": "包含常数项 C 的原函数族",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "在微积分中指具有确定积分限的",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "序列趋向的终点或函数的极值点",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "积分与代数计算中的常用技巧",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "在微积分中指不带积分限的",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数在区间上的累积效应，如面积或体积。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "确定图形与等面积正方形的关系",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "求导前的原始函数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "将曲线长度转化为等长直线段",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "微积分中求原函数或定积分的过程",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "积分学中的分部积分迭代法",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "研究微分和积分及其应用的数学分支",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "表示确定区域累积量（如面积）的数值",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "复合函数求导法则的逆运算",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "积分求长术的对象",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "求解复杂乘积积分的核心技巧",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "97I50": [
+      {
+        "concept": "包含常数项 C 的原函数族",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "在微积分中指具有确定积分限的",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数在区间上的累积效应，如面积或体积。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "求导前的原始函数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "微积分中求原函数或定积分的过程",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "积分学中的分部积分迭代法",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "表示确定区域累积量（如面积）的数值",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "复合函数求导法则的逆运算",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "求解复杂乘积积分的核心技巧",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "13P15": [
+      {
+        "concept": "表达两个数学表达式相等关系的命题",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "形如 ax3+bx2+cx+d=0 的方程",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "方程的解",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "形如 ax2+bx+c=0 的方程",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "使方程等式成立的未知数值",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "97H20": [
+      {
+        "concept": "表达两个数学表达式相等关系的命题",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "线性方程，图像为直线",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "51N15": [
+      {
+        "concept": "变换理论中的线性或射影映射",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "97G70": [
+      {
+        "concept": "变换理论中的线性或射影映射",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "笛卡尔坐标系",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "坐标系中定位点的参考数值",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "51-00": [
+      {
+        "concept": "研究点、线、面及空间结构的数学分支",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "97Gxx": [
+      {
+        "concept": "研究点、线、面及空间结构的数学分支",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "54H20": [
+      {
+        "concept": "动力系统中的不动点或图形的交叉点",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "58K05": [
+      {
+        "concept": "动力系统中的不动点或图形的交叉点",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "34A05": [
+      {
+        "concept": "描述变量间动态变化关系的等式",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "方程中除自变量外的调节常数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "具有缩放不变性的函数或方程",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "34-00": [
+      {
+        "concept": "描述变量间动态变化关系的等式",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "35-00": [
+      {
+        "concept": "描述变量间动态变化关系的等式",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "26-00": [
+      {
+        "concept": "以导数为核心的数学分支",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "研究微分和积分及其应用的数学分支",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "97I30": [
+      {
+        "concept": "描述函数在某点附近的局部性状",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "无穷级数，全书处理超越函数的方法",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "形式为 ∑an 的表达式，研究其收敛性。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数列及其求和（等差、等比等）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "几何级数（如 1, 2, 4, 8...）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "序列或函数变化的终极趋势。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "序列或级数不收敛，趋向无穷或震荡。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "序列或级数存在有限极限的状态",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "映射 N→R 的结果",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "26B05": [
+      {
+        "concept": "保持其他变量不变时的瞬时变化率",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "横坐标（x坐标），平面直角坐标系中的水平分量 | 参考D: 点在笛卡尔坐标系中的x坐标值，表示水平位置。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "坐标点到横轴的垂直距离（y坐标）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "偏微分的叠加线性部分",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "35A99": [
+      {
+        "concept": "保持其他变量不变时的瞬时变化率",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "97I60": [
+      {
+        "concept": "保持其他变量不变时的瞬时变化率",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "54C05": [
+      {
+        "concept": "集合间的映射关系，现代分析的核心",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数有定义的自变量集合",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数的逆（如反三角函数）或逆运算",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "拓扑空间中不属于集合及其边界的点集",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "拓扑或分析中描述映射平滑过渡的性质",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "映射、旋转、平移或坐标代换",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "映射的逆过程，如 y=f(x) 到 x=f−1(y)",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "97I20": [
+      {
+        "concept": "集合间的映射关系，现代分析的核心",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "同 Variable",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "指数、对数、三角、反三角函数等",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数定义域内的移动元素",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "26D15": [
+      {
+        "concept": "算术平均、几何平均或调和平均",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数在区间内呈单调下降状态",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "11A55": [
+      {
+        "concept": "一种特殊的数值表示法，用于逼近实数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "用较简单的数表示复杂数值的方法",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "11J70": [
+      {
+        "concept": "一种特殊的数值表示法，用于逼近实数",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "40A15": [
+      {
+        "concept": "一种特殊的数值表示法，用于逼近实数",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "11A63": [
+      {
+        "concept": "方程的根或进位制的基准",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "序列中的序号或数学对象的特征指标",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "0-9 之间的基本数符",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "带有小数点的十进制数值表示",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "97G60": [
+      {
+        "concept": "周期性波动的基本函数模型",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "以三角函数为核心的计算学科",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "正切函数的倒数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "正弦函数平移 π/2 后的函数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "正弦函数的倒数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "古典三角函数之一",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "30C15": [
+      {
+        "concept": "数的 1/2 次幂",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "40-00": [
+      {
+        "concept": "无穷级数，全书处理超越函数的方法",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "形式为 ∑an 的表达式，研究其收敛性。",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "03B30": [
+      {
+        "concept": "同 Deduce",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "逻辑上的反向陈述",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "逻辑上的恒等关系",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "为了论证而设定的前提命题",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数学逻辑中的完全一致性",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数学系统中的判断句",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "演绎推理过程",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "通过公理和推导确认命题正确性",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "几何体系中特有的基本假设",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "严谨的数学逻辑推导过程",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数学系统中作为推导起点的基本假设",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "逻辑推理中的演绎法",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "逻辑上互为充要条件或测度相等",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "两个或多个量的公共因子",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "逻辑上被确认的命题",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "00-01": [
+      {
+        "concept": "逻辑严密的、数量化的",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "26A03": [
+      {
+        "concept": "固定不变的数值，相对于变量而言",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数学运算中的固定量",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数有定义的自变量集合",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "未定式或不定方程",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "集合势或数值超出任何给定实数。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数轴上原点左侧的数值",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "序列趋向的终点或函数的极值点",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "序列或函数变化的终极趋势。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "同 Variable",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "有理数与无理数的总和 R",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数值轴上的远端极限 ∞",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "极限过程中的动态描述",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "数轴上原点右侧的数值",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "极限为零的变量，微积分的逻辑基础。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数定义域内的移动元素",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "11-00": [
+      {
+        "concept": "数学中最基本的抽象对象",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "包含正整数、负整数和零的集合 Z。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "研究加减乘除等基本数运算的科学 | 参考D: 研究数、算术运算、比例和数论。",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "26Dxx": [
+      {
+        "concept": "使用 &lt;, &gt;, ≤, ≥ 号连接的命题",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "逻辑上的不相等",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "97H30": [
+      {
+        "concept": "使用 &lt;, &gt;, ≤, ≥ 号连接的命题",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "14A25": [
+      {
+        "concept": "横坐标（x坐标），平面直角坐标系中的水平分量 | 参考D: 点在笛卡尔坐标系中的x坐标值，表示水平位置。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "坐标点到横轴的垂直距离（y坐标）",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "15A03": [
+      {
+        "concept": "代数项的组成部分",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "满足叠加原理的数学模型",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "线性空间的秩或几何空间的维数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "具有缩放不变性的函数或方程",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "70-00": [
+      {
+        "concept": "代数项的组成部分",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "物理量或几何重心保持稳定的状态",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "矢量速度，即位移对时间的导数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "在统计中指项的加权比例",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "科学文献（如《代微积拾级》本身）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "如匀速运动或均匀分布",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "标量速度（流数法中的核心物理量）",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "12-00": [
+      {
+        "concept": "用符号代表数进行运算的数学分支 | 参考D: 研究变量、方程和结构，如群、环、域。",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "11B99": [
+      {
+        "concept": "衡量集合大小的数，如 1, 2, 3...",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "映射 N→R 的结果",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "49-00": [
+      {
+        "concept": "同 Maximum",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数的微小变动（变分法起源）",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "局部或全局的最小点",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "同 Minimum",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "局部或全局的最大点",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "30A05": [
+      {
+        "concept": "形式为 bi 的数，其中 i2=−1",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "复平面的向量长度或同余运算的基数",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "形式为 a+bi 的数，其中 i 是虚数单位。",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "49Jxx": [
+      {
+        "concept": "函数的微小变动（变分法起源）",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "11Dxx": [
+      {
+        "concept": "未定式或不定方程",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "70C20": [
+      {
+        "concept": "物理量或几何重心保持稳定的状态",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "01A50": [
+      {
+        "concept": "牛顿力学中的流量，即随时间连续变化的量。",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "90C30": [
+      {
+        "concept": "局部或全局的最小点",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "局部或全局的最大点",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "26A51": [
+      {
+        "concept": "函数二阶导数大于零的区间性质",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数二阶导数小于零的区间性质（或集合性质）",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "52A30": [
+      {
+        "concept": "函数二阶导数大于零的区间性质",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "01A55": [
+      {
+        "concept": "科学文献（如《代微积拾级》本身）",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "51N99": [
+      {
+        "concept": "天文学或几何中描述位置的角参数",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "70F05": [
+      {
+        "concept": "天文学或几何中描述位置的角参数",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "52A20": [
+      {
+        "concept": "函数二阶导数小于零的区间性质（或集合性质）",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "41A99": [
+      {
+        "concept": "用较简单的数表示复杂数值的方法",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "26A15": [
+      {
+        "concept": "如匀速运动或均匀分布",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "拓扑或分析中描述映射平滑过渡的性质",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "11Nxx": [
+      {
+        "concept": "复平面的向量长度或同余运算的基数",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "54F45": [
+      {
+        "concept": "线性空间的秩或几何空间的维数",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "28A25": [
+      {
+        "concept": "在微积分中指不带积分限的",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "函数在区间上的累积效应，如面积或体积。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "表示确定区域累积量（如面积）的数值",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "26B10": [
+      {
+        "concept": "未解出因变量的函数表达方式",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "58C15": [
+      {
+        "concept": "未解出因变量的函数表达方式",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "20Bxx": [
+      {
+        "concept": "在变换下保持不变的性质",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "41A05": [
+      {
+        "concept": "构造通过已知点的逼近函数",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "65D05": [
+      {
+        "concept": "构造通过已知点的逼近函数",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "97N50": [
+      {
+        "concept": "构造通过已知点的逼近函数",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "13A02": [
+      {
+        "concept": "具有缩放不变性的函数或方程",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "11C20": [
+      {
+        "concept": "线性代数中用于判断线性方程组解的特征值",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "15A15": [
+      {
+        "concept": "线性代数中用于判断线性方程组解的特征值",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "40A30": [
+      {
+        "concept": "序列或级数不收敛，趋向无穷或震荡。",
+        "source": "daiweiji_hasMSC"
+      },
+      {
+        "concept": "序列或级数存在有限极限的状态",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "34A12": [
+      {
+        "concept": "常用于初值问题中的边界条件",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "30-00": [
+      {
+        "concept": "形式为 a+bi 的数，其中 i 是虚数单位。",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "52B10": [
+      {
+        "concept": "二维流形，立体的边界",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "01A20": [
+      {
+        "concept": "三分角问题（著名的尺规作图难题）",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "97Mxx": [
+      {
+        "concept": "应用数学范畴",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "97Ixx": [
+      {
+        "concept": "研究微分和积分及其应用的数学分支",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "91B28": [
+      {
+        "concept": "金融数学中的现值折算",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "97M30": [
+      {
+        "concept": "金融数学中的现值折算",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "68W30": [
+      {
+        "concept": "代数表达式的简化形式或缩写记号",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "58A10": [
+      {
+        "concept": "偏微分的叠加线性部分",
+        "source": "daiweiji_hasMSC"
+      }
+    ],
+    "97G80": [
+      {
+        "concept": "几何辅助图形或逻辑图示",
+        "source": "daiweiji_hasMSC"
+      }
+    ]
+  }
+}

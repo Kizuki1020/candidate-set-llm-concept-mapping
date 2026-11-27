@@ -1,0 +1,15 @@
+# 验证环境（本包 verify_package.py / p0c_analysis.py / make_fig3-4.py 实际运行环境）
+# 2026-11-09 记录于 macOS (arm64)，Python 3.9.6
+python==3.9.6
+numpy==2.0.2
+pandas==2.3.3
+scipy==1.13.1
+matplotlib==3.9.4
+
+# 说明:
+# - 原始推理环境 (vLLM + xgrammar, Qwen3-32B bf16, sentence-transformers) 的
+#   精确版本未记录；完整重推理不宣称可复现，见 README.txt。
+# - 本机验证使用 numpy 2.0.2，高于 requirements.txt 中 `numpy<2.0.0` 的推理端
+#   约束；verify_package.py 的全部检查在该版本下通过（仅统计计算，无推理）。
+# - statsmodels 未安装；code/exp1_analysis_874800e0.py 的 H4 OLS 交互项需要它
+#   （可选安装；核心复现不依赖）。

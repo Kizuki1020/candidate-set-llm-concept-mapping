@@ -1,0 +1,46 @@
+{
+  "A": {
+    "HC": {
+      "n": 150,
+      "identical": 149,
+      "frac": 0.9933
+    },
+    "RO": {
+      "n": 150,
+      "identical": 150,
+      "frac": 1.0
+    },
+    "SC": {
+      "n": 150,
+      "identical": 150,
+      "frac": 1.0
+    },
+    "UC": {
+      "n": 150,
+      "identical": 150,
+      "frac": 1.0
+    }
+  },
+  "B": {
+    "HC": {
+      "n": 150,
+      "identical": 150,
+      "frac": 1.0
+    },
+    "RO": {
+      "n": 150,
+      "identical": 149,
+      "frac": 0.9933
+    },
+    "SC": {
+      "n": 150,
+      "identical": 150,
+      "frac": 1.0
+    },
+    "UC": {
+      "n": 150,
+      "identical": 146,
+      "frac": 0.9733
+    }
+  }
+}

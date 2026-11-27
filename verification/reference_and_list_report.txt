@@ -1,0 +1,10 @@
+A equal list lengths supported for 150 records
+B equal list lengths supported for 150 records
+Diagnostic L3 181 expert NONE 20
+commercial_claude_828 code selections on 181 154 core errors 632 high-confidence errors 226
+commercial_deepseek_828 code selections on 181 171 core errors 510 high-confidence errors 509
+commercial_gpt4omini_828 code selections on 181 161 core errors 613 high-confidence errors 597
+Triple code / NONE with within-key order 138 3
+Triple-code bounds allowing within-key permutations [138, 139]
+Legacy 123 bge_m3_top1 McNemar p 0.08715855330228806
+Legacy 123 reranker_base_top1 McNemar p 0.08014331245794892

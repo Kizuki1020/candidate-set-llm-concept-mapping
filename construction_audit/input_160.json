@@ -1,0 +1,2743 @@
+{
+  "test_cases": [
+    {
+      "protege_id": "N0683",
+      "name": "望木末",
+      "romanization": "",
+      "original_definition": "望木末适与山峰斜平",
+      "modern_definition": "瞄准树顶",
+      "msc_codes": [
+        "00A05"
+      ],
+      "source_book": "《九章算术》·9",
+      "P_Class": "P1",
+      "L_Class": "L3",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "N0169",
+      "name": "粝饭",
+      "romanization": "",
+      "original_definition": "粗米饭",
+      "modern_definition": "粗米饭",
+      "msc_codes": [
+        "01A25"
+      ],
+      "source_book": "《九章算术》·3",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "281",
+      "name": "角",
+      "romanization": "Keo",
+      "original_definition": "由两条射线共享端点形成的图形。",
+      "modern_definition": "由一点出发的两条射线形成的图形，用于度量旋转和方向。",
+      "msc_codes": [
+        "MSC-51M10",
+        "97G40",
+        "00A05",
+        "00A05"
+      ],
+      "source_book": "《测圆海镜》",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "201-128",
+      "name": "式",
+      "romanization": "Shŭh / Kung shĭh / Shĭh",
+      "original_definition": "表达普遍规律的数学等式或算法",
+      "modern_definition": "解决特定问题的通用计算模型",
+      "msc_codes": [
+        "MSC-01A25",
+        "03C05",
+        "97D40"
+      ],
+      "source_book": "《测圆海镜》",
+      "P_Class": "P0",
+      "L_Class": "L3",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "N0433",
+      "name": "不足适足术",
+      "romanization": "",
+      "original_definition": "以不足之数为实置所出率以少减多余为法实如法得一人以适足乘人数得物价",
+      "modern_definition": "不足与适足情形的插值；deficiency with exact-fit interpolation",
+      "msc_codes": [
+        "01A07",
+        "65H99"
+      ],
+      "source_book": "《九章算术》·7",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "N0451",
+      "name": "金",
+      "romanization": "",
+      "original_definition": "合伙购买的标的物（黄金）",
+      "modern_definition": "黄金；gold",
+      "msc_codes": [
+        "91C99",
+        "00A05"
+      ],
+      "source_book": "《九章算术》·7",
+      "P_Class": "P2",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "N0540",
+      "name": "移项",
+      "romanization": "",
+      "original_definition": "损之曰益，益之曰损",
+      "modern_definition": "移项",
+      "msc_codes": [
+        "15A06"
+      ],
+      "source_book": "《九章算术》·8",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "N0530",
+      "name": "燕",
+      "romanization": "",
+      "original_definition": "五雀六燕",
+      "modern_definition": "燕子",
+      "msc_codes": [
+        "00A05"
+      ],
+      "source_book": "《九章算术》·8",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "弦率",
+      "name": "20",
+      "romanization": "",
+      "original_definition": "古算术语今用斜边比率",
+      "modern_definition": "斜边比率",
+      "msc_codes": [
+        "11A05"
+      ],
+      "source_book": "《九章算术》",
+      "P_Class": "P1",
+      "L_Class": "L3",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "N0081",
+      "name": "所有率",
+      "romanization": "",
+      "original_definition": "四项比例中\"已知量\"所对应的率",
+      "modern_definition": "比例前项（antecedent）",
+      "msc_codes": [
+        "03H05",
+        "01A25"
+      ],
+      "source_book": "《九章算术》·2",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "AuxiliaryTerm"
+    },
+    {
+      "protege_id": "Z10-030",
+      "name": "股弦和",
+      "romanization": "",
+      "original_definition": "則平地最遠界與斜面最遠界比，若股弦和與弦比",
+      "modern_definition": "股弦和",
+      "msc_codes": [
+        "51M04",
+        "51N05",
+        "11A05"
+      ],
+      "source_book": "《则古昔斋算学》·卷十·火器真诀",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "G06",
+      "name": "G06",
+      "romanization": "",
+      "original_definition": "题33-34",
+      "modern_definition": "球冠曲面（spherical cap surface）",
+      "msc_codes": [
+        "53A05"
+      ],
+      "source_book": "《九章算术》",
+      "P_Class": "P1",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "454",
+      "name": "相减",
+      "romanization": "",
+      "original_definition": "中行与右行相减",
+      "modern_definition": "相减",
+      "msc_codes": [
+        "MSC-01A25"
+      ],
+      "source_book": "《测圆海镜》",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "N0300",
+      "name": "曲池",
+      "romanization": "",
+      "original_definition": "曲面体（上下底为环形弧段）",
+      "modern_definition": "曲池/曲面拟柱体（curved frustum）；中国数学特有几何体",
+      "msc_codes": [
+        "51M25"
+      ],
+      "source_book": "《九章算术》·5",
+      "P_Class": "P1",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "Multiplicand",
+      "name": "Multiplicand 實",
+      "romanization": "Shĭh",
+      "original_definition": "以高乘底爲實本乘方數加一爲法除之得尖錐積",
+      "modern_definition": "被乘数",
+      "msc_codes": [
+        "11A05",
+        "00A05",
+        "08A05",
+        "97F30"
+      ],
+      "source_book": "《代微积拾级》",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "N0214",
+      "name": "步之",
+      "romanization": "",
+      "original_definition": "将借算从个位向高位逐步移动以确定商的位数",
+      "modern_definition": "逐位移位（shifting position step by step）",
+      "msc_codes": [
+        "11A25"
+      ],
+      "source_book": "《九章算术》·4",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "Z11-021",
+      "name": "方",
+      "romanization": "Fang",
+      "original_definition": "正立尖錐底方上四面形如正平尖錐",
+      "modern_definition": "正方形/方形",
+      "msc_codes": [
+        "41A58",
+        "40A05",
+        "12D05"
+      ],
+      "source_book": "《则古昔斋算学》·卷十一·对数尖锥变法释",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "T25",
+      "name": "T25",
+      "romanization": "",
+      "original_definition": "经分术（刘徽注）",
+      "modern_definition": "分数除法倒数法",
+      "msc_codes": [
+        "26A06"
+      ],
+      "source_book": "《九章算术》",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "142",
+      "name": "三之",
+      "romanization": "",
+      "original_definition": "开立方中将初商三倍作为定法",
+      "modern_definition": "三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax²+a³中的角色",
+      "msc_codes": [
+        "MSC-01A25",
+        "65G99"
+      ],
+      "source_book": "《测圆海镜》",
+      "P_Class": "P0",
+      "L_Class": "L3",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "C05",
+      "name": "C05",
+      "romanization": "",
+      "original_definition": "题5",
+      "modern_definition": "黄金；gold",
+      "msc_codes": [
+        "91C99"
+      ],
+      "source_book": "《九章算术》",
+      "P_Class": "P2",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "N0301",
+      "name": "盘池",
+      "romanization": "",
+      "original_definition": "上下底均为矩形的拟柱体（同刍童）",
+      "modern_definition": "盘池（同刍童公式）；中国数学特有几何体",
+      "msc_codes": [
+        "51M25"
+      ],
+      "source_book": "《九章算术》·5",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "N0064",
+      "name": "平实",
+      "romanization": "",
+      "original_definition": "分数加和乘以各分母的中间结果（求均值中间量）",
+      "modern_definition": "无现代直接对应词",
+      "msc_codes": [
+        "26A06"
+      ],
+      "source_book": "《九章算术》·1",
+      "P_Class": "P3",
+      "L_Class": "L3",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "N0519",
+      "name": "入之",
+      "romanization": "",
+      "original_definition": "以正负术入之",
+      "modern_definition": "代入运算",
+      "msc_codes": [
+        "15A06"
+      ],
+      "source_book": "《九章算术》·8",
+      "P_Class": "P2",
+      "L_Class": "L3",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "T19",
+      "name": "T19",
+      "romanization": "",
+      "original_definition": "题35-36",
+      "modern_definition": "弓形面积近似公式",
+      "msc_codes": [
+        "51M25"
+      ],
+      "source_book": "《九章算术》",
+      "P_Class": "P1",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "N0504",
+      "name": "秉",
+      "romanization": "",
+      "original_definition": "上禾三秉，中禾二秉，下禾一秉",
+      "modern_definition": "束/捆（量词）",
+      "msc_codes": [
+        "00A05"
+      ],
+      "source_book": "《九章算术》·8",
+      "P_Class": "P1",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "N0310",
+      "name": "丈",
+      "romanization": "",
+      "original_definition": "长度单位：1丈=10尺",
+      "modern_definition": "丈（约3.33m）",
+      "msc_codes": [
+        "01A25"
+      ],
+      "source_book": "《九章算术》·5",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "AuxiliaryTerm"
+    },
+    {
+      "protege_id": "N0177",
+      "name": "升",
+      "romanization": "",
+      "original_definition": "容积基本单位",
+      "modern_definition": "升（基准容积）",
+      "msc_codes": [
+        "01A25",
+        "00A05"
+      ],
+      "source_book": "《九章算术》·3",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "AuxiliaryTerm"
+    },
+    {
+      "protege_id": "N0582",
+      "name": "四元一次方程",
+      "romanization": "",
+      "original_definition": "2道四元一次方程问题",
+      "modern_definition": "四元一次方程组",
+      "msc_codes": [
+        "15A06"
+      ],
+      "source_book": "《九章算术》·8",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "251-043",
+      "name": "勾",
+      "romanization": "",
+      "original_definition": "今有勾三尺，股四尺",
+      "modern_definition": "直接映射",
+      "msc_codes": [
+        "MSC-01A25",
+        "51N05",
+        "33B10"
+      ],
+      "source_book": "《测圆海镜》",
+      "P_Class": "P0",
+      "L_Class": "L3",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "T02",
+      "name": "T02",
+      "romanization": "",
+      "original_definition": "题3-4注",
+      "modern_definition": "面积单位换算下的矩形面积公式",
+      "msc_codes": [
+        "51M25"
+      ],
+      "source_book": "《九章算术》",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "151-073",
+      "name": "容圆",
+      "romanization": "",
+      "original_definition": "勾股容圆",
+      "modern_definition": "内切圆",
+      "msc_codes": [
+        "MSC-51M10"
+      ],
+      "source_book": "《测圆海镜》",
+      "P_Class": "P0",
+      "L_Class": "L3",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "A-064",
+      "name": "符号",
+      "romanization": "",
+      "original_definition": "符号为正",
+      "modern_definition": "符号",
+      "msc_codes": [
+        "11A05"
+      ],
+      "source_book": "《九章算术》",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "N0088",
+      "name": "凡此诸率相与大通",
+      "romanization": "",
+      "original_definition": "所有粮食比率构成可互相传递的比率网络",
+      "modern_definition": "比率传递性；等价比率集合",
+      "msc_codes": [
+        "03H05",
+        "01A25"
+      ],
+      "source_book": "《九章算术》·2",
+      "P_Class": "P0",
+      "L_Class": "L3",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "AuxiliaryTerm"
+    },
+    {
+      "protege_id": "Z03-045",
+      "name": "加",
+      "romanization": "Kea",
+      "original_definition": "加入第二層得七百七十六萬三千一百五十七又以二除之",
+      "modern_definition": "加法运算的动词形式",
+      "msc_codes": [
+        "11A05",
+        "97F30"
+      ],
+      "source_book": "《则古昔斋算学》·卷三·对数探源",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "N0164",
+      "name": "爵次（爵数）",
+      "romanization": "",
+      "original_definition": "按爵位等级确定的分配比数5:4:3:2:1",
+      "modern_definition": "等级权重序列（rank weight sequence）",
+      "msc_codes": [
+        "01A25"
+      ],
+      "source_book": "《九章算术》·3",
+      "P_Class": "P1",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "AuxiliaryTerm"
+    },
+    {
+      "protege_id": "ZG-0455",
+      "name": "实",
+      "romanization": "",
+      "original_definition": "下为实，实即下禾之实",
+      "modern_definition": "被除数/常数项",
+      "msc_codes": [
+        "11A05",
+        "15A06"
+      ],
+      "source_book": "《则古昔斋算学》·卷五",
+      "P_Class": "P1",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "Vol18_Term_Body",
+      "name": "體",
+      "romanization": "T'è tseĭh / T'è",
+      "original_definition": "三维几何体，具有长度、宽度和高度。",
+      "modern_definition": "三维空间中的几何对象，具有体积，如多面体、球体等。",
+      "msc_codes": [
+        "28A75",
+        "51M25",
+        "97G30"
+      ],
+      "source_book": "《代微积拾级》",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "90",
+      "name": "相除",
+      "romanization": "",
+      "original_definition": "同名相除，异名相除",
+      "modern_definition": "相减消元",
+      "msc_codes": [
+        "15A06",
+        "11A05"
+      ],
+      "source_book": "《则古昔斋算学》·四",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "勾股容方",
+      "name": "14",
+      "romanization": "",
+      "original_definition": "勾股容方已知勾股求勾股形所容正方形的边长",
+      "modern_definition": "直角三角形内接正方形",
+      "msc_codes": [
+        "51M04"
+      ],
+      "source_book": "《九章算术》",
+      "P_Class": "P1",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "N0339",
+      "name": "均赋粟术一",
+      "romanization": "",
+      "original_definition": "以一里僦价乘至输所里以一车二十五斛除之加一斛粟价则致一斛之费各以约其户数为衰",
+      "modern_definition": "综合考虑运费与粟价的均摊赋税算法；proportional tax allocation accounting for transport cost and grain price",
+      "msc_codes": [
+        "11A05",
+        "00A05"
+      ],
+      "source_book": "《九章算术》·6",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "Circle",
+      "name": "Circle 圓",
+      "romanization": "Yuên",
+      "original_definition": "到定点距离相等的点所形成的轨迹",
+      "modern_definition": "具有恒定半径的封闭平面曲线",
+      "msc_codes": [
+        "51M04",
+        "51N20",
+        "97G40"
+      ],
+      "source_book": "《代微积拾级》",
+      "P_Class": "P1",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "N0312",
+      "name": "寸",
+      "romanization": "",
+      "original_definition": "长度小单位：1尺=10寸",
+      "modern_definition": "寸（约3.33cm）",
+      "msc_codes": [
+        "01A25"
+      ],
+      "source_book": "《九章算术》·5",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "AuxiliaryTerm"
+    },
+    {
+      "protege_id": "101-153",
+      "name": "参相直",
+      "romanization": "",
+      "original_definition": "令左两表与所望参相直",
+      "modern_definition": "共线",
+      "msc_codes": [
+        "MSC-51M10"
+      ],
+      "source_book": "《测圆海镜》",
+      "P_Class": "P0",
+      "L_Class": "L3",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "N0200",
+      "name": "衰分与今有术相通",
+      "romanization": "",
+      "original_definition": "衰分术各项比率=所求率副并=所有率待分物=所有数",
+      "modern_definition": "多项比例与四项比例的统一性；比例算法归一化",
+      "msc_codes": [
+        "03H05",
+        "01A25"
+      ],
+      "source_book": "《九章算术》·3",
+      "P_Class": "P0",
+      "L_Class": "L3",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "T11",
+      "name": "T11",
+      "romanization": "",
+      "original_definition": "题25-26",
+      "modern_definition": "三角形面积公式 S=bh/2",
+      "msc_codes": [
+        "51M25"
+      ],
+      "source_book": "《九章算术》",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "ZG-0556",
+      "name": "直角",
+      "romanization": "Chĭh këǒ",
+      "original_definition": "90度角（$\\pi/2$弧度）",
+      "modern_definition": "角度为90°的角，是欧几里得几何的基本概念，用于垂直关系定义。",
+      "msc_codes": [
+        "51M04",
+        "97G40"
+      ],
+      "source_book": "《则古昔斋算学》·卷七",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "N0128",
+      "name": "钱",
+      "romanization": "",
+      "original_definition": "货币基本单位",
+      "modern_definition": "钱（货币）",
+      "msc_codes": [
+        "01A25"
+      ],
+      "source_book": "《九章算术》·2",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "AuxiliaryTerm"
+    },
+    {
+      "protege_id": "399",
+      "name": "合",
+      "romanization": "Hŏ",
+      "original_definition": "两个图形或点完全重叠，视为同一。",
+      "modern_definition": "两个几何实体（如点或线）完全重叠，具有相同位置。",
+      "msc_codes": [
+        "MSC-01A25",
+        "2999999999999999980486599061817381213271671188243728977063313482190191329280",
+        "54A05",
+        "51F20"
+      ],
+      "source_book": "《测圆海镜》",
+      "P_Class": "P0",
+      "L_Class": "L3",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "N0314",
+      "name": "里",
+      "romanization": "",
+      "original_definition": "长度单位：1里=300步=1800尺",
+      "modern_definition": "里（约500m）；行程单位",
+      "msc_codes": [
+        "01A25"
+      ],
+      "source_book": "《九章算术》·5",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "AuxiliaryTerm"
+    },
+    {
+      "protege_id": "N0503",
+      "name": "实",
+      "romanization": "",
+      "original_definition": "下为实，实即下禾之实",
+      "modern_definition": "被除数/常数项",
+      "msc_codes": [
+        "11A05",
+        "15A06"
+      ],
+      "source_book": "《九章算术》·8",
+      "P_Class": "P1",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "Vol15_Term_Point",
+      "name": "點",
+      "romanization": "Tëèn",
+      "original_definition": "點者體之小而微者也...墨所成旣爲墨所成則其墨非體乎",
+      "modern_definition": "零维几何对象，用于定义空间中的位置，是几何的基本元素。",
+      "msc_codes": [
+        "51M04",
+        "51N20",
+        ":---",
+        ":---",
+        ":---"
+      ],
+      "source_book": "《代微积拾级》",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "F11",
+      "name": "F11",
+      "romanization": "",
+      "original_definition": "平分术",
+      "modern_definition": "无现代直接对应词",
+      "msc_codes": [
+        "26A06"
+      ],
+      "source_book": "《九章算术》",
+      "P_Class": "P3",
+      "L_Class": "L3",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "M01",
+      "name": "M01",
+      "romanization": "",
+      "original_definition": "全章",
+      "modern_definition": "面积量纲单位",
+      "msc_codes": [
+        "01A25"
+      ],
+      "source_book": "《九章算术》",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "AuxiliaryTerm"
+    },
+    {
+      "protege_id": "N0130",
+      "name": "实",
+      "romanization": "",
+      "original_definition": "被除数（广义的求得结果方）",
+      "modern_definition": "被除数（dividend）；现代\"实数\"义已不同",
+      "msc_codes": [
+        "01A25",
+        "15A06"
+      ],
+      "source_book": "《九章算术》·2",
+      "P_Class": "P2",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "N0477",
+      "name": "亩",
+      "romanization": "",
+      "original_definition": "面积单位",
+      "modern_definition": "面积单位；area unit",
+      "msc_codes": [
+        "00A05",
+        "00A05"
+      ],
+      "source_book": "《九章算术》·7",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "AuxiliaryTerm"
+    },
+    {
+      "protege_id": "餘矢",
+      "name": "餘矢",
+      "romanization": "Yû shè",
+      "original_definition": "余弦的补数，即 $1 - \\sin(x)$ （注：原文对应Coversine definition）",
+      "modern_definition": "余矢函数；$\\text{covers}(x) = 1 - \\sin(x)$ （现代较少使用）",
+      "msc_codes": [
+        "33B10",
+        "26A09",
+        "40A05",
+        "41A58"
+      ],
+      "source_book": "《则古昔斋算学》·卷二",
+      "P_Class": "P2",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "AuxiliaryTerm"
+    },
+    {
+      "protege_id": "N0397",
+      "name": "凫/雁",
+      "romanization": "",
+      "original_definition": "鸭/雁（行程速率的隐喻载体）",
+      "modern_definition": "以动物隐喻速率的题目载体；animal metaphor for speed problems",
+      "msc_codes": [
+        "11A05",
+        "97A40"
+      ],
+      "source_book": "《九章算术》·6",
+      "P_Class": "P2",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "置",
+      "name": "置",
+      "romanization": "",
+      "original_definition": "\"置正弦以約法約之\"",
+      "modern_definition": "排列/布列",
+      "msc_codes": [
+        "65G99",
+        "1965-04-01 00:00:00",
+        "41A10",
+        "65D15"
+      ],
+      "source_book": "《则古昔斋算学》·卷二",
+      "P_Class": "P1",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "Vol14_Term_Element",
+      "name": "元",
+      "romanization": "Yuên soó / Yuên",
+      "original_definition": "代表数量的符号，即未知数（变量）",
+      "modern_definition": "代数中表示未知数或变量的符号，用于方程和表达式。",
+      "msc_codes": [
+        "00A05",
+        "300000",
+        "51M04"
+      ],
+      "source_book": "《代微积拾级》",
+      "P_Class": "P1",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "AuxiliaryTerm"
+    },
+    {
+      "protege_id": "151-107",
+      "name": "式",
+      "romanization": "Shŭh / Kung shĭh / Shĭh",
+      "original_definition": "表达普遍规律的数学等式或算法",
+      "modern_definition": "解决特定问题的通用计算模型",
+      "msc_codes": [
+        "MSC-01A25",
+        "03C05",
+        "97D40"
+      ],
+      "source_book": "《测圆海镜》",
+      "P_Class": "P0",
+      "L_Class": "L3",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "N0215",
+      "name": "初商",
+      "romanization": "",
+      "original_definition": "开方/开立方时最高位的首次估算值",
+      "modern_definition": "首商/初始近似值（first digit estimate）；iterative approximation",
+      "msc_codes": [
+        "11A25",
+        "65F05"
+      ],
+      "source_book": "《九章算术》·4",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "Vol18_Term_Radius",
+      "name": "半徑",
+      "romanization": "Pwán king",
+      "original_definition": "二乘尖錐之底二分半徑之一也以其餘四分之爲四乘尖錐之底",
+      "modern_definition": "圆或球体中从中心到边界点的距离，是几何度量的基本量。",
+      "msc_codes": [
+        "51M04",
+        "51N05",
+        "65G99"
+      ],
+      "source_book": "《代微积拾级》",
+      "P_Class": "P0",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "AuxiliaryTerm"
+    },
+    {
+      "protege_id": "A-022",
+      "name": "过",
+      "romanization": "",
+      "original_definition": "价过一万，如半马之价",
+      "modern_definition": "超过/大于",
+      "msc_codes": [
+        "11A05"
+      ],
+      "source_book": "《九章算术》",
+      "P_Class": "P1",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "Duishu_Term_SelfMultiply",
+      "name": "自乘",
+      "romanization": "",
+      "original_definition": "以三連次自乘至十三次得○○四七八二九六九大於表中十三乘尖錐積",
+      "modern_definition": "平方",
+      "msc_codes": [
+        "26A09",
+        "11A05",
+        "12D10",
+        "65G99"
+      ],
+      "source_book": "《则古昔斋算学》",
+      "P_Class": "P1",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "215",
+      "name": "幂",
+      "romanization": "Meih",
+      "original_definition": "数的平方运算或正方形面积。",
+      "modern_definition": "数的二次幂，或正方形的面积，用于代数和几何。",
+      "msc_codes": [
+        "MSC-01A25",
+        "26A09",
+        "12D10"
+      ],
+      "source_book": "《测圆海镜》",
+      "P_Class": "P0",
+      "L_Class": "L3",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "201-095",
+      "name": "和",
+      "romanization": "Hô",
+      "original_definition": "加法运算的最终结果",
+      "modern_definition": "两个或多个数值相加的结果，用于数列和级数求和。",
+      "msc_codes": [
+        "MSC-01A25",
+        "40A05",
+        "97F30"
+      ],
+      "source_book": "《测圆海镜》",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "Hushi_Term_Radius",
+      "name": "半徑",
+      "romanization": "Pwán king",
+      "original_definition": "二乘尖錐之底二分半徑之一也以其餘四分之爲四乘尖錐之底",
+      "modern_definition": "圆或球体中从中心到边界点的距离，是几何度量的基本量。",
+      "msc_codes": [
+        "51M04",
+        "51N05",
+        "33B10"
+      ],
+      "source_book": "《则古昔斋算学》",
+      "P_Class": "P0",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "N0694",
+      "name": "邪之适出",
+      "romanization": "",
+      "original_definition": "邪之适出",
+      "modern_definition": "斜向恰好通过",
+      "msc_codes": [
+        "51M04"
+      ],
+      "source_book": "《九章算术》·9",
+      "P_Class": "P1",
+      "L_Class": "L3",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "N0235",
+      "name": "牟合方盖",
+      "romanization": "",
+      "original_definition": "两个正交圆柱的公共部分（用于推导球体积公式）",
+      "modern_definition": "Steinmetz solid（双柱交集）；球体积推导的关键几何体",
+      "msc_codes": [
+        "51M25",
+        "03B50"
+      ],
+      "source_book": "《九章算术》·4",
+      "P_Class": "P1",
+      "L_Class": "L3",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "A-057",
+      "name": "代入",
+      "romanization": "",
+      "original_definition": "代入⑥式",
+      "modern_definition": "代入",
+      "msc_codes": [
+        "15A06"
+      ],
+      "source_book": "《九章算术》",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "N0382",
+      "name": "佣价",
+      "romanization": "",
+      "original_definition": "雇工每日工价",
+      "modern_definition": "雇工每日工资；daily labor wage",
+      "msc_codes": [
+        "91B16",
+        "00A05"
+      ],
+      "source_book": "《九章算术》·6",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "R08",
+      "name": "R08",
+      "romanization": "",
+      "original_definition": "题21-22",
+      "modern_definition": "劳动效率的折算原理；不同劳动条件下的效率换算",
+      "msc_codes": [
+        "00A05"
+      ],
+      "source_book": "《九章算术》",
+      "P_Class": "P0",
+      "L_Class": "L3",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "Vol14_Term_Logarithm",
+      "name": "對數",
+      "romanization": "Túy soó",
+      "original_definition": "對數以加減爲比例有對數萬求其逐一相對之正數則爲連比例萬率其理夫人而知之",
+      "modern_definition": "函数log_b(x)是指数函数的反函数，用于简化乘除运算。",
+      "msc_codes": [
+        "11A05",
+        "26A09",
+        "33B10",
+        "97F40"
+      ],
+      "source_book": "《代微积拾级》",
+      "P_Class": "P1",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "N0099",
+      "name": "御饭",
+      "romanization": "",
+      "original_definition": "贡米饭，率42",
+      "modern_definition": "贡米饭",
+      "msc_codes": [
+        "01A25"
+      ],
+      "source_book": "《九章算术》·2",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "N0695",
+      "name": "袤",
+      "romanization": "",
+      "original_definition": "户高广袤各几何",
+      "modern_definition": "对角线长度",
+      "msc_codes": [
+        "51M04"
+      ],
+      "source_book": "《九章算术》·9",
+      "P_Class": "P1",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "R06",
+      "name": "R06",
+      "romanization": "",
+      "original_definition": "题8",
+      "modern_definition": "反比例分配原理（inverse proportional principle）",
+      "msc_codes": [
+        "03H05"
+      ],
+      "source_book": "《九章算术》",
+      "P_Class": "P1",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "N0085",
+      "name": "贵率/贱率",
+      "romanization": "",
+      "original_definition": "贵贱两种单价（差1整数）中的高价/低价",
+      "modern_definition": "丢番图整数解的两个值",
+      "msc_codes": [
+        "11A05",
+        "01A25"
+      ],
+      "source_book": "《九章算术》·2",
+      "P_Class": "P1",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "AuxiliaryTerm"
+    },
+    {
+      "protege_id": "151-108",
+      "name": "方程",
+      "romanization": "",
+      "original_definition": "置上禾三秉，中禾二秉，下禾一秉，实三十九斗于右方",
+      "modern_definition": "线性方程组",
+      "msc_codes": [
+        "MSC-01A25"
+      ],
+      "source_book": "《测圆海镜》",
+      "P_Class": "P0",
+      "L_Class": "L3",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "N0191",
+      "name": "月",
+      "romanization": "",
+      "original_definition": "时间单位：1月=30日",
+      "modern_definition": "月（时间）",
+      "msc_codes": [
+        "01A25"
+      ],
+      "source_book": "《九章算术》·3",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "AuxiliaryTerm"
+    },
+    {
+      "protege_id": "Z05-080",
+      "name": "廉",
+      "romanization": "",
+      "original_definition": "开立方中的中间项系数（3a²或3ax等）",
+      "modern_definition": "廉（intermediate coefficient）；对应(a+x)³展开中的3a²与3ax项",
+      "msc_codes": [
+        "41A10",
+        "12D05",
+        "40A05"
+      ],
+      "source_book": "《则古昔斋算学》·卷五·四元解",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "201-051",
+      "name": "股",
+      "romanization": "Koò",
+      "original_definition": "股上容圓、股外容圓、股外容半圓",
+      "modern_definition": "几何图形的支撑边或直角边",
+      "msc_codes": [
+        "MSC-01A25",
+        "51N05",
+        "33B10"
+      ],
+      "source_book": "《测圆海镜》",
+      "P_Class": "P0",
+      "L_Class": "L3",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "ZG-0348",
+      "name": "表",
+      "romanization": "Peaòu",
+      "original_definition": "罗列数值的表格（如对数表、三角函数表）",
+      "modern_definition": "数学函数值、统计数据等的表格形式展示，用于数据组织。",
+      "msc_codes": [
+        "65A05",
+        "1965-04-01 00:00:00",
+        "46330"
+      ],
+      "source_book": "《则古昔斋算学》·卷四",
+      "P_Class": "P1",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "AuxiliaryTerm"
+    },
+    {
+      "protege_id": "Multiplication",
+      "name": "Multiplication 乘法",
+      "romanization": "Shîng fă",
+      "original_definition": "求两个数的积的运算",
+      "modern_definition": "乘法",
+      "msc_codes": [
+        "11A05",
+        "08A05",
+        "45673",
+        "97F30"
+      ],
+      "source_book": "《代微积拾级》",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "N0413",
+      "name": "顷",
+      "romanization": "",
+      "original_definition": "面积单位(100亩=1顷)",
+      "modern_definition": "面积单位(100亩)；area unit (100 mu = 1 qing)",
+      "msc_codes": [
+        "00A05",
+        "00A05"
+      ],
+      "source_book": "《九章算术》·6",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "AuxiliaryTerm"
+    },
+    {
+      "protege_id": "Z09-002",
+      "name": "長徑",
+      "romanization": "Chang king",
+      "original_definition": "凡橢圜正交長徑之正弦與長徑上平圜正弦比",
+      "modern_definition": "椭圆中通过两个焦点的较长直径，决定椭圆的大小和形状。",
+      "msc_codes": [
+        "51M04",
+        "51N05",
+        "52A10",
+        "51M25"
+      ],
+      "source_book": "《则古昔斋算学》·卷九·椭圆拾遗",
+      "P_Class": "P0",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "右行",
+      "name": "C",
+      "romanization": "",
+      "original_definition": "level:\"L1\"",
+      "modern_definition": "方程行/列",
+      "msc_codes": [
+        "15A06"
+      ],
+      "source_book": "《则古昔斋算学》",
+      "P_Class": "P0",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "ZG-0004",
+      "name": "體",
+      "romanization": "T'è tseĭh / T'è",
+      "original_definition": "三维几何体，具有长度、宽度和高度。",
+      "modern_definition": "三维空间中的几何对象，具有体积，如多面体、球体等。",
+      "msc_codes": [
+        "28A75",
+        "51M25",
+        "97G30"
+      ],
+      "source_book": "《则古昔斋算学》·卷一",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "ZG-0001",
+      "name": "點",
+      "romanization": "Tëèn",
+      "original_definition": "點者體之小而微者也...墨所成旣爲墨所成則其墨非體乎",
+      "modern_definition": "零维几何对象，用于定义空间中的位置，是几何的基本元素。",
+      "msc_codes": [
+        "51M04",
+        "51N20",
+        ":---",
+        ":---",
+        ":---"
+      ],
+      "source_book": "《则古昔斋算学》·卷一",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "ZG-0803",
+      "name": "正方形",
+      "romanization": "Chéng fang hing",
+      "original_definition": "四边相等且四个角都是直角的四边形。",
+      "modern_definition": "特殊的矩形和菱形，具有高度对称性，是几何中的基本图形。",
+      "msc_codes": [
+        "51M15",
+        "52B11",
+        "97G40",
+        "00A05"
+      ],
+      "source_book": "《则古昔斋算学》·卷十",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "251-151",
+      "name": "半之",
+      "romanization": "",
+      "original_definition": "\"半正矢以減半徑餘以半徑乘之開平方\"",
+      "modern_definition": "除以2（halving）",
+      "msc_codes": [
+        "MSC-01A25",
+        "26A06",
+        "65G99"
+      ],
+      "source_book": "《测圆海镜》",
+      "P_Class": "P0",
+      "L_Class": "L3",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "A-026",
+      "name": "置",
+      "romanization": "",
+      "original_definition": "\"置正弦以約法約之\"",
+      "modern_definition": "排列/布列",
+      "msc_codes": [
+        "15A06",
+        "1965-04-01 00:00:00",
+        "41A10",
+        "65D15"
+      ],
+      "source_book": "《九章算术》",
+      "P_Class": "P1",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "N0472",
+      "name": "升",
+      "romanization": "",
+      "original_definition": "容量单位",
+      "modern_definition": "容量单位；volume unit",
+      "msc_codes": [
+        "00A05",
+        "00A05"
+      ],
+      "source_book": "《九章算术》·7",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "AuxiliaryTerm"
+    },
+    {
+      "protege_id": "129",
+      "name": "廉",
+      "romanization": "",
+      "original_definition": "开立方中的中间项系数（3a²或3ax等）",
+      "modern_definition": "廉（intermediate coefficient）；对应(a+x)³展开中的3a²与3ax项",
+      "msc_codes": [
+        "MSC-01A25",
+        "12D05",
+        "40A05"
+      ],
+      "source_book": "《测圆海镜》",
+      "P_Class": "P0",
+      "L_Class": "L3",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "N0700",
+      "name": "对应边",
+      "romanization": "",
+      "original_definition": "对应边成比例",
+      "modern_definition": "对应边",
+      "msc_codes": [
+        "51M04"
+      ],
+      "source_book": "《九章算术》·9",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "N0131",
+      "name": "法",
+      "romanization": "Fă",
+      "original_definition": "法置尖錐定積表最下一層○○二一七一四七二以二除之",
+      "modern_definition": "除数（divisor）",
+      "msc_codes": [
+        "01A25",
+        "65D15",
+        "12D05",
+        "65G99"
+      ],
+      "source_book": "《九章算术》·2",
+      "P_Class": "P2",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "N0311",
+      "name": "尺",
+      "romanization": "Ch'ĕ",
+      "original_definition": "用于画直线或度量的工具",
+      "modern_definition": "尺（约0.33m）",
+      "msc_codes": [
+        "01A25",
+        "51M15"
+      ],
+      "source_book": "《九章算术》·5",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "AuxiliaryTerm"
+    },
+    {
+      "protege_id": "Z04-036",
+      "name": "隅",
+      "romanization": "",
+      "original_definition": "开方/开立方中定位用的隅算",
+      "modern_definition": "隅（corner position coefficient）；多项式最高次项系数",
+      "msc_codes": [
+        "41A58",
+        "26A06",
+        "12D05"
+      ],
+      "source_book": "《则古昔斋算学》·卷四·垛积比类",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "AuxiliaryTerm"
+    },
+    {
+      "protege_id": "280",
+      "name": "周",
+      "romanization": "Chow",
+      "original_definition": "圆的边界长度，即圆周。",
+      "modern_definition": "圆的周长，计算公式为2πr，其中r为半径。",
+      "msc_codes": [
+        "MSC-51M10",
+        "28A75",
+        "26B15",
+        "51M04"
+      ],
+      "source_book": "《测圆海镜》",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "N0578",
+      "name": "代入",
+      "romanization": "",
+      "original_definition": "代入⑥式",
+      "modern_definition": "代入",
+      "msc_codes": [
+        "15A06"
+      ],
+      "source_book": "《九章算术》·8",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "398",
+      "name": "倍",
+      "romanization": "Peí",
+      "original_definition": "法置二之對數○三○一○三○○○倍之得○六○二○六○○○卽四之對數",
+      "modern_definition": "2倍/乘以2",
+      "msc_codes": [
+        "MSC-01A25",
+        "26A06",
+        "65G99"
+      ],
+      "source_book": "《测圆海镜》",
+      "P_Class": "P0",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "T040",
+      "name": "除",
+      "romanization": "Choô",
+      "original_definition": "以高乘底爲實本乘方數加一爲法除之得尖錐積",
+      "modern_definition": "乘法的逆运算",
+      "msc_codes": [
+        "11A05",
+        "26A06",
+        "65G99",
+        "12D99"
+      ],
+      "source_book": "《则古昔斋算学》·卷一",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "N0240",
+      "name": "寸",
+      "romanization": "",
+      "original_definition": "长度单位：1尺=10寸",
+      "modern_definition": "寸（约3.33cm）",
+      "msc_codes": [
+        "01A25"
+      ],
+      "source_book": "《九章算术》·4",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "AuxiliaryTerm"
+    },
+    {
+      "protege_id": "N0266",
+      "name": "堑堵术",
+      "romanization": "",
+      "original_definition": "广袤相乘以高乘之二而一",
+      "modern_definition": "堑堵体积 V=a×b×h/2；half-cuboid prism volume",
+      "msc_codes": [
+        "51M25",
+        "15A06"
+      ],
+      "source_book": "《九章算术》·5",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "Z01-078",
+      "name": "垂線",
+      "romanization": "Ch'uy seén",
+      "original_definition": "作垂線與引長線成直角然後量其垂線得三尺",
+      "modern_definition": "与给定直线或平面形成直角的直线，用于几何构造和正交性。",
+      "msc_codes": [
+        "51M04",
+        "53A04",
+        "97G40",
+        "00A05"
+      ],
+      "source_book": "《则古昔斋算学》·卷一·方圆阐幽",
+      "P_Class": "P1",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "N0115",
+      "name": "羽（翭）",
+      "romanization": "",
+      "original_definition": "箭羽（以翭计数）",
+      "modern_definition": "箭羽（无现代专用计量词）",
+      "msc_codes": [
+        "01A25"
+      ],
+      "source_book": "《九章算术》·2",
+      "P_Class": "P3",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "T072",
+      "name": "餘矢",
+      "romanization": "Yû shè",
+      "original_definition": "余弦的补数，即 $1 - \\sin(x)$ （注：原文对应Coversine definition）",
+      "modern_definition": "余矢函数；$\\text{covers}(x) = 1 - \\sin(x)$ （现代较少使用）",
+      "msc_codes": [
+        "33B10",
+        "26A09",
+        "40A05",
+        "41A58"
+      ],
+      "source_book": "《则古昔斋算学》·卷一",
+      "P_Class": "P2",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "N0553",
+      "name": "下马",
+      "romanization": "",
+      "original_definition": "下马三匹",
+      "modern_definition": "下等马",
+      "msc_codes": [
+        "00A05"
+      ],
+      "source_book": "《九章算术》·8",
+      "P_Class": "P1",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "N0245",
+      "name": "隅",
+      "romanization": "",
+      "original_definition": "开方/开立方中定位用的隅算",
+      "modern_definition": "隅（corner position coefficient）；多项式最高次项系数",
+      "msc_codes": [
+        "11A25",
+        "26A06",
+        "12D05"
+      ],
+      "source_book": "《九章算术》·4",
+      "P_Class": "P1",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "AuxiliaryTerm"
+    },
+    {
+      "protege_id": "N0172",
+      "name": "素",
+      "romanization": "",
+      "original_definition": "素绸/未染色绸（以匹丈计）",
+      "modern_definition": "素绢",
+      "msc_codes": [
+        "01A25"
+      ],
+      "source_book": "《九章算术》·3",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "N0492",
+      "name": "双假设法",
+      "romanization": "",
+      "original_definition": "盈不足术即西方的双假设法",
+      "modern_definition": "双假设/试位法；regula falsi / double false position",
+      "msc_codes": [
+        "01A07",
+        "65H99"
+      ],
+      "source_book": "《九章算术》·7",
+      "P_Class": "P0",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "224",
+      "name": "正",
+      "romanization": "Ching",
+      "original_definition": "边和角都相等的（多边形）或面和角都相等的（多面体）",
+      "modern_definition": "描述图形等边等角或高度对称，如正多边形或正多面体。",
+      "msc_codes": [
+        "MSC-01A25",
+        "52B15",
+        "20B25",
+        "51N20"
+      ],
+      "source_book": "《测圆海镜》",
+      "P_Class": "P0",
+      "L_Class": "L3",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "AuxiliaryTerm"
+    },
+    {
+      "protege_id": "直角",
+      "name": "直角",
+      "romanization": "Chĭh këǒ",
+      "original_definition": "“乙爲一直角二銳角形”",
+      "modern_definition": "角度为90°的角，是欧几里得几何的基本概念，用于垂直关系定义。",
+      "msc_codes": [
+        "51M04",
+        "97G40"
+      ],
+      "source_book": "《则古昔斋算学》·方圆阐幽卷一",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "C27",
+      "name": "C27",
+      "romanization": "",
+      "original_definition": "题45",
+      "modern_definition": "箭羽（无现代专用计量词）",
+      "msc_codes": [
+        "01A25"
+      ],
+      "source_book": "《九章算术》",
+      "P_Class": "P3",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "N0646",
+      "name": "引葭赴岸",
+      "romanization": "",
+      "original_definition": "引葭赴岸适与岸齐",
+      "modern_definition": "牵引芦苇至岸边",
+      "msc_codes": [
+        "51M04"
+      ],
+      "source_book": "《九章算术》·9",
+      "P_Class": "P1",
+      "L_Class": "L3",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "隅",
+      "name": "隅",
+      "romanization": "",
+      "original_definition": "开方/开立方中定位用的隅算",
+      "modern_definition": "隅（corner position coefficient）；多项式最高次项系数",
+      "msc_codes": [
+        "11D41",
+        "12F10",
+        "13F20"
+      ],
+      "source_book": "《则古昔斋算学》·卷一开方式",
+      "P_Class": "P1",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "AuxiliaryTerm"
+    },
+    {
+      "protege_id": "N0030",
+      "name": "里（平方里）",
+      "romanization": "",
+      "original_definition": "面积单位：1平方里=375亩",
+      "modern_definition": "距离/面积换算单位",
+      "msc_codes": [
+        "01A25"
+      ],
+      "source_book": "《九章算术》·1",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "AuxiliaryTerm"
+    },
+    {
+      "protege_id": "T05",
+      "name": "T05",
+      "romanization": "",
+      "original_definition": "题10-11",
+      "modern_definition": "分数减法 a/b-c/d=(ad-bc)/bd",
+      "msc_codes": [
+        "26A06"
+      ],
+      "source_book": "《九章算术》",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "Z06-033",
+      "name": "表",
+      "romanization": "Peaòu",
+      "original_definition": "罗列数值的表格（如对数表、三角函数表）",
+      "modern_definition": "数学函数值、统计数据等的表格形式展示，用于数据组织。",
+      "msc_codes": [
+        "65A05",
+        "1965-04-01 00:00:00",
+        "46330"
+      ],
+      "source_book": "《则古昔斋算学》·卷六·麟德术解",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "N0095",
+      "name": "大䵂",
+      "romanization": "",
+      "original_definition": "粗麦屑，率54",
+      "modern_definition": "粗麦粉",
+      "msc_codes": [
+        "01A25"
+      ],
+      "source_book": "《九章算术》·2",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "Xinshu_Term_Ratio",
+      "name": "比例",
+      "romanization": "Peí / Peí leí",
+      "original_definition": "乘除爲比例加減爲比例連比例之率以前率與後率遞減之則所餘者仍爲連比例之率",
+      "modern_definition": "两个数或量的除法关系，表示相对大小，用于相似形和等比数列。",
+      "msc_codes": [
+        "51M04",
+        "11A05",
+        "26A06",
+        "51N05"
+      ],
+      "source_book": "《则古昔斋算学》",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "251-040",
+      "name": "答",
+      "romanization": "Tă",
+      "original_definition": "算术或代数问题的最终结果",
+      "modern_definition": "求解过程的最终输出",
+      "msc_codes": [
+        "MSC-01A25"
+      ],
+      "source_book": "《测圆海镜》",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "Z01-072",
+      "name": "餘矢",
+      "romanization": "Yû shè",
+      "original_definition": "余弦的补数，即 $1 - \\sin(x)$ （注：原文对应Coversine definition）",
+      "modern_definition": "余矢函数；$\\text{covers}(x) = 1 - \\sin(x)$ （现代较少使用）",
+      "msc_codes": [
+        "33B10",
+        "26A09",
+        "40A05",
+        "41A58"
+      ],
+      "source_book": "《则古昔斋算学》·卷一·方圆阐幽",
+      "P_Class": "P2",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "Vol16_Term_Point",
+      "name": "點",
+      "romanization": "Tëèn",
+      "original_definition": "點者體之小而微者也...墨所成旣爲墨所成則其墨非體乎",
+      "modern_definition": "零维几何对象，用于定义空间中的位置，是几何的基本元素。",
+      "msc_codes": [
+        "51M04",
+        "51N20",
+        ":---",
+        ":---",
+        ":---"
+      ],
+      "source_book": "《代微积拾级》",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "N0167",
+      "name": "粟",
+      "romanization": "",
+      "original_definition": "带壳谷子（堆积对象）",
+      "modern_definition": "粟（基准粮食）",
+      "msc_codes": [
+        "01A25"
+      ],
+      "source_book": "《九章算术》·3",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "N0195",
+      "name": "带分数",
+      "romanization": "",
+      "original_definition": "整数与真分数之和",
+      "modern_definition": "带分数（mixed number）",
+      "msc_codes": [
+        "26A06",
+        "01A25"
+      ],
+      "source_book": "《九章算术》·3",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "G01",
+      "name": "G01",
+      "romanization": "",
+      "original_definition": "章题、题1-4",
+      "modern_definition": "矩形（rectangle）",
+      "msc_codes": [
+        "51M25"
+      ],
+      "source_book": "《九章算术》",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "ZG-0286",
+      "name": "实",
+      "romanization": "",
+      "original_definition": "下为实，实即下禾之实",
+      "modern_definition": "被除数/常数项",
+      "msc_codes": [
+        "11A05",
+        "15A06"
+      ],
+      "source_book": "《则古昔斋算学》·卷四",
+      "P_Class": "P1",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "AuxiliaryTerm"
+    },
+    {
+      "protege_id": "Z01-052",
+      "name": "圓",
+      "romanization": "Yuen",
+      "original_definition": "方圜之較卽諸乘方之合尖錐也",
+      "modern_definition": "圆的 / 球形的 / 舍入（数值）",
+      "msc_codes": [
+        "51M04",
+        "51N20",
+        "97G40"
+      ],
+      "source_book": "《则古昔斋算学》·卷一·方圆阐幽",
+      "P_Class": "P1",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "F12",
+      "name": "F12",
+      "romanization": "",
+      "original_definition": "平分术",
+      "modern_definition": "无现代直接对应词",
+      "msc_codes": [
+        "26A06"
+      ],
+      "source_book": "《九章算术》",
+      "P_Class": "P3",
+      "L_Class": "L3",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "122",
+      "name": "平实",
+      "romanization": "",
+      "original_definition": "分数加和乘以各分母的中间结果（求均值中间量）",
+      "modern_definition": "无现代直接对应词",
+      "msc_codes": [
+        "MSC-01A25"
+      ],
+      "source_book": "《测圆海镜》",
+      "P_Class": "P0",
+      "L_Class": "L3",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "Z05-017",
+      "name": "相消",
+      "romanization": "Sëang seaou",
+      "original_definition": "通过消去公因数或抵消项来简化",
+      "modern_definition": "通过消去公共因子或项将表达式化为最简形式。",
+      "msc_codes": [
+        "12D05",
+        "13P10",
+        "65G99"
+      ],
+      "source_book": "《则古昔斋算学》·卷五·四元解",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "Z03-048",
+      "name": "自乘",
+      "romanization": "",
+      "original_definition": "以三連次自乘至十三次得○○四七八二九六九大於表中十三乘尖錐積",
+      "modern_definition": "平方",
+      "msc_codes": [
+        "11A05",
+        "26A09",
+        "12D10"
+      ],
+      "source_book": "《则古昔斋算学》·卷三·对数探源",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "ZG-0080",
+      "name": "倍",
+      "romanization": "Peí",
+      "original_definition": "法置二之對數○三○一○三○○○倍之得○六○二○六○○○卽四之對數",
+      "modern_definition": "2倍/乘以2",
+      "msc_codes": [
+        "11A05",
+        "26A06",
+        "65G99"
+      ],
+      "source_book": "《则古昔斋算学》·卷一",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "N0204",
+      "name": "以爵次分之",
+      "romanization": "",
+      "original_definition": "按爵位等级高低确定分配比数的分配原则",
+      "modern_definition": "等级分配原则（rank-based allocation）",
+      "msc_codes": [
+        "01A25"
+      ],
+      "source_book": "《九章算术》·3",
+      "P_Class": "P1",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "N0558",
+      "name": "井",
+      "romanization": "",
+      "original_definition": "五家共井",
+      "modern_definition": "井",
+      "msc_codes": [
+        "00A05"
+      ],
+      "source_book": "《九章算术》·8",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "N0078",
+      "name": "以所求率乘钱数",
+      "romanization": "",
+      "original_definition": "单位换算型比例：所求率×钱数÷所买率",
+      "modern_definition": "单位换算比例 y=ax/b",
+      "msc_codes": [
+        "03H05",
+        "01A25"
+      ],
+      "source_book": "《九章算术》·2",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "N0497",
+      "name": "直除",
+      "romanization": "",
+      "original_definition": "以右行上禾遍乘中行，而以直除",
+      "modern_definition": "行消元（消去法）",
+      "msc_codes": [
+        "15A06"
+      ],
+      "source_book": "《九章算术》·8",
+      "P_Class": "P1",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "N0129",
+      "name": "翭",
+      "romanization": "",
+      "original_definition": "箭羽计数专用单位",
+      "modern_definition": "无现代专用词",
+      "msc_codes": [
+        "01A25"
+      ],
+      "source_book": "《九章算术》·2",
+      "P_Class": "P3",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "AuxiliaryTerm"
+    },
+    {
+      "protege_id": "N0238",
+      "name": "亩",
+      "romanization": "",
+      "original_definition": "面积单位：240平方步=1亩",
+      "modern_definition": "亩",
+      "msc_codes": [
+        "01A25",
+        "00A05"
+      ],
+      "source_book": "《九章算术》·4",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "AuxiliaryTerm"
+    },
+    {
+      "protege_id": "Siyuan_Term_Square",
+      "name": "自乘",
+      "romanization": "",
+      "original_definition": "以三連次自乘至十三次得○○四七八二九六九大於表中十三乘尖錐積",
+      "modern_definition": "平方",
+      "msc_codes": [
+        "26A09",
+        "11A05",
+        "12D10"
+      ],
+      "source_book": "《则古昔斋算学》",
+      "P_Class": "P1",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "N0376",
+      "name": "均输卒",
+      "romanization": "",
+      "original_definition": "按远近户率均摊役卒的制度",
+      "modern_definition": "均等输送役卒；equalized conscription transport",
+      "msc_codes": [
+        "91B16",
+        "00A05"
+      ],
+      "source_book": "《九章算术》·6",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "N0210",
+      "name": "开立圆术",
+      "romanization": "",
+      "original_definition": "以球体积开立方得径再以圆率修正",
+      "modern_definition": "由球体积求直径：d=∛(6V/π)；古代π值偏小导致系统误差",
+      "msc_codes": [
+        "51M25",
+        "11A25"
+      ],
+      "source_book": "《九章算术》·4",
+      "P_Class": "P1",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "根",
+      "name": "根",
+      "romanization": "Kăn",
+      "original_definition": "求得定長方積卽爲諸尖錐定積之根",
+      "modern_definition": "方程f(x)=0的解，或数的方根，如平方根、立方根。",
+      "msc_codes": [
+        "11D41",
+        "12D10",
+        "65H05"
+      ],
+      "source_book": "《则古昔斋算学》·卷一详法",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "N0096",
+      "name": "粝饭",
+      "romanization": "",
+      "original_definition": "粗米饭，率75",
+      "modern_definition": "粗米饭",
+      "msc_codes": [
+        "01A25"
+      ],
+      "source_book": "《九章算术》·2",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "N0248",
+      "name": "法",
+      "romanization": "Fă",
+      "original_definition": "法置尖錐定積表最下一層○○二一七一四七二以二除之",
+      "modern_definition": "除数（divisor）；现代\"法则/模\"义不同",
+      "msc_codes": [
+        "01A25",
+        "65D15",
+        "12D05",
+        "65G99"
+      ],
+      "source_book": "《九章算术》·4",
+      "P_Class": "P2",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "N0098",
+      "name": "糳饭",
+      "romanization": "",
+      "original_definition": "极精米饭，率48",
+      "modern_definition": "精制米饭",
+      "msc_codes": [
+        "01A25"
+      ],
+      "source_book": "《九章算术》·2",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "齐同",
+      "name": "齐同",
+      "romanization": "",
+      "original_definition": "通分使分母相同",
+      "modern_definition": "通分齐同；reduction to common denominator",
+      "msc_codes": [
+        "11D45",
+        "40A05",
+        "03E75"
+      ],
+      "source_book": "《则古昔斋算学》·求实引角",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "Z07-030",
+      "name": "四率",
+      "romanization": "Szé sŭh",
+      "original_definition": "乙子爲四率乙子丑庚爲四率截積甲子爲五率甲乙庚己爲較",
+      "modern_definition": "第四比例项",
+      "msc_codes": [
+        "11A05",
+        "51M04",
+        "26A06"
+      ],
+      "source_book": "《则古昔斋算学》·卷七·椭圆正术解",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "251-034",
+      "name": "幂",
+      "romanization": "Meih",
+      "original_definition": "数的平方运算或正方形面积。",
+      "modern_definition": "数的二次幂，或正方形的面积，用于代数和几何。",
+      "msc_codes": [
+        "MSC-01A25",
+        "26A09",
+        "12D10"
+      ],
+      "source_book": "《测圆海镜》",
+      "P_Class": "P0",
+      "L_Class": "L3",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "M03",
+      "name": "M03",
+      "romanization": "",
+      "original_definition": "题3-4",
+      "modern_definition": "农业面积单位",
+      "msc_codes": [
+        "01A25"
+      ],
+      "source_book": "《九章算术》",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "AuxiliaryTerm"
+    },
+    {
+      "protege_id": "N0452",
+      "name": "羊",
+      "romanization": "",
+      "original_definition": "合伙购买的标的物（羊）",
+      "modern_definition": "羊；sheep",
+      "msc_codes": [
+        "91C99",
+        "00A05"
+      ],
+      "source_book": "《九章算术》·7",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "N0053",
+      "name": "圆周率（π取3）",
+      "romanization": "",
+      "original_definition": "取π=3（古率）",
+      "modern_definition": "圆周率π≈3.14159...",
+      "msc_codes": [
+        "51M25",
+        "51M04"
+      ],
+      "source_book": "《九章算术》·1",
+      "P_Class": "P1",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "Shiyi_Term_MinorAxis",
+      "name": "短徑",
+      "romanization": "Twan king",
+      "original_definition": "凡橢圜正交短徑之正弦與短徑上平圜之正弦比",
+      "modern_definition": "椭圆中与长轴垂直的较短直径，决定椭圆的扁平程度。",
+      "msc_codes": [
+        "51M04",
+        "51N05",
+        "52A10",
+        "51M25"
+      ],
+      "source_book": "《则古昔斋算学》",
+      "P_Class": "P0",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "A-021",
+      "name": "入之",
+      "romanization": "",
+      "original_definition": "以正负术入之",
+      "modern_definition": "代入运算",
+      "msc_codes": [
+        "15A06"
+      ],
+      "source_book": "《九章算术》",
+      "P_Class": "P2",
+      "L_Class": "L3",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "201-036",
+      "name": "木",
+      "romanization": "",
+      "original_definition": "木长二丈",
+      "modern_definition": "树木/木材",
+      "msc_codes": [
+        "MSC-51M10"
+      ],
+      "source_book": "《测圆海镜》",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "T18",
+      "name": "T18",
+      "romanization": "",
+      "original_definition": "题33-34",
+      "modern_definition": "球冠侧面积（错误公式）",
+      "msc_codes": [
+        "53A05"
+      ],
+      "source_book": "《九章算术》",
+      "P_Class": "P1",
+      "L_Class": "L2",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "N0692",
+      "name": "横之不出",
+      "romanization": "",
+      "original_definition": "横之不出四尺",
+      "modern_definition": "横向超出量",
+      "msc_codes": [
+        "51M04"
+      ],
+      "source_book": "《九章算术》·9",
+      "P_Class": "P1",
+      "L_Class": "L3",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    },
+    {
+      "protege_id": "201-156",
+      "name": "比例",
+      "romanization": "Peí / Peí leí",
+      "original_definition": "乘除爲比例加減爲比例連比例之率以前率與後率遞減之則所餘者仍爲連比例之率",
+      "modern_definition": "两个数或量的除法关系，表示相对大小，用于相似形和等比数列。",
+      "msc_codes": [
+        "MSC-01A25",
+        "51N05",
+        "11A05",
+        "15A04"
+      ],
+      "source_book": "《测圆海镜》",
+      "P_Class": "P0",
+      "L_Class": "L1",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "ConceptualTerm"
+    },
+    {
+      "protege_id": "N0198",
+      "name": "先乘后除",
+      "romanization": "",
+      "original_definition": "衰分术运算顺序：先以所分乘各衰再除以副并",
+      "modern_definition": "先乘后除策略（保持精度）；proportional scaling",
+      "msc_codes": [
+        "03H05",
+        "01A25"
+      ],
+      "source_book": "《九章算术》·3",
+      "P_Class": "P0",
+      "L_Class": "L3",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "AuxiliaryTerm"
+    },
+    {
+      "protege_id": "455",
+      "name": "相乘",
+      "romanization": "",
+      "original_definition": "令两出门步数相乘",
+      "modern_definition": "相乘",
+      "msc_codes": [
+        "MSC-01A25",
+        "26A06",
+        "65G99"
+      ],
+      "source_book": "《测圆海镜》",
+      "P_Class": "P0",
+      "L_Class": "L0",
+      "class1": "CoreKnowledgeLogicClasses",
+      "class2": "MathmaticalTerm",
+      "class3": "CalculativeTerm"
+    }
+  ]
+}

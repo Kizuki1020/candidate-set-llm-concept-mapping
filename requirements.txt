@@ -1,0 +1,32 @@
+# ===== GPU 推理 (核心) =====
+torch>=2.5.0,<2.13.0         # CUDA 12.4+ 兼容；pip install torch --index-url https://download.pytorch.org/whl/cu124
+vllm>=0.7.0,<0.9.0           # 批量约束解码
+xgrammar>=0.1.0              # vLLM 结构化输出后端
+transformers>=4.46.0,<5.10.0 # HF 模型加载 / logits 提取
+accelerate>=1.0.0
+safetensors>=0.4.0
+tokenizers>=0.20.0
+bitsandbytes>=0.44.0         # 可选：4bit 量化（显存紧张时启用）
+
+# ===== 统计 / 分析 =====
+statsmodels>=0.14.0
+pingouin>=0.5.0              # Bayesian / effect size
+scipy>=1.12.0
+scikit-learn>=1.5.0
+
+# ===== 数据处理 =====
+numpy>=1.26.0,<2.0.0
+pandas>=2.2.0
+
+# ===== 可视化 =====
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# ===== API / 备选 (Exp4 rescore) =====
+openai>=2.0.0                # 兼容 vLLM OpenAI-compatible server
+
+# ===== 文本嵌入 (Exp4 semantic rescore) =====
+sentence-transformers>=3.0.0
+
+# ===== 工具 =====
+tqdm>=4.66.0

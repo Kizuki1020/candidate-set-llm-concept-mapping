@@ -1,0 +1,25 @@
+domain,id,condition,rep,raw_output,unique_completion,reference,frozen_score,completion_score
+A,142,RO,0,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax²+a³中的角色,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax²+a³中的角色,0,1
+A,142,SC,0,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax²+a³中的角色,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax²+a³中的角色,0,1
+A,142,HC,0,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax²+a³中的角色,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax²+a³中的角色,0,1
+A,142,RO,1,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax²+a³中的角色,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax²+a³中的角色,0,1
+A,142,SC,1,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax²+a³中的角色,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax²+a³中的角色,0,1
+A,142,HC,1,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax²+a³中的角色,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax²+a³中的角色,0,1
+A,142,RO,2,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax²+a³中的角色,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax²+a³中的角色,0,1
+A,142,SC,2,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax²+a³中的角色,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax²+a³中的角色,0,1
+A,142,HC,2,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax²+a³中的角色,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax²+a³中的角色,0,1
+A,101-153,HC,0,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax²+a³中的角色,共线,0,0
+A,101-153,HC,1,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax²+a³中的角色,共线,0,0
+A,101-153,HC,2,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax²+a³中的角色,共线,0,0
+A,N0131,HC,0,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax²+a³中的角色,除数（divisor）,0,0
+A,N0131,HC,1,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax²+a³中的角色,除数（divisor）,0,0
+A,N0131,HC,2,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax²+a³中的角色,除数（divisor）,0,0
+A,398,SC,0,将两个数合并为一个和的运算 | 参考D: 将两个数合并为一个和，满足交换律和结合律,将两个数合并为一个和的运算 | 参考D: 将两个数合并为一个和，满足交换律和结合律。,2倍/乘以2,0,0
+A,398,SC,1,将两个数合并为一个和的运算 | 参考D: 将两个数合并为一个和，满足交换律和结合律,将两个数合并为一个和的运算 | 参考D: 将两个数合并为一个和，满足交换律和结合律。,2倍/乘以2,0,0
+A,398,SC,2,将两个数合并为一个和的运算 | 参考D: 将两个数合并为一个和，满足交换律和结合律,将两个数合并为一个和的运算 | 参考D: 将两个数合并为一个和，满足交换律和结合律。,2倍/乘以2,0,0
+A,N0248,HC,0,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax²+a³中的角色,"除数（divisor）；现代""法则/模""义不同",0,0
+A,N0248,HC,1,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax²+a³中的角色,"除数（divisor）；现代""法则/模""义不同",0,0
+A,N0248,HC,2,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x,三倍操作（tripling）；对应(3a²)在(x+a)³=x³+3a²x+3ax²+a³中的角色,"除数（divisor）；现代""法则/模""义不同",0,0
+B,B_0062,RO,0,不足与适足情形的插值；deficiency with exact-fit ,不足与适足情形的插值；deficiency with exact-fit interpolation,心绞痛,0,0
+B,B_0062,RO,1,不足与适足情形的插值；deficiency with exact-fit ,不足与适足情形的插值；deficiency with exact-fit interpolation,心绞痛,0,0
+B,B_0062,RO,2,不足与适足情形的插值；deficiency with exact-fit ,不足与适足情形的插值；deficiency with exact-fit interpolation,心绞痛,0,0

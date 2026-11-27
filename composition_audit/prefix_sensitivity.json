@@ -1,0 +1,206 @@
+[
+  {
+    "domain": "A",
+    "rule": "frozen",
+    "n": 150,
+    "affected_records": 5,
+    "correct": {
+      "HC": 41,
+      "RO": 85,
+      "SC": 39,
+      "UC": 5
+    },
+    "contrast": "RO-HC",
+    "ro_only": 46,
+    "comparator_only": 2,
+    "difference": 0.29333333333333333,
+    "exact_p": 8.363087999896379e-12
+  },
+  {
+    "domain": "A",
+    "rule": "frozen",
+    "n": 150,
+    "affected_records": 5,
+    "correct": {
+      "HC": 41,
+      "RO": 85,
+      "SC": 39,
+      "UC": 5
+    },
+    "contrast": "RO-SC",
+    "ro_only": 47,
+    "comparator_only": 1,
+    "difference": 0.30666666666666664,
+    "exact_p": 3.481659405224491e-13
+  },
+  {
+    "domain": "A",
+    "rule": "complete_unique_prefix",
+    "n": 150,
+    "affected_records": 5,
+    "correct": {
+      "HC": 42,
+      "RO": 86,
+      "SC": 40,
+      "UC": 5
+    },
+    "contrast": "RO-HC",
+    "ro_only": 46,
+    "comparator_only": 2,
+    "difference": 0.29333333333333333,
+    "exact_p": 8.363087999896379e-12
+  },
+  {
+    "domain": "A",
+    "rule": "complete_unique_prefix",
+    "n": 150,
+    "affected_records": 5,
+    "correct": {
+      "HC": 42,
+      "RO": 86,
+      "SC": 40,
+      "UC": 5
+    },
+    "contrast": "RO-SC",
+    "ro_only": 47,
+    "comparator_only": 1,
+    "difference": 0.30666666666666664,
+    "exact_p": 3.481659405224491e-13
+  },
+  {
+    "domain": "A",
+    "rule": "exclude_any_affected_record",
+    "n": 145,
+    "affected_records": 5,
+    "correct": {
+      "HC": 41,
+      "RO": 84,
+      "SC": 39,
+      "UC": 5
+    },
+    "contrast": "RO-HC",
+    "ro_only": 45,
+    "comparator_only": 2,
+    "difference": 0.296551724137931,
+    "exact_p": 1.6044054973463062e-11
+  },
+  {
+    "domain": "A",
+    "rule": "exclude_any_affected_record",
+    "n": 145,
+    "affected_records": 5,
+    "correct": {
+      "HC": 41,
+      "RO": 84,
+      "SC": 39,
+      "UC": 5
+    },
+    "contrast": "RO-SC",
+    "ro_only": 46,
+    "comparator_only": 1,
+    "difference": 0.3103448275862069,
+    "exact_p": 6.821210263296962e-13
+  },
+  {
+    "domain": "B",
+    "rule": "frozen",
+    "n": 150,
+    "affected_records": 1,
+    "correct": {
+      "HC": 70,
+      "RO": 115,
+      "SC": 94,
+      "UC": 6
+    },
+    "contrast": "RO-HC",
+    "ro_only": 47,
+    "comparator_only": 2,
+    "difference": 0.3,
+    "exact_p": 4.355626970209414e-12
+  },
+  {
+    "domain": "B",
+    "rule": "frozen",
+    "n": 150,
+    "affected_records": 1,
+    "correct": {
+      "HC": 70,
+      "RO": 115,
+      "SC": 94,
+      "UC": 6
+    },
+    "contrast": "RO-SC",
+    "ro_only": 25,
+    "comparator_only": 4,
+    "difference": 0.14,
+    "exact_p": 0.00010371580719947815
+  },
+  {
+    "domain": "B",
+    "rule": "complete_unique_prefix",
+    "n": 150,
+    "affected_records": 1,
+    "correct": {
+      "HC": 70,
+      "RO": 115,
+      "SC": 94,
+      "UC": 6
+    },
+    "contrast": "RO-HC",
+    "ro_only": 47,
+    "comparator_only": 2,
+    "difference": 0.3,
+    "exact_p": 4.355626970209414e-12
+  },
+  {
+    "domain": "B",
+    "rule": "complete_unique_prefix",
+    "n": 150,
+    "affected_records": 1,
+    "correct": {
+      "HC": 70,
+      "RO": 115,
+      "SC": 94,
+      "UC": 6
+    },
+    "contrast": "RO-SC",
+    "ro_only": 25,
+    "comparator_only": 4,
+    "difference": 0.14,
+    "exact_p": 0.00010371580719947815
+  },
+  {
+    "domain": "B",
+    "rule": "exclude_any_affected_record",
+    "n": 149,
+    "affected_records": 1,
+    "correct": {
+      "HC": 69,
+      "RO": 115,
+      "SC": 93,
+      "UC": 6
+    },
+    "contrast": "RO-HC",
+    "ro_only": 47,
+    "comparator_only": 1,
+    "difference": 0.3087248322147651,
+    "exact_p": 3.481659405224491e-13
+  },
+  {
+    "domain": "B",
+    "rule": "exclude_any_affected_record",
+    "n": 149,
+    "affected_records": 1,
+    "correct": {
+      "HC": 69,
+      "RO": 115,
+      "SC": 93,
+      "UC": 6
+    },
+    "contrast": "RO-SC",
+    "ro_only": 25,
+    "comparator_only": 3,
+    "difference": 0.1476510067114094,
+    "exact_p": 2.744048833847046e-05
+  }
+]
